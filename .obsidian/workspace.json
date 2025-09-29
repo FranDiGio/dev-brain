@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Templates/Templates.md",
+                "file": "4- Sources/placeholder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Templates"
+              "title": "placeholder"
             }
           }
         ]
@@ -180,12 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e0f64866eaa9bf9",
+  "active": "1a0898386f26b1b6",
   "lastOpenFiles": [
-    "5- Templates/Source Template.md",
+    "3- Tags/placeholder.md",
+    "4- Sources/placeholder.md",
+    "2- Full Notes/placeholder.md",
     "5- Templates/Full Note Template.md",
-    "5- Templates/Templates.md",
     "5- Templates/Tag Template.md",
+    "5- Templates/Source Template.md",
+    "5- Templates/Templates.md",
     "1- Rough Notes/Browser Environment.md",
     "1- Rough Notes/window (object).md",
     "1- Rough Notes/DOM.md",
