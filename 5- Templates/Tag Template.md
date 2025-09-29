@@ -5,11 +5,6 @@
 
 ## `Key Ideas`
 
-- ##### Main Principles
-
-- ##### Common pitfalls
-
-- ##### Best practices
 
 
 ## `Connected Notes`
