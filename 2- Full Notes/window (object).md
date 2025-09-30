@@ -2,6 +2,7 @@
 ## `Summary`
 
 The `window` is the **global object** in the browser. It represents the **browser window/tab itself** and everything running inside it. It is **not part of core JS**. It’s part of the _browser environment_.
+
 ## `Explanation`
 
 - Almost everything in the browser lives under `window`:
