@@ -1,12 +1,15 @@
 
 ## `Definition`
 
-*What it is in simple terms.*
+%% What it is in simple terms. %%
 
+
+---
 ## `Key Ideas`
 
 
 
+---
 ## `Connected Notes`
 
 
