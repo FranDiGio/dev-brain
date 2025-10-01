@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3- Tags/DevOps.md",
+                "file": "2- Concepts/DevOps.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agility.md",
+                "file": "2- Concepts/Agility.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,7 +35,8 @@
               "title": "Agility"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,29 +195,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e0f64866eaa9bf9",
+  "active": "1a0898386f26b1b6",
   "lastOpenFiles": [
-    "3- Tags/Microservices.md",
-    "3- Tags/Containers.md",
-    "3- Tags/DevOps.md",
-    "2- Full Notes/window (object).md",
-    "Agility.md",
-    "2- Full Notes/ExpressJS.md",
-    "2- Full Notes/REST API.md",
-    "2- Full Notes/REST API Naming Conventions.md",
-    "5- Templates/Templates.md",
-    "2- Full Notes/Browser Environment.md",
-    "5- Templates/Tag Template.md",
+    "2- Concepts/DevOps.md",
+    "2- Concepts/Microservices.md",
+    "2- Concepts/Containers.md",
+    "1- Notes/window (object).md",
+    "2- Concepts/Agility.md",
+    "1- Notes/ExpressJS.md",
+    "1- Notes/REST API.md",
+    "1- Notes/REST API Naming Conventions.md",
+    "3- Templates/Templates.md",
+    "1- Notes/Browser Environment.md",
+    "3- Templates/Tag Template.md",
     "4- Sources/placeholder.md",
     "3- Tags/placeholder.md",
     "2- Full Notes/placeholder.md",
-    "5- Templates/Full Note Template.md",
-    "5- Templates/Source Template.md",
+    "3- Templates/Full Note Template.md",
+    "3- Templates/Source Template.md",
     "1- Rough Notes/DOM.md",
     "4- Sources",
-    "5- Templates",
-    "3- Tags",
-    "2- Full Notes",
+    "3- Templates",
+    "2- Concepts",
+    "1- Notes",
     "1- Rough Notes",
     "Welcome.md"
   ]
