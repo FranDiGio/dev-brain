@@ -7,9 +7,10 @@
 ---
 ## `Key Ideas`
 
+%% Main principles, common pitfalls, best practices %%
 
 
 ---
-## `Connected Notes`
+## `Links`
 
 

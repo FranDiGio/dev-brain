@@ -25,4 +25,3 @@ It works best for projects with **well-defined requirements** and low risk of ch
 
 - [[Application Evolution]]
 - [[Agile]]
-- [[DevOps]]

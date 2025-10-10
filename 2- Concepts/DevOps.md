@@ -20,7 +20,7 @@
 - A programmable platform enabling **continuous integration and delivery (CI/CD)**.
 
 ---
-## `Connected Notes`
+## `Links`
 
 - [[Agility]]
 - [[Continuous Integration]]

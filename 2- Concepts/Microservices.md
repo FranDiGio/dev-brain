@@ -11,6 +11,6 @@
 - Test by breaking/fail fast
 
 
-## `Connected Notes`
+## `Links`
 
 - [[Agility]]

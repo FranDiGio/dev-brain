@@ -3,6 +3,7 @@
 
 Application evolution in software development can be seen across three dimensions: **delivery practices**, **system architecture**, and **infrastructure**. Over time, each has shifted toward greater speed, flexibility, and scalability. Together, these shifts illustrate how development has adapted to handle growing complexity, rapid change, and the need for continuous value delivery.
 
+---
 ## `Key Ideas`
 
 ##### ==Delivery==
@@ -36,7 +37,8 @@ graph LR
   style C fill:#b39ddb,stroke:#333,stroke-width:1px   %% light purple
 ```
 
-## `Connected Notes`
+---
+## `Links`
 
 - [[Waterfall]]
 - [[Agile]]
