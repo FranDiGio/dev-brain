@@ -7,9 +7,10 @@
 ---
 ## `Key Ideas`
 
+%% Detailed breakdown in your own words.  %%
 
 
 ---
-## `Connected Notes`
+## `Links`
 
 

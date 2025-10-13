@@ -5,8 +5,23 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"2- Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12737750
+      }
+    },
+    {
+      "query": "path:\"1- Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3904728
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4019828977761057,
+  "scale": 0.7132754626224485,
   "close": true
 }

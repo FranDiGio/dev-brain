@@ -1,6 +1,6 @@
 ## `Definition`
 
-**DevOps** (short for _Development and Operations_) is a cultural and technical movement that extends Agile principles to the entire software delivery lifecycle. Its goal is to **unify development and operations** through collaboration, automation, and continuous improvement, enabling faster and more reliable delivery of value to users.
+**DevOps** (short for _Development and Operations_) is a cultural and technical movement that extends Agile principles to the entire software delivery lifecycle. DevOps is the practice of development and operation engineers working together during the entire development lifecycle, following Lean and Agile principles that allow them to deliver software in a rapid and continuous manner.
 
 ---
 ## `Key Ideas`
@@ -20,10 +20,9 @@
 - A programmable platform enabling **continuous integration and delivery (CI/CD)**.
 
 ---
-## `Connected Notes`
+## `Links`
 
 - [[Agility]]
 - [[Continuous Integration]]
 - [[Continuous Delivery]]
 - [[Containers]]
-- [[Application Evolution]]

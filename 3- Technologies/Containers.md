@@ -12,7 +12,7 @@ Containers are a lightweight way to **package an application and its dependencie
 - **Fast startup** → Launches in seconds due to lightweight isolation, unlike full virtual machines.
 
 ---
-## `Connected Notes`
+## `Links`
 
 - [[Agility]]
 - [[DevOps]]

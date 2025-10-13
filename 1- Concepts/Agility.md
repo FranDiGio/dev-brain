@@ -14,9 +14,8 @@ Agility is the ability of a development team or organization to **adapt quickly 
 - **Working software as the primary measure of progress**.
 
 ---
-## `Connected Notes`
+## `Links`
 
-- [[Agile Manifesto]]
 - [[Scrum]]
 - [[Kanban]]
 - [[Continuous Integration]]
