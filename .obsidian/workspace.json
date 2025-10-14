@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Git Repo Guidelines"
             }
+          },
+          {
+            "id": "a34c32df6e459810",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "10- Templates/1- Concept Template.md",
+                "bFile": "10- Templates/1- Concept Template.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 1- Concept Template"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78da89b37d2682af",
+  "active": "a34c32df6e459810",
   "lastOpenFiles": [
+    "1- Notes/URL Structure.md",
+    "conflict-files-obsidian-git.md",
+    "Git Repo Guidelines.md",
+    "1- Notes",
     "10- Templates/Templates.md",
     "10- Templates/Note Template.md",
     "10- Templates/3- Technology Template.md",
@@ -205,11 +224,7 @@
     "1- Concepts/Infrastructure.md",
     "1- Concepts/Delivery.md",
     "1- Concepts/Architecture.md",
-    "1- Concepts/Application Evolution.md",
-    "1- Concepts/Agility.md",
-    "conflict-files-obsidian-git.md",
     "2- Concepts",
-    "1- Notes",
     "11- Vault Metadata",
     "9- Maps of Content",
     "8- Standards",
