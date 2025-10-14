@@ -13,6 +13,7 @@ Agility is the ability of a development team or organization to **adapt quickly 
 - **Continuous improvement**: regular reflection (e.g., retrospectives) to refine processes.
 - **Working software as the primary measure of progress**.
 
+
 ---
 ## `Links`
 

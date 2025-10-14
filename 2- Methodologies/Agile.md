@@ -26,6 +26,7 @@ Teams working in Agile cycles deliver small, usable increments of software, gath
 
 Agile also promotes **cross-functional teams**, **self-organization**, and **transparency**, which help create a culture of trust and accountability — principles that later evolved further in DevOps.
 
+
 ---
 ## `Pitfalls`
 
@@ -33,6 +34,7 @@ Agile also promotes **cross-functional teams**, **self-organization**, and **tra
 - Using “responding to change” as an excuse for poor planning.
 - Focusing on rituals (e.g., daily standups) instead of values.
 - Assuming Agile is a fixed method rather than a mindset.
+
 
 ---
 ## `Links`

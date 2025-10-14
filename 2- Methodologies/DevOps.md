@@ -11,6 +11,7 @@
 - **Culture first** → tools support DevOps, but real success comes from openness, trust, and communication.
 - **Automation** → infrastructure as code, CI/CD pipelines, and monitoring at scale.
 
+
 ---
 ## `Requires`
 
@@ -18,6 +19,7 @@
 - Modern application design that supports iteration and resilience.
 - Leveraging automation across build, test, deploy, and monitoring.
 - A programmable platform enabling **continuous integration and delivery (CI/CD)**.
+
 
 ---
 ## `Links`

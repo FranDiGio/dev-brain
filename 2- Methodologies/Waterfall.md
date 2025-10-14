@@ -10,8 +10,9 @@ The Waterfall model views development as a linear process, with progress flowing
 
 It works best for projects with **well-defined requirements** and low risk of change. However, in modern software development, where requirements often evolve, Waterfall is considered too rigid compared to Agile and DevOps practices.
 
+
 ---
-## Pitfalls
+## `Pitfalls`
 
 - **Inflexible to change** → requirements set at the start are difficult and costly to adjust later.
 - **Late testing** → issues are discovered only at the end, increasing risk and cost.
@@ -19,7 +20,9 @@ It works best for projects with **well-defined requirements** and low risk of ch
 - **High failure risk** → if assumptions are wrong, the entire project can derail.
 - **Poor fit for innovation** → doesn’t handle uncertainty or fast iteration well.
 
+
 ---
 ## `Links`
 
 - [[Delivery]]
+

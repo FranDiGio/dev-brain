@@ -18,6 +18,7 @@
     
 - **Cultural shift** → Moves coding from a private task to a social process where communication and openness are core values.
 
+
 ---
 ## `Links`
 

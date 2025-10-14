@@ -4,7 +4,6 @@
 **Application delivery** refers to the **end-to-end process of planning, building, and releasing software solutions** to users or clients. It encompasses how teams organize work, collaborate, and manage risk — ensuring that what’s delivered provides real value, not just completed code. Over time, project delivery has evolved from rigid, linear methods to adaptive, automated, and feedback-driven approaches like Agile and DevOps.
 
 ---
-
 ## `Key Ideas`
 
 - **Holistic process** → covers the entire journey from requirements and design to deployment, feedback, and iteration.
@@ -20,6 +19,7 @@
 - **Cultural change** → modern delivery emphasizes communication, trust, and shared responsibility.
     
 - **Value-driven mindset** → delivering outcomes that serve user and business needs, not just outputs or completed tasks.
+
 
 ---
 ## `Links`

@@ -14,6 +14,7 @@ When you write things like `req.params`, `req.body`, `req.query`, or even `res.j
 
 In short: Express acts as the **bridge** between a client request and the server’s response, giving developers a clean, structured way to build web backends.
 
+
 ---
 ## `Code Example`
 
@@ -39,6 +40,7 @@ app.post('/users', (req, res) => {
 app.listen(3000, () => console.log('Server running on port 3000'));
 
 ```
+
 
 ---
 ## `Links`

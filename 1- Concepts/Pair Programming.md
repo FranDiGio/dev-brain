@@ -19,6 +19,7 @@ This technique improves **code quality**, **team communication**, and **collecti
 
 Pair programming also contributes to **social coding** and **DevOps culture** by breaking isolation, encouraging openness, and creating a shared sense of responsibility.
 
+
 ---
 ## `Pitfalls`
 
@@ -27,6 +28,7 @@ Pair programming also contributes to **social coding** and **DevOps culture** by
 - **Fatigue** or conflict can arise if sessions go too long without breaks.
     
 - May feel **slower** at first — but the long-term quality gains often outweigh the initial time cost.
+
 
 ---
 ## `Links`

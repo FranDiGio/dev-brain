@@ -11,6 +11,7 @@ Containers are a lightweight way to **package an application and its dependencie
 - **Ecosystem enabler** → Foundation for modern DevOps practices, microservices, and cloud-native ecosystems (Kubernetes, Docker Hub, etc.).
 - **Fast startup** → Launches in seconds due to lightweight isolation, unlike full virtual machines.
 
+
 ---
 ## `Links`
 

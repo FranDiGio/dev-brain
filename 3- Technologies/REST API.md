@@ -11,6 +11,7 @@ Representational State Transfer (REST) is an architectural style for designing n
 - Standard HTTP verbs (`GET`, `POST`, `PUT`, `DELETE`)
 - Supports caching and layered architecture
 
+
 ---
 ## `Links`
 

@@ -14,6 +14,7 @@ Relationships are expressed with **nested paths** when a resource belongs to ano
 
 `/me` is a **convention for "the currently authenticated user"** (based on their session or token), so the client doesn’t need to know or pass their own user ID explicitly.
 
+
 ---
 ## `Code Example`
 
@@ -46,6 +47,7 @@ POST   /addCommentToPost/42
 DELETE /removeCommentFromPost?post=42&comment=9
 
 ```
+
 
 ---
 ## `Links`

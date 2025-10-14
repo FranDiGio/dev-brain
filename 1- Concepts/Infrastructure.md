@@ -4,7 +4,6 @@
 **Infrastructure** refers to the **underlying hardware and software resources** that support the operation, deployment, and delivery of applications. It includes servers, networks, storage, and the platforms that allow software to run reliably, securely, and at scale—whether on-premises or in the cloud.
 
 ---
-
 ## `Key Ideas`
 
 - **Foundation of software systems** → everything applications depend on to function (compute, storage, networking).
@@ -20,10 +19,9 @@
 - **Security and governance** → infrastructure must include monitoring, access control, and compliance mechanisms.
     
 - **Shift to cloud** → infrastructure is increasingly defined in software and managed as services (IaaS, PaaS, SaaS).
-    
+
 
 ---
-
 ## `Links`
 
 - [[Application Evolution]]

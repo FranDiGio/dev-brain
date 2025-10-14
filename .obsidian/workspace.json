@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7b95f3a1d2741ad",
+        "id": "3ea039840880ce2e",
         "type": "tabs",
         "children": [
           {
-            "id": "c28a5dfbdc0093a5",
+            "id": "78da89b37d2682af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10- Templates/2- Methodology Template.md",
+                "file": "Git Repo Guidelines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Methodology Template"
-            }
-          },
-          {
-            "id": "3d55f8b2075b18c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2- Concepts/DevOps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DevOps"
-            }
-          },
-          {
-            "id": "f4b2fa69a96cc2b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2- Concepts/Application Evolution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Application Evolution"
+              "title": "Git Repo Guidelines"
             }
           }
         ]
@@ -194,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 514.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,33 +180,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c28a5dfbdc0093a5",
+  "active": "78da89b37d2682af",
   "lastOpenFiles": [
-    "10- Templates/1- Concept Template.md",
+    "10- Templates/Templates.md",
+    "10- Templates/Note Template.md",
+    "10- Templates/3- Technology Template.md",
     "10- Templates/2- Methodology Template.md",
+    "10- Templates/1- Concept Template.md",
+    "5- Languages/window (object).md",
+    "5- Languages/Browser Environment.md",
+    "4- Implementations/ExpressJS.md",
+    "3- Technologies/Virtual Machines.md",
+    "3- Technologies/REST API.md",
+    "3- Technologies/Physical Servers.md",
+    "3- Technologies/Microservices.md",
+    "3- Technologies/Containers.md",
+    "2- Methodologies/Waterfall.md",
+    "2- Methodologies/REST API Design.md",
+    "2- Methodologies/DevOps.md",
+    "2- Methodologies/Agile.md",
+    "2- Concepts/Virtual Machines.md",
+    "1- Concepts/Social Coding.md",
     "1- Concepts/Pair Programming.md",
     "1- Concepts/Infrastructure.md",
     "1- Concepts/Delivery.md",
-    "1- Concepts/Social Coding.md",
-    "3- Technologies/REST API.md",
-    "2- Methodologies/DevOps.md",
-    "1- Concepts/Agility.md",
     "1- Concepts/Architecture.md",
     "1- Concepts/Application Evolution.md",
-    "5- Languages/Browser Environment.md",
-    "3- Technologies/Containers.md",
-    "3- Technologies/Microservices.md",
-    "3- Technologies/Physical Servers.md",
-    "10- Templates/3- Technology Template.md",
-    "10- Templates/Note Template.md",
-    "11- Vault Metadata/Vault Structure.md",
-    "Agile Manifesto.md",
-    "2- Methodologies/Agile.md",
-    "2- Methodologies/Waterfall.md",
-    "3- Technologies/Virtual Machines.md",
-    "11- Vault Metadata/Vault Taxonomy.md",
-    "2- Methodologies/REST API Design.md",
-    "10- Templates/Templates.md",
+    "1- Concepts/Agility.md",
+    "conflict-files-obsidian-git.md",
+    "2- Concepts",
+    "1- Notes",
     "11- Vault Metadata",
     "9- Maps of Content",
     "8- Standards",
@@ -242,9 +217,6 @@
     "6- Practices",
     "5- Languages",
     "4- Implementations",
-    "2- Methodologies",
-    "4- Implementations/ExpressJS.md",
-    "4- Sources",
-    "10- Templates"
+    "2- Methodologies"
   ]
 }
