@@ -191,8 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a34c32df6e459810",
+  "active": "1a0898386f26b1b6",
   "lastOpenFiles": [
+    "3- Technologies/Containers.md",
+    "3- Technologies/Microservices.md",
+    "3- Technologies/Physical Servers.md",
+    "3- Technologies/REST API.md",
     "11- Vault Metadata/Vault Taxonomy.md",
     "10- Templates/Templates.md",
     "10- Templates/4- Implementation Template.md",
@@ -204,7 +208,7 @@
     "10- Templates/5- Language Template.md",
     "10- Templates/2- Methodology Template.md",
     "10- Templates/1- Concept Template.md",
-    "1- Concepts/Architecture.md",
+    "1- Concepts/Software Architecture.md",
     "1- Concepts/Application Evolution.md",
     "1- Concepts/Agility.md",
     "8- Standards/URL Structure.md",
@@ -213,10 +217,6 @@
     "5- Languages/Browser Environment.md",
     "4- Implementations/ExpressJS.md",
     "3- Technologies/Virtual Machines.md",
-    "3- Technologies/REST API.md",
-    "3- Technologies/Physical Servers.md",
-    "3- Technologies/Microservices.md",
-    "3- Technologies/Containers.md",
     "2- Concepts/Virtual Machines.md",
     "Git Repo Guidelines.md",
     "1- Notes",

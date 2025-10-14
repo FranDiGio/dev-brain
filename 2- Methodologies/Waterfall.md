@@ -24,5 +24,5 @@ It works best for projects with **well-defined requirements** and low risk of ch
 ---
 ## `Connected Notes`
 
-- [[Delivery]]
+- [[Software Delivery]]
 

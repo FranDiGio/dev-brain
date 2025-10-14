@@ -39,7 +39,7 @@ Agile also promotes **cross-functional teams**, **self-organization**, and **tra
 ---
 ## `Connected Notes`
 
-- [[Delivery]]
+- [[Software Delivery]]
 - [[Scrum]]
 - [[Kanban]]
 - [[Extreme Programming (XP)]]
