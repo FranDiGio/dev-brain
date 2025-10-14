@@ -50,5 +50,5 @@ DELETE /removeCommentFromPost?post=42&comment=9
 
 
 ---
-## `Links`
+## `Connected Notes`
 

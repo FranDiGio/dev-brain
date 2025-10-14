@@ -28,7 +28,7 @@ Agile also promotes **cross-functional teams**, **self-organization**, and **tra
 
 
 ---
-## `Pitfalls`
+## `Limitations`
 
 - Misinterpreting “no documentation” as “no structure.”
 - Using “responding to change” as an excuse for poor planning.
@@ -37,7 +37,7 @@ Agile also promotes **cross-functional teams**, **self-organization**, and **tra
 
 
 ---
-## `Links`
+## `Connected Notes`
 
 - [[Delivery]]
 - [[Scrum]]

@@ -20,7 +20,7 @@
 
 
 ---
-## `Links`
+## `Connected Notes`
 
 - [[Open Source]]
 - [[DevOps]]

@@ -30,4 +30,4 @@ Think of it like the **big container** that holds the page, history, location, s
 
 
 ---
-## `Links`
+## `Connected Notes`

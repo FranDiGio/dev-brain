@@ -68,5 +68,5 @@ print(response.url)
 # -> https://api.example.com/users?sort=desc&limit=5
 ```
 ---
-## `Links`
+## `Connected Notes`
 

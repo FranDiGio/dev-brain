@@ -12,7 +12,7 @@ It works best for projects with **well-defined requirements** and low risk of ch
 
 
 ---
-## `Pitfalls`
+## `Limitations`
 
 - **Inflexible to change** → requirements set at the start are difficult and costly to adjust later.
 - **Late testing** → issues are discovered only at the end, increasing risk and cost.
@@ -22,7 +22,7 @@ It works best for projects with **well-defined requirements** and low risk of ch
 
 
 ---
-## `Links`
+## `Connected Notes`
 
 - [[Delivery]]
 

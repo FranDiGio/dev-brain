@@ -24,7 +24,7 @@
 
 
 ---
-## `Links`
+## `Connected Notes`
 
 - [[Application Evolution]]
 - [[Monoliths]]

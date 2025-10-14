@@ -20,7 +20,7 @@ A **Virtual Machine (VM)** is a **software-based simulation of a physical comput
 
 
 ---
-## `Links`
+## `Connected Notes`
 
 - [[Infrastructure]]
 - [[Cloud Computing]]

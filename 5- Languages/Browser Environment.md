@@ -22,13 +22,13 @@ The **browser environment** is the runtime context in which JavaScript executes 
 
 
 ---
-## `Pitfalls`
+## `Limitations`
 
 - The **JavaScript language** itself doesn’t define `window`, `document`, `fetch`, etc.
 - These exist because the **browser environment** supplies them. (Outside a browser, like in Node.js, you don’t have `window` or `document`.)
 
 
 ---
-## `Links`
+## `Connected Notes`
 
 

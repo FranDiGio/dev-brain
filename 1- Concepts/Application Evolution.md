@@ -41,7 +41,7 @@ graph LR
 
 
 ---
-## `Links`
+## `Connected Notes`
 
 - [[Delivery]]
 - [[Architecture]]

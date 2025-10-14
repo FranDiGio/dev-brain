@@ -39,7 +39,7 @@ Use **folders for ecosystems**, not for isolated topics.
 - Use code blocks and Mermaid diagrams where visual structure helps.
 
 ---
-## `Links`
+## `Connected Notes`
 
 [[Vault Taxonomy]]
 [[Templates]]

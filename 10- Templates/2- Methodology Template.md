@@ -7,13 +7,14 @@
 ---
 ## `Key Ideas`
 
-%% Core principles, typical workflow or stages, strengths and weaknesses %%
+%% Core principles, typical workflow or stages... %%
 
 
 ---
-## `Pitfalls`
+## `Challenges`
 
+%% Common misconceptions, limits, or trade-offs. %%
 
 
 ---
-## `Links`
+## `Connected Notes`

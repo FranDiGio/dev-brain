@@ -22,7 +22,7 @@
 
 
 ---
-## `Links`
+## `Connected Notes`
 
 - [[Agility]]
 - [[Continuous Integration]]

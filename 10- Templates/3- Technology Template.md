@@ -11,10 +11,11 @@
 
 
 ---
-## `Examples`
+## `Use Cases`
 
+%% When and why this technology is used - practical scenarios, or problems it solves. %%
 
 
 ---
-## `Links`
+## `Connected Notes`
 

@@ -6,17 +6,81 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"1- Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9338051
+      }
+    },
+    {
+      "query": "path:\"2- Methodologies\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7317724
+      }
+    },
+    {
+      "query": "path:\"3- Technologies\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7775663
+      }
+    },
+    {
+      "query": "path:\"4- Implementations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"5- Languages\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15843890
+      }
+    },
+    {
+      "query": "path:\"6- Practices\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9684093
+      }
+    },
+    {
+      "query": "path:\"7- Domains\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15110456
+      }
+    },
+    {
+      "query": "path:\"8- Standards\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12745632
+      }
+    },
+    {
+      "query": "path:\"9- Maps of Content\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10527916
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224485,
+  "linkDistance": 310,
+  "scale": 1.401982897776114,
   "close": true
 }

@@ -21,7 +21,7 @@ Pair programming also contributes to **social coding** and **DevOps culture** by
 
 
 ---
-## `Pitfalls`
+## `Limitations`
 
 - Can be **inefficient** if pairs aren’t balanced in skill or communication style.
     
@@ -31,7 +31,7 @@ Pair programming also contributes to **social coding** and **DevOps culture** by
 
 
 ---
-## `Links`
+## `Connected Notes`
 
 - [[Social Coding]]
 - [[Extreme Programming (XP)]]

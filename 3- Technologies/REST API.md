@@ -13,7 +13,7 @@ Representational State Transfer (REST) is an architectural style for designing n
 
 
 ---
-## `Links`
+## `Connected Notes`
 
 - [[REST API Design]]
 - [[HTTP Methods]]

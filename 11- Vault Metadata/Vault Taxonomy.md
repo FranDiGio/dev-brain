@@ -15,6 +15,6 @@
 | **10- Templates**             | Predefined note formats.                           | Concept Template, Tool Template           |
 | **11- Vault Metadata**        | Notes about the vault’s structure and maintenance. | Vault Structure, Taxonomy, PKM Workflow   |
 
-## `Links`
+## `Connected Notes`
 
 [[Vault Structure]]
