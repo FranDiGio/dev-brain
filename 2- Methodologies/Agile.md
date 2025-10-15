@@ -1,10 +1,10 @@
 
-## `Summary`
+## `Definition`
 
 **Agile** is a **software development methodology and mindset** focused on delivering value through **iteration, collaboration, and adaptability**. It emphasizes responding to change, continuous improvement, and delivering working software frequently instead of following rigid, pre-defined plans.
 
 ---
-## `Explanation`
+## `Key Ideas`
 
 Agile emerged in the early 2000s as a reaction to the limitations of traditional, plan-driven approaches like Waterfall. It is guided by the **Agile Manifesto**, which values:
 
@@ -20,15 +20,14 @@ Agile emerged in the early 2000s as a reaction to the limitations of traditional
 4. **Responding to change over following a plan**  
     Plans are useful, but Agile teams expect change and treat it as an opportunity to improve, not a failure to plan. Flexibility is built into the process.
 
-Agile is not a single method — it’s a **set of principles** that inform frameworks such as [[Scrum]], [[Kanban]], and [[Extreme Programming (XP)]].
 
-Teams working in Agile cycles deliver small, usable increments of software, gather feedback early, and adapt continuously. This promotes faster learning, reduces waste, and keeps projects aligned with user needs.
-
-Agile also promotes **cross-functional teams**, **self-organization**, and **transparency**, which help create a culture of trust and accountability — principles that later evolved further in DevOps.
+- Agile is not a single method — it’s a **set of principles** that inform frameworks such as [[Scrum]], [[Kanban]], and [[Extreme Programming (XP)]].
+	
+- Teams working in Agile cycles deliver small, usable increments of software, gather feedback early, and adapt continuously. This promotes faster learning, reduces waste, and keeps projects aligned with user needs.
 
 
 ---
-## `Limitations`
+## `Challenges`
 
 - Misinterpreting “no documentation” as “no structure.”
 - Using “responding to change” as an excuse for poor planning.

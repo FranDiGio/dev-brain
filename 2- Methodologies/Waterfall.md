@@ -1,24 +1,27 @@
 
-## `Summary`
+## `Definition`
 
-Waterfall is a **sequential software development methodology** where each phase (requirements, design, implementation, testing, deployment, maintenance) is completed before moving on to the next. It was one of the earliest structured approaches to software engineering.
+**Waterfall** is a **linear software development methodology** where progress flows through fixed stages — requirements, design, implementation, testing, deployment, and maintenance — in sequence.
 
----
-## `Explanation`
-
-The Waterfall model views development as a linear process, with progress flowing “downward” like a waterfall. Each phase produces deliverables that serve as input for the next phase. This approach emphasizes upfront planning and documentation, making it easy to manage in theory but often inflexible in practice.
-
-It works best for projects with **well-defined requirements** and low risk of change. However, in modern software development, where requirements often evolve, Waterfall is considered too rigid compared to Agile and DevOps practices.
-
+Each phase must be completed before moving to the next, emphasizing documentation and upfront planning.
 
 ---
-## `Limitations`
+## `Key Ideas`
 
-- **Inflexible to change** → requirements set at the start are difficult and costly to adjust later.
-- **Late testing** → issues are discovered only at the end, increasing risk and cost.
-- **Customer feedback gap** → users don’t see or interact with the product until it’s nearly finished.
-- **High failure risk** → if assumptions are wrong, the entire project can derail.
-- **Poor fit for innovation** → doesn’t handle uncertainty or fast iteration well.
+- Waterfall treats software development as a **predictable, step-by-step process**, ideal for projects with stable requirements and clearly defined outcomes.  
+	
+- It ensures traceability and control through heavy documentation but struggles with adaptability in dynamic environments.  
+	
+- In modern practice, Waterfall remains useful in **regulated or low-uncertainty domains**, though it’s largely replaced by **Agile** and **DevOps** approaches for most software projects.
+
+
+---
+## `Challenges`
+
+- **Rigid structure** → adapting to new requirements mid-project is difficult and costly.
+- **Late feedback loop** → user testing occurs only after full implementation, limiting early validation.
+- **Risk accumulation** → problems surface late, often requiring major rework.
+- **Poor innovation fit** → unsuitable for iterative experimentation or fast-changing markets.
 
 
 ---

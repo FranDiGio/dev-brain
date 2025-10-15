@@ -1,3 +1,4 @@
+[[0- Rough Note]]
 [[1- Concept Template]]
 [[2- Methodology Template]]
 [[3- Technology Template]]

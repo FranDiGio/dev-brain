@@ -1,7 +1,7 @@
 
 ## `Definition`
 
-**System architecture** refers to the **conceptual structure and design of a software system**, defining how its components interact, communicate, and function together to achieve the system’s goals. It provides the blueprint for how applications are organized — from monolithic designs to distributed, service-oriented, and microservice-based systems.
+**Software architecture** refers to the **conceptual structure and design of a software system**, defining how its components interact, communicate, and function together to achieve the system’s goals. It provides the blueprint for how applications are organized — from monolithic designs to distributed, service-oriented, and microservice-based systems.
 
 ---
 ## `Key Ideas`
@@ -28,5 +28,5 @@
 
 - [[Application Evolution]]
 - [[Monoliths]]
-- [[SOA]]
+- [[Service-Oriented Architecture (SOA)]]
 - [[Microservices]]
