@@ -36,5 +36,5 @@
 
 - [[Agility]]
 - [[Continuous Integration]]
-- [[Continuous Delivery]]
+- [[Continuous Delivery (CD)]]
 - [[Containers]]

@@ -37,5 +37,5 @@ These services communicate with each other through lightweight APIs (often REST 
 ## `Connected Notes`
 
 - [[Agility]]
-- [[Cloud-Native Microservices]]
+- [[Cloud-Native]]
 - [[Software Architecture]]
