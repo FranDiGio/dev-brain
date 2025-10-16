@@ -7,8 +7,11 @@ Containers are a lightweight way to **package an application and its dependencie
 ## `Key Ideas`
 
 - **Portability** → Run the same container image on any machine (dev laptop, test server, cloud).
+	
 - **Developer-centric** → Simplifies setup by bundling dependencies; “works on my machine” problems are minimized.
+	
 - **Ecosystem enabler** → Foundation for modern DevOps practices, microservices, and cloud-native ecosystems (Kubernetes, Docker Hub, etc.).
+	
 - **Fast startup** → Launches in seconds due to lightweight isolation, unlike full virtual machines.
 
 

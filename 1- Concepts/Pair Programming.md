@@ -11,7 +11,6 @@ Pair programming is one of the core practices of **Extreme Programming (XP)** an
 - The **Driver** focuses on implementing code — typing, managing syntax, and solving immediate problems.
     
 - The **Navigator** watches from a higher level — reviewing logic, anticipating issues, suggesting improvements, and thinking ahead strategically.
-    
 
 They switch roles frequently to balance workload and ensure shared understanding.
 
@@ -24,7 +23,9 @@ Pair programming also contributes to **social coding** and **DevOps culture** by
 ## `Challenges`
 
 - Can be **inefficient** if pairs aren’t balanced in skill or communication style.
+	
 - **Fatigue** or conflict can arise if sessions go too long without breaks.
+	
 - May feel **slower** at first — but the long-term quality gains often outweigh the initial time cost.
 
 

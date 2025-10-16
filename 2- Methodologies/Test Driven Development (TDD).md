@@ -41,7 +41,5 @@ TDD emphasizes designing code through the lens of tests, shaping both functional
 ## `Connected Notes`
 
 - [[Behavior Driven Development (BDD)]]
-- [[DevOps]]
-- [[Continuous Integration]]
-- [[CI/CD Pipelines]]
+- [[Continuous Integration (CI)]]
 - [[Code Quality]]

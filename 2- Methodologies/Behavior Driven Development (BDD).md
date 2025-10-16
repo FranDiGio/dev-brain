@@ -31,8 +31,11 @@ In practice, BDD defines expected system behavior in clear, human-readable scena
 ## `Challenges`
 
 - **Overlap confusion with TDD:** BDD doesn’t replace TDD — it _starts before it_. Once behaviors are agreed on, TDD handles implementation-level testing.
+	
 - **Maintenance overhead:** Scenarios can grow complex or repetitive if not kept focused on behavior rather than internal logic.
+	
 - **Misuse as documentation only:** Writing Gherkin without automation defeats the purpose — the value lies in _executable_ acceptance criteria.
+	
 - **Learning curve for teams:** It takes time for non-technical stakeholders and developers to learn to write clear, testable scenarios.
 
 

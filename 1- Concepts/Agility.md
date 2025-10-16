@@ -6,7 +6,7 @@ Agility is the ability of a development team or organization to **adapt quickly 
 ---
 ## `Key Ideas`
 
-- **Responding to change over following a rigid plan** (core value from the Agile Manifesto).
+- **Responding to change over following a rigid plan**: (core value from the Agile Manifesto).
 	
 - **Iterative and incremental delivery**: breaking work into small chunks that can be tested and refined.
 	
@@ -23,6 +23,5 @@ Agility is the ability of a development team or organization to **adapt quickly 
 
 - [[Scrum]]
 - [[Kanban]]
-- [[Continuous Integration]]
 - [[Iterative Development]]
 - [[Lean Software Development]]

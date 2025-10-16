@@ -19,8 +19,11 @@ Each phase must be completed before moving to the next, emphasizing documentatio
 ## `Challenges`
 
 - **Rigid structure** → adapting to new requirements mid-project is difficult and costly.
+	
 - **Late feedback loop** → user testing occurs only after full implementation, limiting early validation.
+	
 - **Risk accumulation** → problems surface late, often requiring major rework.
+	
 - **Poor innovation fit** → unsuitable for iterative experimentation or fast-changing markets.
 
 
