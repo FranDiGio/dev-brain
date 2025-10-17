@@ -37,7 +37,6 @@ Its goal is to ensure that software is **always in a deployable state**, allowin
 ## `Connected Notes`
 
 - [[Continuous Integration (CI)]]
-- [[Continuous Deployment]]
 - [[CI-CD Pipelines]]
 - [[DevOps]]
 - [[Automation]]

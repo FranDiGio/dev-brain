@@ -21,7 +21,6 @@ Agility is the ability of a development team or organization to **adapt quickly 
 ---
 ## `Connected Notes`
 
-- [[Scrum]]
-- [[Kanban]]
-- [[Iterative Development]]
-- [[Lean Software Development]]
+- [[Containers]]
+- [[Microservices]]
+- [[DevOps]]
