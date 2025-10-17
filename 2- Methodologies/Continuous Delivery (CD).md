@@ -38,6 +38,4 @@ Its goal is to ensure that software is **always in a deployable state**, allowin
 
 - [[Continuous Integration (CI)]]
 - [[CI-CD Pipelines]]
-- [[DevOps]]
 - [[Automation]]
-- [[Infrastructure as Code (IaC)]]

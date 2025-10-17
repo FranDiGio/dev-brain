@@ -32,6 +32,6 @@ It extends Agile principles across the entire lifecycle — from code to deploym
 ---
 ## `Connected Notes`
 
-- [[Continuous Integration (CI)]]
-- [[Continuous Delivery (CD)]]
+- [[Microservices]]
 - [[Containers]]
+- [[CI-CD Pipelines]]

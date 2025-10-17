@@ -11,10 +11,14 @@
             "id": "60dfff32b996152e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1- Concepts/DevOps Culture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevOps Culture"
             }
           }
         ]
@@ -178,25 +182,28 @@
   },
   "active": "60dfff32b996152e",
   "lastOpenFiles": [
-    "3- Technologies/Infrastructure as Code (IaC).md",
+    "1- Concepts/System Architecture.md",
+    "1- Concepts/Conway's Law.md",
+    "2- Methodologies/Continuous Integration (CI).md",
+    "2- Methodologies/DevOps.md",
     "2- Methodologies/Continuous Delivery (CD).md",
+    "3- Technologies/Infrastructure as Code (IaC).md",
+    "6- Practices/Git Repository Guidelines.md",
+    "10- Templates/6- Practice Template.md",
+    "0- Rough Notes/REST API Design.md",
+    "0- Rough Notes/REST API.md",
     "11- Vault Metadata/Vault Taxonomy.md",
+    "1- Concepts/Design for Failure.md",
     "9- Maps of Content",
     "7- Domains",
     "6- Practices",
     "11- Vault Metadata/Vault Structure.md",
     "4- Implementations/CI-CD Pipelines.md",
-    "2- Methodologies/Continuous Integration (CI).md",
     "2- Methodologies/Test Driven Development (TDD).md",
     "11- Vault Metadata/Images/CI-CD Pipeline.png",
     "10- Templates/4- Implementation Template.md",
-    "1- Concepts/Software Architecture.md",
-    "0- Rough Notes/Design for Failure.md",
     "1- Concepts/Agility.md",
-    "0- Rough Notes/REST API Design.md",
-    "0- Rough Notes/Git Repo Guidelines.md",
     "2- Methodologies/Waterfall.md",
-    "2- Methodologies/DevOps.md",
     "2- Methodologies/Behavior Driven Development (BDD).md",
     "2- Methodologies/Agile.md",
     "2- Methodologies",
@@ -209,8 +216,6 @@
     "4- Implementations",
     "3- Technologies/Microservices.md",
     "3- Technologies/Physical Servers.md",
-    "3- Technologies/Virtual Machines.md",
-    "3- Technologies/Service-Oriented Architecture (SOA).md",
     "3- Technologies",
     "11- Vault Metadata/Images/CI-CD Responsibilities.png",
     "11- Vault Metadata/Images",

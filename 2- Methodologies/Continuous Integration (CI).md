@@ -37,5 +37,4 @@ Each integration triggers an **automated build and test process**, ensuring the 
 ## `Connected Notes`
 
 - [[CI-CD Pipelines]]
-- [[DevOps]]
 - [[Automation]]

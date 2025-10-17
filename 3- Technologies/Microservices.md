@@ -38,4 +38,4 @@ These services communicate with each other through lightweight APIs (often REST 
 
 - [[Agility]]
 - [[Cloud-Native]]
-- [[Software Architecture]]
+- [[System Architecture]]

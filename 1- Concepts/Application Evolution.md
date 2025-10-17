@@ -44,5 +44,5 @@ graph LR
 ## `Connected Notes`
 
 - [[Software Delivery]]
-- [[Software Architecture]]
+- [[System Architecture]]
 - [[Infrastructure]]

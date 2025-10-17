@@ -32,5 +32,5 @@
 ---
 ## `Connected Notes`
 
-- [[Software Architecture]]
+- [[System Architecture]]
 - [[Application Evolution]]

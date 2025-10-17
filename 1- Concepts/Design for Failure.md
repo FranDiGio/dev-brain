@@ -4,7 +4,6 @@
 **Design for Failure** is a **resilience principle** in system architecture that assumes every component will eventually fail — networks will drop, servers will crash, dependencies will become unavailable — and systems should be **designed to recover gracefully**, not merely avoid failure.
 
 ---
-
 ## `Key Ideas`
 
 - **Failure is inevitable** → The goal is resilience, not perfection.
@@ -25,4 +24,4 @@
 - [[Circuit Breaker Pattern]]
 - [[Bulkhead Pattern]]
 - [[Chaos Engineering]]
-- [[Software Architecture]]
+- [[System Architecture]]
