@@ -31,4 +31,3 @@
 ## `Connected Notes`
 
 - [[Infrastructure]]
-- [[Application Evolution]]

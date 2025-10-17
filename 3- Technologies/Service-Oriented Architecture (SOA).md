@@ -33,4 +33,3 @@
 ## `Connected Notes`
 
 - [[System Architecture]]
-- [[Application Evolution]]
