@@ -1,10 +1,10 @@
 
-## `Definition`
+### `Definition`
 
 **Service-Oriented Architecture (SOA)** is a software design style where applications are built as a collection of **interoperable services** that communicate over a network. Each service performs a specific business function and exposes it through standardized interfaces — typically using protocols like **SOAP** or **XML-RPC**.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Service abstraction** → Each service encapsulates a business capability and hides its internal logic from consumers.
     
@@ -18,9 +18,8 @@
     
 - **Predecessor to microservices** → Laid the groundwork for distributed architectures but with heavier tooling and less flexibility.
 
-
 ---
-## `Use Cases`
+### `Use Cases`
 
 - **Enterprise applications** needing integration between diverse systems (e.g., CRM, ERP, billing).
     
@@ -28,9 +27,7 @@
     
 - **Organizations requiring strict governance and version control** over shared business functions.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[System Architecture]]
-- [[Application Evolution]]

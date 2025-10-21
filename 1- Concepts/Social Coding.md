@@ -1,10 +1,10 @@
 
-## `Definition`
+### `Definition`
 
 **Social coding** is the idea that software development is a **collaborative and community-driven activity** rather than an isolated one. It emphasizes sharing, feedback, and collective improvement through online platforms where developers can contribute, review, and learn from each other’s code.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Collaboration at scale** → Developers work together through version control systems like GitHub, GitLab, or Bitbucket.
     
@@ -18,10 +18,9 @@
     
 - **Cultural shift** → Moves coding from a private task to a social process where communication and openness are core values.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Open Source]]
-- [[DevOps]]
+- [[DevOps Culture]]
 - [[Pair Programming]]

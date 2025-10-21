@@ -1,12 +1,12 @@
 
-## `Definition`
+### `Definition`
 
 **Waterfall** is a **linear software development methodology** where progress flows through fixed stages — requirements, design, implementation, testing, deployment, and maintenance — in sequence.
 
 Each phase must be completed before moving to the next, emphasizing documentation and upfront planning.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - Waterfall treats software development as a **predictable, step-by-step process**, ideal for projects with stable requirements and clearly defined outcomes.  
 	
@@ -14,9 +14,8 @@ Each phase must be completed before moving to the next, emphasizing documentatio
 	
 - In modern practice, Waterfall remains useful in **regulated or low-uncertainty domains**, though it’s largely replaced by **Agile** and **DevOps** approaches for most software projects.
 
-
 ---
-## `Challenges`
+### `Challenges`
 
 - **Rigid structure** → adapting to new requirements mid-project is difficult and costly.
 	
@@ -26,9 +25,8 @@ Each phase must be completed before moving to the next, emphasizing documentatio
 	
 - **Poor innovation fit** → unsuitable for iterative experimentation or fast-changing markets.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Software Delivery]]
 

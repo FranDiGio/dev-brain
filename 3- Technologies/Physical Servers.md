@@ -1,10 +1,10 @@
 
-## `Definition`
+### `Definition`
 
 **Physical servers** are dedicated hardware machines that host computing resources directly — CPU, memory, storage, and networking — without a virtualization layer. Each server runs one operating system instance and provides full control over performance, configuration, and security.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Dedicated resources** → No shared infrastructure; each application or workload runs on its own hardware.
     
@@ -16,9 +16,8 @@
     
 - **Predecessor to modern infrastructure** → Virtual machines and containers evolved to solve the rigidity and inefficiency of purely physical environments.
 
-
 ---
-## `Use Cases`
+### `Use Cases`
 
 - **High-performance or latency-sensitive workloads** where direct hardware access is critical (e.g., trading systems, gaming servers).
     
@@ -26,9 +25,7 @@
     
 - **On-premises data centers** where organizations manage their own hardware lifecycle.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Infrastructure]]
-- [[Application Evolution]]

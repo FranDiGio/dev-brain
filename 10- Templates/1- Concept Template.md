@@ -1,16 +1,14 @@
 
-## `Definition`
+### `Definition`
 
 %% What it is in simple terms. %%
 
-
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 %% Detailed breakdown in your own words.  %%
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 

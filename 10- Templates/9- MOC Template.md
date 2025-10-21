@@ -1,45 +1,35 @@
 
-## `Overview`
+### `Overview`
 
 %% What this map covers and how to use it. %%  
 
-
 ---
-## `Core Topics`
+### `Core Topics`
 
 %% The main ideas or pillars of this area. %%  
 
-
-
 ---
-## `Supporting Notes`
+### `Supporting Notes`
 
 %% Secondary or related ideas that connect to the main ones. %%  
 
-
-
 ---
-## `Languages / Frameworks` 
+### `Languages / Frameworks` 
 
 %% (Optional section — use only if this area involves code or frameworks.) %%  
 
-
-
 ---
-## `Tools / Implementations`
+### `Tools / Implementations`
 
 %% (Optional section — for practical tools or platforms.) %%  
 
-
 ---
-## `Domains / Subfields`
+### `Domains / Subfields`
 
 %% (Optional — use for large areas like Cloud, Frontend, etc.) %%  
 
-
-
 ---
-## `Resources`
+### `Resources`
 
 %% External references, guides, or roadmaps. %%  
 

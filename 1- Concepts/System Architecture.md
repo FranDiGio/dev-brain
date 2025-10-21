@@ -1,10 +1,12 @@
 
-## `Definition`
+### `Definition`
 
-**Software architecture** refers to the **conceptual structure and design of a software system**, defining how its components interact, communicate, and function together to achieve the system’s goals. It provides the blueprint for how applications are organized — from monolithic designs to distributed, service-oriented, and microservice-based systems.
+**Software architecture** refers to the **conceptual structure and design of a software system**, defining how its components interact, communicate, and function together to achieve the system’s goals. 
+
+It provides the blueprint for how applications are organized — from monolithic designs to distributed, service-oriented, and microservice-based systems.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Structure and organization** → defines the main components, data flows, and interfaces of a system.
     
@@ -22,9 +24,8 @@
     
 - **Foundation for DevOps and CI/CD** → architecture affects how software can be deployed, monitored, and maintained continuously.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Application Evolution]]
 - [[Monoliths]]

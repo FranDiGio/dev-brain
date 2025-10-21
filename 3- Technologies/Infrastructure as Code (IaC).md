@@ -1,9 +1,9 @@
-## `Definition`
+### `Definition`
 
 **Infrastructure as Code (IaC)** is the practice of **managing and provisioning infrastructure through machine-readable configuration files** instead of manual processes. It treats servers, networks, and environments as **programmable resources**, allowing teams to automate setup, scaling, and maintenance with consistency and speed.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Declarative and versioned** → Infrastructure is defined as code (e.g., YAML, JSON, HCL) and stored in version control systems like Git, ensuring traceability and reproducibility.
     
@@ -17,9 +17,8 @@
     
 - **Tooling ecosystem** → Popular IaC tools include Terraform, Ansible, CloudFormation, and Pulumi.
 
-
 ---
-## `Use Cases`
+### `Use Cases`
 
 - **Automated environment setup** for development, testing, and production.
     
@@ -29,11 +28,9 @@
     
 - **Scalable CI/CD pipelines** — spinning up environments on demand and tearing them down after testing.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Containers]]
-- [[Continuous Delivery (CD)]]
 - [[Automation]]
 - [[Cloud-Native]]

@@ -1,5 +1,5 @@
 
-## `Table`
+### `Table`
 
 | Folder                        | Purpose                                            | Example Notes                             |
 | ----------------------------- | -------------------------------------------------- | ----------------------------------------- |
@@ -15,6 +15,6 @@
 | **10- Templates**             | Predefined note formats.                           | Concept Template, Tool Template           |
 | **11- Vault Metadata**        | Notes about the vault’s structure and maintenance. | Vault Structure, Taxonomy, PKM Workflow   |
 
-## `Connected Notes`
+### `Connected Notes`
 
 [[Vault Structure]]

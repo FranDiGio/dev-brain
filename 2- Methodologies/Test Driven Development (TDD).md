@@ -1,12 +1,12 @@
 
-## `Definition`
+### `Definition`
 
 **Test-Driven Development (TDD)** is a **software development methodology** where tests are written **before** the actual code. The goal is to ensure the software is **built right** — meaning it fulfills its intended behavior with clean, reliable, and maintainable code. 
 
 TDD emphasizes designing code through the lens of tests, shaping both functionality and architecture iteratively.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Test-first approach** → Write a failing test before writing any production code.
     
@@ -24,9 +24,8 @@ TDD emphasizes designing code through the lens of tests, shaping both functional
     
 - **Supports CI/CD** → Continuous testing integrates naturally into DevOps pipelines, enabling reliable deployments.
 
-
 ---
-## `Challenges`
+### `Challenges`
 
 - **Initial slowdown** → Writing tests first takes longer at the start but pays off with fewer regressions later.
     
@@ -36,9 +35,8 @@ TDD emphasizes designing code through the lens of tests, shaping both functional
     
 - **Cultural resistance** → Teams new to TDD often struggle to adopt the discipline of writing tests before code.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Behavior Driven Development (BDD)]]
 - [[Continuous Integration (CI)]]

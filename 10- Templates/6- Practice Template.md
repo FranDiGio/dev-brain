@@ -1,22 +1,19 @@
 
-## `Principle`
+### `Principle`
 
 %% The core belief or reason this practice exists. %%
 
-
 ---
-## `Applications`
+### `Applications`
 
 %% Where and how this practice is applied in development. %%
 
-
 ---
-## `Challenges`
+### `Challenges`
 
 %% Common misconceptions, limits, or trade-offs. %%
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 

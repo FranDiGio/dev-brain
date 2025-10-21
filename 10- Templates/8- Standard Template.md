@@ -1,21 +1,18 @@
 
-## `Definition`
+### `Definition`
 
 %% What the standard defines or establishes. %%
 
-
 ---
-## `Purpose`
+### `Purpose`
 
 %% Why it exists and what problems it solves. %%
 
-
 ---
-## `Structure`
+### `Structure`
 
 %% Main components, layers, or conventions it enforces. %%
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 

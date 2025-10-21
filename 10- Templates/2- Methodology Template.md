@@ -1,20 +1,17 @@
 
-## `Definition`
+### `Definition`
 
 %% What it is in simple terms. %%
 
-
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 %% Core principles, typical workflow or stages... %%
 
-
 ---
-## `Challenges`
+### `Challenges`
 
 %% Common misconceptions, limits, or trade-offs. %%
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`

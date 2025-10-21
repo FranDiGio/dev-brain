@@ -1,10 +1,12 @@
 
-## `Definition`
+### `Definition`
 
-**Pair programming** is a collaborative development practice where **two programmers work together at one workstation**, sharing a single codebase in real time. One writes the code (the _Driver_) while the other reviews and guides (the _Navigator_), switching roles regularly to improve code quality and knowledge sharing.
+**Pair programming** is a collaborative development practice where **two programmers work together at one workstation**, sharing a single codebase in real time. 
+
+One writes the code (the _Driver_) while the other reviews and guides (the _Navigator_), switching roles regularly to improve code quality and knowledge sharing.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 Pair programming is one of the core practices of **Extreme Programming (XP)** and a powerful method for improving both code and collaboration.
 
@@ -18,9 +20,8 @@ This technique improves **code quality**, **team communication**, and **collecti
 
 Pair programming also contributes to **social coding** and **DevOps culture** by breaking isolation, encouraging openness, and creating a shared sense of responsibility.
 
-
 ---
-## `Challenges`
+### `Challenges`
 
 - Can be **inefficient** if pairs aren’t balanced in skill or communication style.
 	
@@ -28,9 +29,8 @@ Pair programming also contributes to **social coding** and **DevOps culture** by
 	
 - May feel **slower** at first — but the long-term quality gains often outweigh the initial time cost.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Social Coding]]
 - [[Extreme Programming (XP)]]
