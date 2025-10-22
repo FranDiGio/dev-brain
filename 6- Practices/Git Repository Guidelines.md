@@ -1,11 +1,11 @@
-## `Principle`
+### `Principle`
 
 A **clean and modular Git workflow** ensures clarity, accountability, and maintainability in collaborative development. Each microservice or component should have its own repository, and branches should reflect focused, short-lived units of work.  
 
 This practice promotes parallel development, reduces merge conflicts, and keeps the main branch stable for integration and delivery.
 
 ---
-## `Applications`
+### `Applications`
 
 - **One repo per service or component** → Keeps ownership clear and reduces dependency overhead; avoids large, complex monorepos.
     
@@ -29,7 +29,7 @@ This practice promotes parallel development, reduces merge conflicts, and keeps 
 
 
 ---
-## `Challenges`
+### `Challenges`
 
 - **Monorepos vs. Polyrepos** → While monorepos simplify dependency management, they can slow builds and complicate ownership for large teams.
     
@@ -42,7 +42,7 @@ This practice promotes parallel development, reduces merge conflicts, and keeps 
 
 ---
 
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Git]]
 - [[Branching Strategies]]

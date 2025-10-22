@@ -1,10 +1,10 @@
 
-## `Definition`
+### `Definition`
 
 A **Virtual Machine (VM)** is a **software-based simulation of a physical computer** that runs its own operating system and applications independently of the host machine. Multiple VMs can share the same physical hardware through a hypervisor, which manages and isolates them.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Hardware abstraction** → A VM emulates a full hardware system (CPU, memory, storage) using software.
     
@@ -18,10 +18,8 @@ A **Virtual Machine (VM)** is a **software-based simulation of a physical comput
     
 - **Step in evolution** → Represents the bridge between physical servers and containerized workloads in modern infrastructure.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Infrastructure]]
-- [[Cloud Computing]]
 - [[Hypervisor]]

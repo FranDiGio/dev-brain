@@ -1,10 +1,10 @@
 
-## `Definition`
+### `Definition`
 
 Agility is the ability of a development team or organization to **adapt quickly and effectively to change**—whether in requirements, priorities, technologies, or customer needs—while still delivering working software that provides value.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Responding to change over following a rigid plan**: (core value from the Agile Manifesto).
 	
@@ -19,7 +19,7 @@ Agility is the ability of a development team or organization to **adapt quickly 
 - **Working software as the primary measure of progress**.
 
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Containers]]
 - [[Microservices]]

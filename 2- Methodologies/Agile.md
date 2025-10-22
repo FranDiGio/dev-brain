@@ -1,10 +1,10 @@
 
-## `Definition`
+### `Definition`
 
 **Agile** is a **software development methodology and mindset** focused on delivering value through **iteration, collaboration, and adaptability**. It emphasizes responding to change, continuous improvement, and delivering working software frequently instead of following rigid, pre-defined plans.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 Agile emerged in the early 2000s as a reaction to the limitations of traditional, plan-driven approaches like Waterfall. It is guided by the **Agile Manifesto**, which values:
 
@@ -25,18 +25,16 @@ Agile emerged in the early 2000s as a reaction to the limitations of traditional
 	
 - Teams working in Agile cycles deliver small, usable increments of software, gather feedback early, and adapt continuously. This promotes faster learning, reduces waste, and keeps projects aligned with user needs.
 
-
 ---
-## `Challenges`
+### `Challenges`
 
 - Misinterpreting “no documentation” as “no structure.”
 - Using “responding to change” as an excuse for poor planning.
 - Focusing on rituals (e.g., daily standups) instead of values.
 - Assuming Agile is a fixed method rather than a mindset.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Software Delivery]]
 - [[Scrum]]

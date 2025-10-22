@@ -1,10 +1,10 @@
 
-## `Summary`
+### `Summary`
 
 A **URL (Uniform Resource Locator)** specifies the address of a resource on the web and defines how to access it using HTTP/HTTPS. It is made up of structured parts that together describe the location and optional instructions (parameters, fragments).
 
 ---
-## `Explanation`
+### `Explanation`
 
 A URL has several components, each serving a specific role:
 
@@ -34,7 +34,7 @@ A URL has several components, each serving a specific role:
 
 
 ---
-## `Code Example`
+### `Code Example`
 
 ```bash
 https://example.com:443/users/profile?sort=asc&limit=20#details
@@ -68,5 +68,5 @@ print(response.url)
 # -> https://api.example.com/users?sort=desc&limit=5
 ```
 ---
-## `Connected Notes`
+### `Connected Notes`
 

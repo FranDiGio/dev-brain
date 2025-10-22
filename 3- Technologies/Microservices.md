@@ -1,12 +1,12 @@
 
-## `Definition`
+### `Definition`
 
 **Microservices** are an architectural style where an application is built as a collection of **small, independent services**, each focused on a single business capability.  
 
 These services communicate with each other through lightweight APIs (often REST or messaging), allowing teams to develop, deploy, and scale them independently.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Independence:** Each service is developed, deployed, and maintained separately — enabling faster iteration and flexibility.
     
@@ -22,7 +22,7 @@ These services communicate with each other through lightweight APIs (often REST 
 
 
 ---
-## `Use Cases`
+### `Use Cases`
 
 - **Evolving from monoliths:** Ideal for organizations that outgrow monolithic architectures and need agility in deploying or scaling features.
     
@@ -34,7 +34,7 @@ These services communicate with each other through lightweight APIs (often REST 
 
 
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Agility]]
 - [[Cloud-Native]]

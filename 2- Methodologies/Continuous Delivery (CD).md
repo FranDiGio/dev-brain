@@ -1,12 +1,12 @@
 
-## `Definition`
+### `Definition`
 
 **Continuous Delivery (CD)** is a **software delivery methodology** that builds upon Continuous Integration (CI) by automating the process of **deploying code to production-like environments** once it passes all quality checks.  
 
 Its goal is to ensure that software is **always in a deployable state**, allowing releases to happen frequently, safely, and predictably.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Build quality in** → Each change passes through automated tests, code reviews, and CI/CD pipelines to maintain a stable release candidate.
     
@@ -22,7 +22,7 @@ Its goal is to ensure that software is **always in a deployable state**, allowin
 
 
 ---
-## `Challenges`
+### `Challenges`
 
 - **Cultural alignment** → Requires trust, collaboration, and a DevOps mindset; without it, automation alone won’t improve delivery.
     
@@ -34,7 +34,7 @@ Its goal is to ensure that software is **always in a deployable state**, allowin
 
 
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Continuous Integration (CI)]]
 - [[CI-CD Pipelines]]

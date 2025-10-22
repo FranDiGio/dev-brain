@@ -1,12 +1,12 @@
 
-## `Definition`
+### `Definition`
 
 A **Minimum Viable Product (MVP)** is the simplest **complete version** of a product that allows a team to **test a key hypothesis** about its value or usability with real users.  It’s not a _barely working_ prototype or an unfinished “first version,” but a **focused experiment** built to validate assumptions about customer needs before committing to full-scale development.  
 
 In software, this often means delivering a _functional but minimal_ app — one that does only what’s essential to test whether users find it valuable — rather than building a feature-rich or polished product.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Purpose over perfection** → The goal of an MVP is to _learn_, not to impress. You’re not shipping something incomplete; you’re shipping something _intentionally limited_ that reveals whether your idea actually solves a problem.
     
@@ -18,9 +18,8 @@ In software, this often means delivering a _functional but minimal_ app — one 
     
 - **Ties to DevOps and Agile** → Continuous integration and short iteration cycles make MVPs easy to build, deploy, measure, and pivot upon quickly.
 
-
 ---
-## `Challenges`
+### `Challenges`
 
 - **Building too little or too much** → A common trap is making an MVP so minimal it’s meaningless, or so large it defeats the purpose. The balance is delivering _a real experience_ that tests value without overbuilding.
     
@@ -32,6 +31,5 @@ In software, this often means delivering a _functional but minimal_ app — one 
     
 - **Scaling after validation** → Once the MVP succeeds, re-engineering it for production quality is a common next hurdle.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`

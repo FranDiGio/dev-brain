@@ -1,5 +1,5 @@
 
-## `Definition`
+### `Definition`
 
 **CI/CD Pipelines** are **automated workflows** that connect Continuous Integration (CI) and Continuous Delivery (CD) processes, enabling teams to build, test, and deploy software automatically. They ensure code changes move through a consistent, repeatable sequence from development to production with minimal manual intervention.
 
@@ -7,7 +7,7 @@
 ![[CI-CD Responsibilities.png]]
 
 ---
-## `Key Capabilities`
+### `Key Capabilities`
 
 - **Automated builds and tests** → Every commit triggers validation to detect issues early.
     
@@ -19,9 +19,8 @@
     
 - **Rollback and recovery** → Pipelines can automatically revert failed deployments to maintain stability.
 
-
 ---
-## `Usage Basics`
+### `Usage Basics`
 
 - Define pipeline stages in a configuration file (e.g., `.yaml`, `.yml`, or `.json`).
     
@@ -48,9 +47,8 @@ deploy:
   when: manual
 ```
 
-
 ---
-## `Challenges`
+### `Challenges`
 
 - **Pipeline complexity** → Large pipelines with many dependencies can be hard to maintain.
     
@@ -60,9 +58,8 @@ deploy:
     
 - **Security and secrets management** → Pipelines must handle credentials safely during automated deployments.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Infrastructure as Code (IaC)]]
 - [[Continuous Integration (CI)]]

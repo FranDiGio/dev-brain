@@ -1,10 +1,10 @@
 
-## `Definition`
+### `Definition`
 
 Containers are a lightweight way to **package an application and its dependencies into a single, portable unit** that can run consistently across different environments. Unlike virtual machines, containers share the host operating system’s kernel, which makes them more efficient and faster to start.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Portability** → Run the same container image on any machine (dev laptop, test server, cloud).
 	
@@ -14,9 +14,8 @@ Containers are a lightweight way to **package an application and its dependencie
 	
 - **Fast startup** → Launches in seconds due to lightweight isolation, unlike full virtual machines.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[Agility]]
 - [[DevOps]]

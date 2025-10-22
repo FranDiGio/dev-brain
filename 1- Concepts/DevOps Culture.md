@@ -1,12 +1,12 @@
 
-## `Definition`
+### `Definition`
 
 **DevOps Culture** is a shared mindset that unites **development** and **operations** teams around a common goal: delivering software quickly, reliably, and continuously.
 
 It replaces traditional silos — where devs focus on innovation and ops on stability — with **shared ownership, collaboration, and accountability** throughout the entire delivery lifecycle.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Shared ownership** → Everyone is responsible for the product’s success and reliability — no more “dev’s fault” vs “ops’ fault.”
     
@@ -24,9 +24,8 @@ It replaces traditional silos — where devs focus on innovation and ops on stab
     
 - **Mindset contrast** → Traditional enterprises see change as risky and slow; DevOps treats change as continuous, expected, and manageable.
 
-
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[DevOps]]
 - [[Agility]]

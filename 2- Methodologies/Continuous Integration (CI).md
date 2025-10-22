@@ -1,12 +1,12 @@
 
-## `Definition`
+### `Definition`
 
 **Continuous Integration (CI)** is a **software development methodology** where developers frequently integrate code changes into a shared repository. 
 
 Each integration triggers an **automated build and test process**, ensuring the codebase remains functional and stable. The goal is to detect errors early, reduce merge conflicts, and maintain a deployable codebase at all times.
 
 ---
-## `Key Ideas`
+### `Key Ideas`
 
 - **Frequent integrations** → Developers commit small, incremental changes to the main branch multiple times per day.
     
@@ -22,7 +22,7 @@ Each integration triggers an **automated build and test process**, ensuring the 
 
 
 ---
-## `Challenges`
+### `Challenges`
 
 - **Misunderstanding CI vs CD** → CI focuses on integrating and testing code; CD extends that to automated deployments.
     
@@ -34,7 +34,7 @@ Each integration triggers an **automated build and test process**, ensuring the 
 
 
 ---
-## `Connected Notes`
+### `Connected Notes`
 
 - [[CI-CD Pipelines]]
 - [[Automation]]
