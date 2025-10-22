@@ -25,7 +25,7 @@
 
 - [[Application Evolution]]
 - [[Physical Servers]]
-- [[Virtual Machines]]
+- [[Virtual Machines (VMs)]]
 - [[Containers]]
 - [[Cloud Computing]]
 - [[Infrastructure as Code (IaC)]]

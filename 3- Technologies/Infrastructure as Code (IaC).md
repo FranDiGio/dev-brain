@@ -32,5 +32,4 @@
 ### `Connected Notes`
 
 - [[Containers]]
-- [[Automation]]
 - [[Cloud-Native]]

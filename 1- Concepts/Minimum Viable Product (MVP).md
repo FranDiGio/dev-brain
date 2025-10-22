@@ -33,3 +33,5 @@ In software, this often means delivering a _functional but minimal_ app — one 
 
 ---
 ### `Connected Notes`
+
+[[DevOps Culture]]
