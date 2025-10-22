@@ -33,6 +33,8 @@
           }
         ],
         "currentTab": 1
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 300
   },
   "right": {
     "id": "5bf29ceefeac59d1",
@@ -177,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,6 +225,9 @@
     "Untitled.base",
     "5- Languages/JS",
     "8- References & Standards",
+    "5- Languages",
+    "4- Implementations",
+    "3- Technologies",
     "11- Vault Metadata/Images/CI-CD Responsibilities.png",
     "11- Vault Metadata/Images/CI-CD Pipeline.png",
     "11- Vault Metadata/Images/Pasted image 20251016102012.png",

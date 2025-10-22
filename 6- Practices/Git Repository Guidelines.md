@@ -46,4 +46,3 @@ This practice promotes parallel development, reduces merge conflicts, and keeps 
 
 - [[Git]]
 - [[Branching Strategies]]
-- [[DevOps Culture]]
