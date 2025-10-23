@@ -18,3 +18,4 @@ Virtual machines that run on **multi-tenant hardware**, where physical servers a
 ### `Connected Notes`
 
 - [[Cloud VM Deployment Types]]
+- [[On-Demand VM Instances]]

@@ -18,4 +18,4 @@ You can start, stop, or terminate them anytime and pay only for the compute time
 ---
 ### `Connected Notes`
 
-- [[Cloud VM Deployment Types]]
+- [[Shared VM Instances]]

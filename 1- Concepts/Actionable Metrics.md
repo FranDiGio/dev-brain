@@ -27,9 +27,7 @@ Unlike vanity metrics (which look impressive but don’t drive change), actionab
     
 - **Alignment with business goals** → Metrics should connect to outcomes that deliver customer value, not internal vanity.
 
-
 ---
-
 ## `Connected Notes`
 
 - [[DevOps Culture]]
