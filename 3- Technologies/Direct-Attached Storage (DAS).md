@@ -32,4 +32,4 @@ It’s the simplest and fastest way to access data locally, as the compute node 
 ---
 ### `Connected Notes`
 
-[[Cloud Storage]]
+- [[Storage Variants]]
