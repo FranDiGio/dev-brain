@@ -40,4 +40,3 @@ TDD emphasizes designing code through the lens of tests, shaping both functional
 
 - [[Behavior Driven Development (BDD)]]
 - [[Continuous Integration (CI)]]
-- [[Code Quality]]

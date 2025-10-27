@@ -20,7 +20,6 @@ These services communicate with each other through lightweight APIs (often REST 
     
 - **Operational complexity:** While flexible, microservices require orchestration, monitoring, and automation (often through containers and DevOps practices).
 
-
 ---
 ### `Use Cases`
 
@@ -32,10 +31,9 @@ These services communicate with each other through lightweight APIs (often REST 
     
 - **Cloud-native applications:** Pairs naturally with containers, Kubernetes, and other cloud technologies for dynamic scaling and resilience.
 
-
 ---
 ### `Connected Notes`
 
 - [[Agility]]
-- [[Cloud-Native]]
+- [[Cloud-Native Apps]]
 - [[System Architecture]]

@@ -31,6 +31,16 @@ graph TD
 
 ```
 
+Note: Some learning materials treat **DAS** as a “fourth type” just to highlight the **physical vs. networked** difference — especially when introducing students to how storage evolved:
+
+- **DAS →** single machine, local disks (old-school)
+    
+- **NAS →** file storage over network
+    
+- **SAN →** block storage over network
+    
+- **Object Storage →** modern HTTP-based storage
+
 ---
 ### `Connected Notes`
 

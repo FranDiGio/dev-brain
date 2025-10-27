@@ -31,5 +31,6 @@
 ---
 ### `Connected Notes`
 
+- [[Infrastructure]]
 - [[Containers]]
-- [[Cloud-Native]]
+- [[CI-CD Pipelines]]

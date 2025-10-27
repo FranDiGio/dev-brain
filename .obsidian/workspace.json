@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "d6a7b0c7f73b4f4b",
+    "id": "4b1ce7a722bc855a",
     "type": "split",
     "children": [
       {
-        "id": "b33214cb82d7e219",
+        "id": "55f5c189a0b085c7",
         "type": "tabs",
         "children": [
           {
-            "id": "60dfff32b996152e",
+            "id": "a783e47558340308",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e814928a6ff3b0b9",
+    "id": "7b7a3d118f212919",
     "type": "split",
     "children": [
       {
-        "id": "c099c23d8e1847e5",
+        "id": "0413a4a6e21fa3fa",
         "type": "tabs",
         "children": [
           {
-            "id": "1a0898386f26b1b6",
+            "id": "d5dfac3cfbff5583",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "a3be5c4111beb877",
+            "id": "3bf8b7489d11f898",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "S3",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "d31fd11689bd4b82",
+            "id": "50df03b4fdf2b820",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "5bf29ceefeac59d1",
+    "id": "d29271e303e2369e",
     "type": "split",
     "children": [
       {
-        "id": "6c23218df39153da",
+        "id": "4082a6d3c25b9507",
         "type": "tabs",
         "children": [
           {
-            "id": "ac6670760663cbb0",
+            "id": "66304ea19c0a2d9e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "cefe0e067ff78a9f",
+            "id": "3a0defa0e78080d5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ef98d3a65c39808f",
+            "id": "7ca6d2b77d6720b4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,22 +131,21 @@
             }
           },
           {
-            "id": "a80be70048657930",
+            "id": "10c9439c03edd835",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
-            "id": "a8194946c25a73e0",
+            "id": "9124e8b6bfe8f41d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -162,59 +159,52 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60dfff32b996152e",
+  "active": "a783e47558340308",
   "lastOpenFiles": [
-    "0- Rough Notes/ExpressJS.md",
-    "0- Rough Notes/REST API Design.md",
-    "3- Technologies/Bucket.md",
-    "8- References & Standards/S3 API (Simple Storage Service).md",
-    "10- Templates/8- Standard Template.md",
-    "3- Technologies/Cloud-Native Storage.md",
-    "1- Concepts/Cloud/Cloud Storage.md",
-    "3- Technologies/Object Storage.md",
-    "11- Vault Metadata/Vault Taxonomy.md",
-    "1- Concepts/Storage Variants.md",
-    "1- Concepts/Storage Architecture Layers.md",
-    "3- Technologies/Direct-Attached Storage (DAS).md",
-    "3- Technologies/Block Storage.md",
-    "3- Technologies/File Storage.md",
-    "1- Concepts/Application Evolution.md",
-    "10- Templates/2- Methodology Template.md",
+    "1- Concepts/Serverless Computing.md",
+    "3- Technologies/Infrastructure as Code (IaC).md",
+    "1- Concepts/Cloud/Cloud-Native Apps.md",
+    "2- Methodologies/Test Driven Development (TDD).md",
     "10- Templates/1- Concept Template.md",
-    "10- Templates/3- Technology Template.md",
     "10- Templates/0- Rough Note.md",
-    "1- Concepts/Actionable Metrics.md",
-    "1- Concepts/Cloud",
-    "1- Concepts/On-Demand VM Instances.md",
-    "1- Concepts/Cloud/Cloud VM Deployment Types.md",
-    "1- Concepts/Shared VM Instances.md",
-    "1- Concepts/Conway's Law.md",
-    "1- Concepts/Cloud/Cloud-Native.md",
-    "1- Concepts/Cloud/Cloud Service Models.md",
-    "9- Maps of Content",
-    "8- References & Standards/OSI",
-    "5- Languages/JS",
-    "9- Maps of Content",
-    "7- Domains",
-    "6- Practices",
-    "11- Vault Metadata/Images/CI-CD Pipeline.png",
-    "2- Methodologies",
-    "8- References & Standards",
+    "3- Technologies/Function as a Service (FaaS).md",
+    "3- Technologies/Microservices.md",
+    "3- Technologies/Content Delivery Network (CDN).md",
+    "3- Technologies/Direct-Attached Storage (DAS).md",
+    "10- Templates/3- Technology Template.md",
+    "11- Vault Metadata/Vault Taxonomy.md",
+    "0- Rough Notes",
+    "9- MOCs",
     "5- Languages",
-    "11- Vault Metadata/Images/CI-CD Responsibilities.png"
+    "11- Vault Metadata/Vault Structure.md",
+    "Untitled.canvas",
+    "1- Concepts/Storage Architecture Layers.md",
+    "1- Concepts/Storage Variants.md",
+    "1- Concepts/Cloud/Cloud Storage.md",
+    "8- References & Standards/S3 API (Simple Storage Service).md",
+    "3- Technologies/Object Storage.md",
+    "3- Technologies/File Storage.md",
+    "3- Technologies/Cloud-Native Storage.md",
+    "3- Technologies/Bucket.md",
+    "3- Technologies/Block Storage.md",
+    "1- Concepts/Cloud/Composite Multicloud.md",
+    "1- Concepts/Cloud/Virtual Private Cloud (VPC).md",
+    "1- Concepts/Cloud/Hybrid Multicloud.md",
+    "1- Concepts/Cloud/Hybrid Monocloud.md",
+    "1- Concepts/Cloud"
   ]
 }

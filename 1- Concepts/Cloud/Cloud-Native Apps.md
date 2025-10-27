@@ -23,8 +23,8 @@ It’s not just about _where_ applications run, but _how_ they’re designed —
 - **Common misconception:** Cloud-native doesn’t mean simply “hosted on the cloud.” It means being _architected for_ the cloud.
 
 ---
-
 ### `Connected Notes`
 
+- [[Cloud Computing]]
 - [[Microservices]]
 - [[Containers]]

@@ -31,4 +31,4 @@ Instead of owning physical hardware or infrastructure, users access scalable and
 
 - [[Cloud Service Models]]
 - [[Cloud Deployment Models]]
-- [[Cloud-Native]]
+- [[Cloud-Native Apps]]
