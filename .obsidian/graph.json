@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"1- Concepts\"  ",
@@ -25,7 +25,7 @@
       "query": "path:\"3- Technologies\"  ",
       "color": {
         "a": 1,
-        "rgb": 5408992
+        "rgb": 9550589
       }
     },
     {
@@ -64,7 +64,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.02404844290657,
@@ -73,7 +73,7 @@
   "centerStrength": 0.583910034602076,
   "repelStrength": 15.8996539792388,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.7132754626224869,
+  "linkDistance": 213,
+  "scale": 0.713275462622495,
   "close": true
 }
