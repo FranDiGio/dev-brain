@@ -29,6 +29,27 @@
     - **Increment:** The working, potentially shippable product result.
 
 ---
+### `Challenges`
+
+- **Role Confusion:**  
+    Misunderstanding or overlapping of Product Owner, Scrum Master, and Developer responsibilities weakens accountability.
+    
+- **Scope Creep:**  
+    Frequent backlog changes or unclear priorities disrupt sprint focus and delivery rhythm.
+    
+- **Over-Formalization:**  
+    Treating Scrum as rigid or bureaucratic instead of an adaptive framework defeats its purpose.
+    
+- **Poor Sprint Discipline:**  
+    Teams skipping retrospectives, reviews, or failing to timebox sprints lose transparency and rhythm.
+    
+- **Stakeholder Misalignment:**  
+    Lack of engagement or unrealistic expectations from stakeholders reduces feedback quality.
+    
+- **Team Immaturity:**  
+    Inexperienced teams may struggle with self-organization, estimating effort, or adhering to Agile values.
+
+---
 ### `Connected Notes`
 
 - [[Agile]]

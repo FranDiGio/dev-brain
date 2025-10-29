@@ -20,20 +20,21 @@
             }
           },
           {
-            "id": "1642f4417fdbf6ab",
+            "id": "670e923455553464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2- Methodologies/Scrum.md",
+                "file": "1- Concepts/Water-Scrum-Fall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scrum"
+              "title": "Water-Scrum-Fall"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,9 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5dfac3cfbff5583",
+  "active": "670e923455553464",
   "lastOpenFiles": [
+    "1- Concepts/Water-Scrum-Fall.md",
+    "1- Concepts/Conway's Law.md",
     "2- Methodologies/Scrum.md",
+    "10- Templates/2- Methodology Template.md",
+    "2- Methodologies/Kanban.md",
     "3- Technologies/Containers.md",
     "3- Technologies/Microservices.md",
     "1- Concepts/DevOps Culture.md",
@@ -203,11 +208,9 @@
     "1- Concepts/Scrum/Product Owner.md",
     "3- Technologies/Content Delivery Network (CDN).md",
     "7- Domains/Cloud Computing.md",
-    "2- Methodologies/Kanban.md",
     "1- Concepts/Agile Culture.md",
     "2- Methodologies/Extreme Programming (XP).md",
     "2- Methodologies/Agile.md",
-    "10- Templates/2- Methodology Template.md",
     "1- Concepts/Cloud/Cloud Monitoring.md",
     "1- Concepts/Zero Trust.md",
     "1- Concepts/Virtualization.md",
@@ -216,8 +219,6 @@
     "1- Concepts/System Architecture.md",
     "1- Concepts/Storage Variants.md",
     "1- Concepts/Standard Password Policy.md",
-    "1- Concepts/Software Delivery.md",
-    "1- Concepts/Dedicated VM Hosts.md",
     "8- References & Standards/Identity Provider Standards",
     "0- Rough Notes",
     "9- MOCs",
