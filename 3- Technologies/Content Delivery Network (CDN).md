@@ -47,9 +47,4 @@ It works as a **middle layer between the client and the origin server**, caching
 ---
 ### `Connected Notes`
 
-- [Caching]
-- [DNS]
-- [Edge Computing]
-- [Cloud Storage]
-- [Networking Fundamentals]
-- [Web Architecture Layers]
+- [[Cloud Network]]

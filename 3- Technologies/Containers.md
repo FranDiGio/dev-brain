@@ -17,7 +17,6 @@ Containers are a lightweight way to **package an application and its dependencie
 ---
 ### `Connected Notes`
 
-- [[Agility]]
 - [[DevOps]]
 - [[Docker]]
 - [[Kubernetes]]
