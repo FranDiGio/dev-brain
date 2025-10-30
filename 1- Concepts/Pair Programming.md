@@ -33,4 +33,3 @@ Pair programming also contributes to **social coding** and **DevOps culture** by
 ### `Connected Notes`
 
 - [[Social Coding]]
-- [[Extreme Programming (XP)]]

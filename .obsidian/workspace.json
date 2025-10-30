@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4b1ce7a722bc855a",
+    "id": "d6a7b0c7f73b4f4b",
     "type": "split",
     "children": [
       {
-        "id": "55f5c189a0b085c7",
+        "id": "c92e5eb4eea84974",
         "type": "tabs",
         "children": [
           {
-            "id": "7332679c7c0db0cb",
+            "id": "03dfe368836a1e5c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,37 +18,22 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "670e923455553464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/Water-Scrum-Fall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Water-Scrum-Fall"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7b7a3d118f212919",
+    "id": "e814928a6ff3b0b9",
     "type": "split",
     "children": [
       {
-        "id": "0413a4a6e21fa3fa",
+        "id": "c099c23d8e1847e5",
         "type": "tabs",
         "children": [
           {
-            "id": "d5dfac3cfbff5583",
+            "id": "1a0898386f26b1b6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,12 +46,12 @@
             }
           },
           {
-            "id": "3bf8b7489d11f898",
+            "id": "a3be5c4111beb877",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "S3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +63,7 @@
             }
           },
           {
-            "id": "50df03b4fdf2b820",
+            "id": "d31fd11689bd4b82",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,19 +79,20 @@
     "width": 300
   },
   "right": {
-    "id": "d29271e303e2369e",
+    "id": "5bf29ceefeac59d1",
     "type": "split",
     "children": [
       {
-        "id": "4082a6d3c25b9507",
+        "id": "6c23218df39153da",
         "type": "tabs",
         "children": [
           {
-            "id": "66304ea19c0a2d9e",
+            "id": "ac6670760663cbb0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,24 +102,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "3a0defa0e78080d5",
+            "id": "cefe0e067ff78a9f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "7ca6d2b77d6720b4",
+            "id": "ef98d3a65c39808f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,21 +135,22 @@
             }
           },
           {
-            "id": "10c9439c03edd835",
+            "id": "a80be70048657930",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "9124e8b6bfe8f41d",
+            "id": "a8194946c25a73e0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,54 +164,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "670e923455553464",
+  "active": "1a0898386f26b1b6",
   "lastOpenFiles": [
-    "1- Concepts/Water-Scrum-Fall.md",
-    "1- Concepts/Conway's Law.md",
-    "2- Methodologies/Scrum.md",
-    "10- Templates/2- Methodology Template.md",
-    "2- Methodologies/Kanban.md",
-    "3- Technologies/Containers.md",
-    "3- Technologies/Microservices.md",
-    "1- Concepts/DevOps Culture.md",
-    "3- Technologies/Monoliths.md",
-    "1- Concepts/Scrum",
-    "1- Concepts/Scrum/Scrum Team.md",
-    "1- Concepts/Scrum/3 Roles of Scrum.md",
-    "1- Concepts/Scrum/Scrum Master.md",
-    "1- Concepts/Scrum/Product Owner.md",
-    "3- Technologies/Content Delivery Network (CDN).md",
-    "7- Domains/Cloud Computing.md",
-    "1- Concepts/Agile Culture.md",
-    "2- Methodologies/Extreme Programming (XP).md",
+    "1- Concepts/Scrum/User Stories.md",
     "2- Methodologies/Agile.md",
-    "1- Concepts/Cloud/Cloud Monitoring.md",
-    "1- Concepts/Zero Trust.md",
-    "1- Concepts/Virtualization.md",
-    "1- Concepts/Transient or Spot VM Instances.md",
-    "1- Concepts/Taylorism.md",
-    "1- Concepts/System Architecture.md",
-    "1- Concepts/Storage Variants.md",
+    "1- Concepts/Story Points.md",
+    "User Story.md",
+    "1- Concepts/Pair Programming.md",
+    "2- Methodologies/Extreme Programming (XP).md",
+    "1- Concepts/Scrum/Epic.md",
+    "1- Concepts/Scrum/Product Backlog.md",
+    "1- Concepts/Scrum/Increment (Scrum).md",
+    "1- Concepts/Scrum/Sprint Backlog.md",
+    "1- Concepts/Scrum/Scrum Artifacts.md",
+    "2- Methodologies/Scrum.md",
+    "7- Domains/Cloud Computing.md",
+    "3- Technologies/Cloud IAM.md",
+    "3- Technologies/Function as a Service (FaaS).md",
+    "3- Technologies/Content Delivery Network (CDN).md",
+    "3- Technologies/Single Sign-On (SSO).md",
+    "3- Technologies/Encryption.md",
+    "3- Technologies/Monoliths.md",
+    "2- Methodologies/Kanban.md",
+    "1- Concepts/Serverless Computing.md",
     "1- Concepts/Standard Password Policy.md",
+    "1- Concepts/Water-Scrum-Fall.md",
+    "1- Concepts/Zero Trust.md",
+    "8- References & Standards/Identity Provider Standards/SAML.md",
+    "8- References & Standards/Identity Provider Standards/SCIM.md",
     "8- References & Standards/Identity Provider Standards",
-    "0- Rough Notes",
-    "9- MOCs",
-    "5- Languages",
-    "Untitled.canvas",
-    "1- Concepts/Cloud"
+    "7- Domains",
+    "1- Concepts/Scrum",
+    "1- Concepts/Cloud",
+    "9- Maps of Content",
+    "8- References & Standards/OSI",
+    "5- Languages/JS",
+    "9- Maps of Content",
+    "6- Practices",
+    "11- Vault Metadata/Images/CI-CD Pipeline.png",
+    "2- Methodologies",
+    "11- Vault Metadata/Images/CI-CD Responsibilities.png"
   ]
 }
