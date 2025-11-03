@@ -40,3 +40,4 @@ Agile emerged in the early 2000s as a reaction to the limitations of traditional
 - [[Scrum]]
 - [[Kanban]]
 - [[Extreme Programming (XP)]]
+- [[Social Coding]]

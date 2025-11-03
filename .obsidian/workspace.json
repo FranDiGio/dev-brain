@@ -18,8 +18,38 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "de9f502bc2f2288c",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "2- Methodologies/Agile.md",
+                "bFile": "2- Methodologies/Agile.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Agile"
+            }
+          },
+          {
+            "id": "28b9546854189b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2- Methodologies/Scrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scrum"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,11 +205,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9124e8b6bfe8f41d",
+  "active": "de9f502bc2f2288c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "1- Concepts/Story Points.md",
+    "1- Concepts/Scrum/User Stories.md",
+    "1- Concepts/Scrum/Sprint Backlog.md",
+    "1- Concepts/Scrum/Scrum Artifacts.md",
+    "1- Concepts/Scrum/Product Backlog.md",
+    "1- Concepts/Scrum/Increment (Scrum).md",
+    "1- Concepts/Scrum/Epic.md",
+    "2- Methodologies/Scrum.md",
     "1- Concepts/Water-Scrum-Fall.md",
     "1- Concepts/Conway's Law.md",
-    "2- Methodologies/Scrum.md",
     "10- Templates/2- Methodology Template.md",
     "2- Methodologies/Kanban.md",
     "3- Technologies/Containers.md",
@@ -196,14 +234,6 @@
     "1- Concepts/Agile Culture.md",
     "2- Methodologies/Extreme Programming (XP).md",
     "2- Methodologies/Agile.md",
-    "1- Concepts/Cloud/Cloud Monitoring.md",
-    "1- Concepts/Zero Trust.md",
-    "1- Concepts/Virtualization.md",
-    "1- Concepts/Transient or Spot VM Instances.md",
-    "1- Concepts/Taylorism.md",
-    "1- Concepts/System Architecture.md",
-    "1- Concepts/Storage Variants.md",
-    "1- Concepts/Standard Password Policy.md",
     "8- References & Standards/Identity Provider Standards",
     "0- Rough Notes",
     "9- MOCs",
