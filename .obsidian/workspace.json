@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "S3",
+                "query": "user",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a0898386f26b1b6",
+  "active": "a3be5c4111beb877",
   "lastOpenFiles": [
     "1- Concepts/Scrum/User Stories.md",
     "2- Methodologies/Agile.md",
