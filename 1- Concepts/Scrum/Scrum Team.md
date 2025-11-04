@@ -19,4 +19,4 @@ The **Scrum Team**, also called the **Development Team**, is a **cross-functiona
 ---
 ### `Connected Notes`
 
-- [[3 Roles of Scrum]]
+- [[Scrum Roles]]

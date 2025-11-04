@@ -19,4 +19,4 @@ The **Scrum Master** is the **facilitator and coach** who ensures the Scrum fram
 ---
 ### `Connected Notes`
 
-- [[3 Roles of Scrum]]
+- [[Scrum Roles]]

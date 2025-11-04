@@ -53,3 +53,7 @@
 ### `Connected Notes`
 
 - [[Agile]]
+- [[Scrum Roles]]
+- [[Scrum Metrics]]
+- [[Scrum Artifacts]]
+- [[Scrum Events]]

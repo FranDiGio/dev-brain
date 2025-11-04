@@ -45,4 +45,4 @@ A **User Story** is a **short, simple description of a feature or requirement** 
 - [[Product Backlog]]
 - [[Epic]]
 - [[Story Points]]
-- [[Labels (User Stories)]]
+- [[Labels (Scrum)]]

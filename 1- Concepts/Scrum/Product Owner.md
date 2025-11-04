@@ -17,4 +17,4 @@ The **Product Owner** is responsible for **defining the product vision**, **mana
 ---
 ### `Connected Notes`
 
-- [[3 Roles of Scrum]]
+- [[Scrum Roles]]
