@@ -9,11 +9,11 @@ Unlike vanity metrics (which look impressive but don’t drive change), actionab
 
 - **Actionable vs. Vanity Metrics** →
     
-    - _Vanity metrics_ (e.g., page views, downloads) describe activity but lack context or causality.
+    - **_Vanity metrics_** (e.g., page views, downloads) describe activity but lack context or causality.
         
-    - _Actionable metrics_ reveal _cause and effect_ — something the team can act on to improve performance.
-        
-- **DevOps Key Metrics (DORA Metrics):**
+    - _**Actionable metrics**_ reveal _cause and effect_ — something the team can act on to improve performance.
+    
+- **DevOps Key Metrics (DORA Metrics) →
     
     - **Lead Time for Changes** → Time from code committed to code running in production.
     - **Deployment Frequency** → How often new changes are deployed.

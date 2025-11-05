@@ -29,6 +29,6 @@ Different **deployment and pricing models** offered by cloud providers for runni
 
 - [[Cloud Computing]]
 - [[Reserved VM Instances]]
-- [[Transient or Spot VM Instances]]
+- [[Spot VM Instances]]
 - [[Dedicated VM Hosts]]
 - [[Shared VM Instances]]

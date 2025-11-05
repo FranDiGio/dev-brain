@@ -19,6 +19,21 @@
     Relies heavily on strong IAM policies, MFA, and least-privilege enforcement.
 
 ---
+### `Challenges`
+
+- **Implementation Complexity:**  
+    Integrating continuous verification across legacy systems and multiple environments can be resource-intensive.
+    
+- **User Experience Friction:**  
+    Frequent authentication or device checks may frustrate end-users if poorly configured.
+    
+- **Visibility and Monitoring Gaps:**  
+    Achieving full context awareness requires complete, accurate telemetry from all devices and networks.
+    
+- **Cultural and Process Resistance:**  
+    Teams accustomed to perimeter-based security often struggle to adapt to Zero Trust’s constant verification mindset.
+
+---
 ### `Connected Notes`
 
 - [[Identity and Access Management (IAM)]]

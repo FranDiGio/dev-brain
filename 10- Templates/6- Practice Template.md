@@ -1,10 +1,10 @@
 
-### `Principle`
+### `Definition`
 
 %% The core belief or reason this practice exists. %%
 
 ---
-### `Applications`
+### `Key Ideas`
 
 %% Where and how this practice is applied in development. %%
 
