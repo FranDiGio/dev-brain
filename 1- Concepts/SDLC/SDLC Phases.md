@@ -38,3 +38,9 @@ The **Phases of the Software Development Life Cycle (SDLC)** represent the **seq
 ### `Connected Notes`
 
 - [[Software Development Life Cycle (SDLC)]]
+- [[Phase 1 – Planning (SDLC)]]
+- [[Phase 2 – Design (SDLC)]]
+- [[Phase 3 – Development (SDLC)]]
+- [[Phase 4 – Testing (SDLC)]]
+- [[Phase 5 – Deployment (SDLC)]]
+- [[Phase 6 – Maintenance (SDLC)]]

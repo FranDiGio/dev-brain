@@ -51,7 +51,7 @@ In the SDLC, requirements are the **core output of the Planning phase** and form
 ---
 ### `Connected Notes`
 
-- [[Phase 1 – Planning (Concept)]]
+- [[Phase 1 – Planning (SDLC)]]
 - [[User Requirements Specification (URS)]]
 - [[Software Requirements Specification (SRS)]]
 - [[System Requirements Specification (SysRS)]]
