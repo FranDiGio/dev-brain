@@ -23,7 +23,7 @@ It applies **engineering principles** to software development to ensure solution
 ---
 ### `Core Technologies`
 
-- **Version Control Systems** – Git, GitHub, GitLab
+- **Version Control Systems** – Git, GitHub, GitLab, BitBucket
     
 - **Programming Languages** – Python, Java, C#, JavaScript, SQL
     
@@ -38,3 +38,4 @@ It applies **engineering principles** to software development to ensure solution
 ---
 ### `Connected Notes`
 
+- [[Software Testing]]

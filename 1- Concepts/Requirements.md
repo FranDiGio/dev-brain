@@ -18,9 +18,7 @@ In the SDLC, requirements are the **core output of the Planning phase** and form
 	    Determine who is affected by or will use the system (end-users, decision-makers, admins, etc.).
 	    
 	2. **Establish Goals and Objectives**
-	    
 	    - **Goals:** Broad, long-term outcomes the software should achieve.
-	        
 	    - **Objectives:** Specific, measurable steps that fulfill those goals.
 	    
 	3. **Elicit Requirements**  
@@ -51,7 +49,6 @@ In the SDLC, requirements are the **core output of the Planning phase** and form
 ---
 ### `Connected Notes`
 
-- [[Phase 1 – Planning (SDLC)]]
 - [[User Requirements Specification (URS)]]
 - [[Software Requirements Specification (SRS)]]
 - [[System Requirements Specification (SysRS)]]
