@@ -30,5 +30,3 @@
 
 ---
 ### `Connected Notes`
-
-- [[Software Engineering]]

@@ -1,8 +1,7 @@
 
 ### `Definition`
 
-**SQL (Structured Query Language)** is a **standardized programming language** used to **manage, manipulate, and query relational databases**.  
-It provides a structured way to define, read, modify, and control access to data stored in **tables**.
+**SQL (Structured Query Language)** is a **standardized programming language** used to **manage, manipulate, and query relational databases**. It provides a structured way to define, read, modify, and control access to data stored in **tables**.
 
 ---
 ### `Key Ideas`

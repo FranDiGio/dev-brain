@@ -20,7 +20,7 @@ A **package manager** is a **tool that automates installing, upgrading, configur
     - **Global installs:** Available system-wide.
         
     - **Local installs:** Scoped to a project.
-        
+    
 - **Popular Tools:**
     
     - **JavaScript:** npm, Yarn, pnpm

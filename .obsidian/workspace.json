@@ -20,17 +20,34 @@
             }
           },
           {
-            "id": "e88c7e797eb5d2a1",
+            "id": "cc4be5971f7b832a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1- Concepts/Looping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Looping"
+            }
+          },
+          {
+            "id": "1b7cc4de9830656a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Concepts/Software Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Design"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,34 +206,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e88c7e797eb5d2a1",
+  "active": "03dfe368836a1e5c",
   "lastOpenFiles": [
-    "Web Development.md",
-    "Version Control.md",
-    "Structured Query Language (SQL).md",
-    "Software Stacks.md",
-    "Query Languages.md",
-    "Programming Languages.md",
-    "Packages.md",
-    "Package Managers.md",
-    "NoSQL Databases.md",
-    "Low-level Languages.md",
-    "Libraries.md",
-    "Interpreted Languages.md",
-    "High-level Languages.md",
-    "Full-Stack Development.md",
-    "Frontend Development.md",
-    "Frameworks.md",
-    "Compiled Languages.md",
-    "Build Tools.md",
-    "Backend Development.md",
-    "Assembly Languages.md",
-    "Assembler.md",
-    "1- Concepts/SDLC/Phase 6 – Maintenance (SDLC).md",
-    "1- Concepts/SDLC/Phase 5 – Deployment (SDLC).md",
-    "1- Concepts/SDLC/Phase 3 – Development (SDLC).md",
-    "1- Concepts/SDLC/Phase 2 – Design (SDLC).md",
-    "1- Concepts/Documentation/User Documentation.md",
+    "1- Concepts/Software Design.md",
+    "1- Concepts/Looping.md",
+    "1- Concepts/Branching Logic.md",
+    "1- Concepts/Boolean Logic.md",
+    "1- Concepts/Programming Logic.md",
+    "11- Vault Metadata/Vault Taxonomy.md",
+    "3- Technologies/Version Control.md",
+    "1- Concepts/Flowcharts.md",
+    "1- Concepts/Pseudocode.md",
+    "7- Domains/Quality Assurance (QA).md",
+    "8- Languages/SQL.md",
+    "3- Technologies/Assembly Languages.md",
+    "3- Technologies/Interpreted Languages.md",
+    "3- Technologies/Compiled Languages.md",
+    "8- Languages/NoSQL.md",
+    "3- Technologies/Packages.md",
+    "3- Technologies/Package Managers.md",
+    "1- Concepts/High-level Languages.md",
+    "3- Technologies/Assembler.md",
+    "3- Technologies/Build Tools.md",
+    "1- Concepts/Query Languages.md",
+    "1- Concepts/Software Stacks.md",
+    "7- Domains/Frontend Development.md",
+    "1- Concepts/Full-Stack Development.md",
+    "10- Templates/7- Domain Template.md",
+    "3- Technologies/Libraries.md",
     "1- Concepts/Documentation",
     "1- Concepts/SDLC",
     "9- References & Standards/OSI",

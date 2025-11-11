@@ -45,7 +45,7 @@
 ---
 ### `Connected Notes`
 
-- [[NoSQL Databases]]
+- [[NoSQL]]
 - [[Key-Value Databases]]
 - [[Document Databases]]
 - [[CAP Theorem]]

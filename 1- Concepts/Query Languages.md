@@ -38,8 +38,8 @@
 ---
 ### `Connected Notes`
 
-- [[High-Level Languages]]
-- [[Structured Query Language (SQL)]]
-- [[NoSQL Databases]]
+- [[High-level Languages]]
+- [[SQL]]
+- [[NoSQL]]
 - [[CRUD Operations]]
 - [[Database Management Systems (DBMS)]]
