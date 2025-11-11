@@ -9,9 +9,9 @@
 %% Core syntax concepts, design philosophy, and strengths. %%
 
 ---
-### `Common Patterns`
+### `Use Cases`
 
-%% Typical idioms or structures unique to the language. %%
+%% When and why this language is used - practical scenarios, or problems it solves. %%
 
 ---
 ### `Connected Notes`
