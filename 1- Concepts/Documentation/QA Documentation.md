@@ -45,3 +45,4 @@
 ### `Connected Notes`
 
 - [[Product Documentation]]
+- [[Traceability Matrix]]

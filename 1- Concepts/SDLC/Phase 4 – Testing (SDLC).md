@@ -35,4 +35,3 @@
 ### `Connected Notes`
 
 - [[SDLC Phases]]
-- [[Software Testing]]

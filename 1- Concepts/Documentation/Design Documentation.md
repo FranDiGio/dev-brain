@@ -44,4 +44,3 @@
 ### `Connected Notes`
 
 - [[Product Documentation]]
-- [[Phase 2 – Design (SDLC)]]

@@ -38,7 +38,5 @@ It serves as a **contract** between stakeholders and developers, ensuring everyo
 ---
 ### `Connected Notes`
 
-- [[Phase 1 – Planning (SDLC)]]
-- [[Software Requirements Specification (SRS)]]
-- [[User Requirements Specification (URS)]]
-- [[System Requirements Specification (SysRS)]]
+- [[Product Documentation]]
+- [[Requirements]]

@@ -36,5 +36,3 @@
 
 ---
 ### `Connected Notes`
-
-- [[Phase 5 – Deployment (SDLC)]]

@@ -14,15 +14,10 @@ A **System Requirements Specification (SysRS)** defines the **complete set of re
     Broader than an **SRS** — the SysRS may include:
     
     - **System capabilities and architecture**
-        
     - **Interfaces** between software, hardware, and external systems
-        
     - **Performance, reliability, and security requirements**
-        
     - **Compliance and policy requirements**
-        
     - **Personnel and operational requirements** (e.g., training, support)
-        
     - **Acceptance criteria** for the overall system
     
 - **Use:**  
