@@ -20,31 +20,45 @@
             }
           },
           {
-            "id": "cc4be5971f7b832a",
+            "id": "941d39e73dc8f642",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Concepts/Looping.md",
+                "file": "1- Concepts/Programming Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Looping"
+              "title": "Programming Logic"
             }
           },
           {
-            "id": "1b7cc4de9830656a",
+            "id": "f5705ee41c027f4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Concepts/Software Design.md",
+                "file": "1- Concepts/Programming Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Design"
+              "title": "Programming Logic"
+            }
+          },
+          {
+            "id": "1492bd3c72784c37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0- Rough Notes/Control Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control Flow"
             }
           }
         ]
@@ -208,32 +222,34 @@
   },
   "active": "03dfe368836a1e5c",
   "lastOpenFiles": [
-    "1- Concepts/Software Design.md",
+    "0- Rough Notes/Control Flow.md",
+    "Conditionals.md",
+    "0- Rough Notes/Programming Fundamentals.md",
+    "1- Concepts/Programming Logic.md",
     "1- Concepts/Looping.md",
+    "0- Rough Notes/Identifiers.md",
+    "0- Rough Notes/Arrays.md",
+    "0- Rough Notes/Vectors.md",
+    "0- Rough Notes/Data Structures.md",
+    "3- Technologies/Containers.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "3- Technologies/Compiled Languages.md",
+    "1- Concepts/Programming Languages.md",
+    "3- Technologies/Interpreted Languages.md",
+    "3- Technologies/Assembly Languages.md",
+    "3- Technologies/Assembler.md",
+    "6- Practices/Least Privilege.md",
+    "10- Templates/1- Concept Template.md",
+    "11- Vault Metadata/Vault Taxonomy.md",
+    "1- Concepts/Software Design.md",
     "1- Concepts/Branching Logic.md",
     "1- Concepts/Boolean Logic.md",
-    "1- Concepts/Programming Logic.md",
-    "11- Vault Metadata/Vault Taxonomy.md",
     "3- Technologies/Version Control.md",
     "1- Concepts/Flowcharts.md",
     "1- Concepts/Pseudocode.md",
     "7- Domains/Quality Assurance (QA).md",
     "8- Languages/SQL.md",
-    "3- Technologies/Assembly Languages.md",
-    "3- Technologies/Interpreted Languages.md",
-    "3- Technologies/Compiled Languages.md",
-    "8- Languages/NoSQL.md",
-    "3- Technologies/Packages.md",
-    "3- Technologies/Package Managers.md",
-    "1- Concepts/High-level Languages.md",
-    "3- Technologies/Assembler.md",
-    "3- Technologies/Build Tools.md",
-    "1- Concepts/Query Languages.md",
-    "1- Concepts/Software Stacks.md",
-    "7- Domains/Frontend Development.md",
-    "1- Concepts/Full-Stack Development.md",
-    "10- Templates/7- Domain Template.md",
-    "3- Technologies/Libraries.md",
     "1- Concepts/Documentation",
     "1- Concepts/SDLC",
     "9- References & Standards/OSI",
@@ -243,8 +259,6 @@
     "11- Vault Metadata/Images/Burndown Chart pic.png",
     "8- References & Standards/Identity Provider Standards",
     "7- Domains",
-    "1- Concepts/Scrum",
-    "1- Concepts/Cloud",
     "11- Vault Metadata/Images/CI-CD Pipeline.png",
     "11- Vault Metadata/Images/CI-CD Responsibilities.png"
   ]

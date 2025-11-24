@@ -33,6 +33,6 @@ An **interpreted language** is executed **line-by-line at runtime** by an **inte
 ---
 ### `Connected Notes`
 
-- [[Programming Languages]]
+- [[High-level Languages]]
 - [[Runtime Environment]]
 - [[Interpreter]]

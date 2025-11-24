@@ -34,6 +34,6 @@ It governs how identities are created, authenticated, authorized, and audited ac
 
 - [[Cloud IAM]]
 - [[IAM Policies]]
-- [[Principle of Least Privilege]]
+- [[Least Privilege]]
 - [[Standard Password Policy]]
 - [[Zero Trust]]

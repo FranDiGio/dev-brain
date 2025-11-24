@@ -29,4 +29,4 @@ for i in range(5):
 ---
 ### `Connected Notes`
 
-- [[Programming Logic]]
+- [[Control Flow]]

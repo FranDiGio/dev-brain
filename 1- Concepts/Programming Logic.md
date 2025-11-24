@@ -15,7 +15,7 @@
         
     - **Boolean Expressions:** Statements that evaluate to **True** or **False**, forming the basis of all decision-making.
         
-    - **Control Structures:** Mechanisms to direct program flow — primarily **Branching** and **Looping**.
+    - **Control Flow:** Mechanisms to direct program flow — primarily **Branching** and **Looping**.
     
 - **Types of Logic:**
     
@@ -30,7 +30,7 @@
 ---
 ### `Connected Notes`
 
-- [[Boolean Logic]]
-- [[Branching]]
-- [[Looping]]
+- [[Control Flow]]
 - [[Algorithms]]
+- [[Boolean Logic]]
+- [[Expressions & Operators]]

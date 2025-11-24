@@ -50,3 +50,5 @@ A **programming language** is a **formal system of syntax and semantics** used t
 - [[Software Engineering]]
 - [[Libraries]]
 - [[Frameworks]]
+- [[High-level Languages]]
+- [[Low-level Languages]]

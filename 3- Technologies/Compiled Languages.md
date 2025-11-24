@@ -32,6 +32,6 @@ A **compiled language** is one where the source code is **translated into machin
 ---
 ### `Connected Notes`
 
-- [[Programming Languages]]
+- [[High-level Languages]]
 - [[Compiler]]
 - [[Build Tools]]

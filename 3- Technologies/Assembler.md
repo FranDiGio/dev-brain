@@ -38,4 +38,4 @@ An **Assembler** is a **program that translates assembly language** (human-reada
 ---
 ### `Connected Notes`
 
-- [[Assembly Languages]]
+- [[Low-level Languages]]
