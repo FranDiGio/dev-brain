@@ -20,7 +20,6 @@ Data structures are formal ways of organizing, storing, and managing data in a p
 - [[Programming Fundamentals]]
 - [[Collections]]
 - [[Arrays]]
-- [[Lists]]
 - [[Vectors]]
 - [[Sets]]
 - [[Maps]]

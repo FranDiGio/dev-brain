@@ -20,45 +20,17 @@
             }
           },
           {
-            "id": "941d39e73dc8f642",
+            "id": "f1910370dfbcffc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Concepts/Programming Logic.md",
+                "file": "1- Concepts/Data Structures/Data Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming Logic"
-            }
-          },
-          {
-            "id": "f5705ee41c027f4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/Programming Logic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Programming Logic"
-            }
-          },
-          {
-            "id": "1492bd3c72784c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0- Rough Notes/Control Flow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Control Flow"
+              "title": "Data Structures"
             }
           }
         ]
@@ -222,34 +194,35 @@
   },
   "active": "03dfe368836a1e5c",
   "lastOpenFiles": [
-    "0- Rough Notes/Control Flow.md",
-    "Conditionals.md",
-    "0- Rough Notes/Programming Fundamentals.md",
+    "1- Concepts/Data Structures/Data Structures.md",
+    "1- Concepts/Control Flow.md",
+    "1- Concepts/Programming Fundamentals.md",
+    "1- Concepts/Identifiers.md",
+    "1- Concepts/Programming Languages.md",
     "1- Concepts/Programming Logic.md",
+    "1- Concepts/Low-level Languages.md",
     "1- Concepts/Looping.md",
-    "0- Rough Notes/Identifiers.md",
-    "0- Rough Notes/Arrays.md",
-    "0- Rough Notes/Vectors.md",
-    "0- Rough Notes/Data Structures.md",
+    "1- Concepts/Infrastructure.md",
+    "1- Concepts/Memory & References.md",
+    "1- Concepts/Identity and Access Management (IAM).md",
+    "1- Concepts/Flowcharts.md",
+    "1- Concepts/Branching Logic.md",
+    "1- Concepts/Boolean Logic.md",
+    "1- Concepts/Data Structures/Linked Lists.md",
+    "1- Concepts/Data Structures/Vectors.md",
+    "1- Concepts/Data Structures/Arrays.md",
+    "1- Concepts/Full-Stack Development.md",
+    "1- Concepts/Data Structures",
+    "Conditionals.md",
     "3- Technologies/Containers.md",
     "Untitled.base",
     "Untitled 1.base",
     "3- Technologies/Compiled Languages.md",
-    "1- Concepts/Programming Languages.md",
     "3- Technologies/Interpreted Languages.md",
     "3- Technologies/Assembly Languages.md",
     "3- Technologies/Assembler.md",
     "6- Practices/Least Privilege.md",
     "10- Templates/1- Concept Template.md",
-    "11- Vault Metadata/Vault Taxonomy.md",
-    "1- Concepts/Software Design.md",
-    "1- Concepts/Branching Logic.md",
-    "1- Concepts/Boolean Logic.md",
-    "3- Technologies/Version Control.md",
-    "1- Concepts/Flowcharts.md",
-    "1- Concepts/Pseudocode.md",
-    "7- Domains/Quality Assurance (QA).md",
-    "8- Languages/SQL.md",
     "1- Concepts/Documentation",
     "1- Concepts/SDLC",
     "9- References & Standards/OSI",
@@ -258,7 +231,6 @@
     "5- Deliverables",
     "11- Vault Metadata/Images/Burndown Chart pic.png",
     "8- References & Standards/Identity Provider Standards",
-    "7- Domains",
     "11- Vault Metadata/Images/CI-CD Pipeline.png",
     "11- Vault Metadata/Images/CI-CD Responsibilities.png"
   ]

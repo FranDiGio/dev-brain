@@ -19,11 +19,11 @@ Arrays are fixed-size, contiguous-memory data structures that store elements of 
 
 | Operation                           | Time Complexity | Notes                                           |
 | ----------------------------------- | --------------- | ----------------------------------------------- |
-| **Access (indexing)**               | **O(1)**        | Direct memory offset                            |
+| **Access (at index)**               | **O(1)**        | Direct memory offset                            |
 | **Update (at index)**               | **O(1)**        | Same as access                                  |
 | **Insert at end (if space exists)** | **O(1)**        | Only possible if preallocated                   |
-| **Insert at random index**          | **O(n)**        | Shifts required                                 |
-| **Delete at random index**          | **O(n)**        | Shifts required                                 |
+| **Insert (at random index)**        | **O(n)**        | Shifts required                                 |
+| **Delete (at random index)**        | **O(n)**        | Shifts required                                 |
 | **Search (unsorted)**               | **O(n)**        | Linear scan                                     |
 | **Search (sorted + binary search)** | **O(log n)**    | If sorted                                       |
 | **Space Complexity**                | **O(n)**        | Fixed size; must allocate full capacity upfront |
