@@ -18,8 +18,10 @@ A **Burndown Chart** is a **visual progress-tracking tool** used in Agile (espec
 	
 - **Gray blocks:** It shows the weekends as you don't want to burnout your team.
 
+---
+### `Example`
 
-![[Burndown Chart pic.png]]
+![[Burndown Chart.png]]
 
 ---
 ### `Connected Notes`

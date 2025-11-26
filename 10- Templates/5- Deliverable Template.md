@@ -9,4 +9,9 @@
 %% Core principles, typical workflow or stages... %%
 
 ---
+### `Example`
+
+%% A screenshot or quick mock-up of the same %%
+
+---
 ### `Connected Notes`

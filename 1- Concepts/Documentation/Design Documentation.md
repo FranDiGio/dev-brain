@@ -44,3 +44,8 @@
 ### `Connected Notes`
 
 - [[Product Documentation]]
+- [[Software Design Document (SDD)]]
+- [[Architectural Diagrams]]
+- [[UML Diagrams]]
+- [[Entity Relationship Diagram (ERD)]]
+- [[Data Flow Diagram (DFD)]]

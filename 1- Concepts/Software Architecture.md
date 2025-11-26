@@ -28,6 +28,5 @@ It provides the blueprint for how applications are organized — from monolithic
 ### `Connected Notes`
 
 - [[Application Evolution]]
-- [[Monoliths]]
-- [[Service-Oriented Architecture (SOA)]]
-- [[Microservices]]
+- [[Architectural Patterns]]
+- [[Distributed System]]

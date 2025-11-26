@@ -18,10 +18,15 @@ It represents a **broad business objective** or **feature area** that is later d
     2. Broken down into smaller **User Stories** during backlog refinement.
         
     3. Progress is tracked through the completion of those stories.
-        
+    
 - **Management:**  
     Owned by the **Product Owner**; used to structure large initiatives, roadmap items, or releases.  
     Epics often align with **Product Goals** or business milestones.
+
+---
+### `Example`
+
+![[Epic.png]]
 
 ---
 ### `Connected Notes`

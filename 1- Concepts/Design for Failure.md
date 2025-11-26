@@ -23,4 +23,4 @@
 - [[Circuit Breaker Pattern]]
 - [[Bulkhead Pattern]]
 - [[Chaos Engineering]]
-- [[System Architecture]]
+- [[Software Architecture]]

@@ -32,6 +32,6 @@ It extends Agile principles across the entire lifecycle — from code to deploym
 ### `Connected Notes`
 
 - [[DevOps Culture]]
-- [[Microservices]]
+- [[Microservices Architecture]]
 - [[3- Technologies/Containers]]
 - [[CI-CD Pipelines]]
