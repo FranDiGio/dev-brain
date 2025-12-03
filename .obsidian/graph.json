@@ -11,7 +11,7 @@
       "query": "path:\"1- Concepts\"  ",
       "color": {
         "a": 1,
-        "rgb": 12938734
+        "rgb": 11934463
       }
     },
     {
@@ -25,21 +25,21 @@
       "query": "path:\"3- Technologies\"  ",
       "color": {
         "a": 1,
-        "rgb": 4305900
+        "rgb": 7130622
       }
     },
     {
       "query": "path:\"4- Implementations\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 7462994
       }
     },
     {
       "query": "path:\"5- Deliverables\"  ",
       "color": {
         "a": 1,
-        "rgb": 1563058
+        "rgb": 1376208
       }
     },
     {
@@ -53,21 +53,21 @@
       "query": "path:\"7- Domains\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 22015
       }
     },
     {
       "query": "path:\"8- Languages\"  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16752338
       }
     },
     {
       "query": "path:\"9- References & Standards\"  ",
       "color": {
         "a": 1,
-        "rgb": 16470491
+        "rgb": 16654368
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 17.1354166666667,
   "linkStrength": 1,
   "linkDistance": 213,
-  "scale": 0.13873223932666157,
-  "close": true
+  "scale": 0.45050811767580334,
+  "close": false
 }

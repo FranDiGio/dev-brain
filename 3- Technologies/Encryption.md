@@ -17,13 +17,13 @@ Only entities with the correct **decryption key** can restore the data to its or
     - **Keys:** Unique cryptographic values used for encryption and decryption.
         
     - **Ciphers:** Implementations of encryption logic applied to data.
-        
+    
 - **Types of Encryption:**
     
     - **Symmetric Encryption:** Same key for encryption and decryption — faster, used for bulk data.
         
     - **Asymmetric Encryption:** Uses a public and private key pair — used for secure communication and authentication.
-        
+    
 - **Integration Points:**  
     Used in file systems, databases, network communications, email systems, and cloud storage.
     
@@ -44,5 +44,5 @@ Only entities with the correct **decryption key** can restore the data to its or
 ---
 ### `Connected Notes`
 
-[[Data Security]]
-[[Cloud Encryption]]
+- [[Data Security]]
+- [[Cloud Encryption]]

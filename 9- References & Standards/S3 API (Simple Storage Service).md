@@ -28,13 +28,9 @@ Today, it serves as the **de facto industry standard** for object storage commun
 - **Operations (HTTP-based):**
     
     - `GET` → Retrieve an object or list objects in a bucket.
-        
     - `PUT` → Upload or create an object.
-        
     - `DELETE` → Remove an object or bucket.
-        
     - `HEAD` → Retrieve metadata.
-        
     - `POST` → Used for multipart uploads or form-based uploads.
     
 - **Security & Authentication:**
