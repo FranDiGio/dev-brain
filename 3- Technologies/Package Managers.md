@@ -18,17 +18,13 @@ A **package manager** is a **tool that automates installing, upgrading, configur
 - **Global vs Local:**
     
     - **Global installs:** Available system-wide.
-        
     - **Local installs:** Scoped to a project.
     
 - **Popular Tools:**
     
     - **JavaScript:** npm, Yarn, pnpm
-        
     - **Python:** pip, Poetry
-        
     - **Java:** Maven, Gradle
-        
     - **Linux systems:** apt, yum, pacman
 
 ---
