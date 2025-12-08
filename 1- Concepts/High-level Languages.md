@@ -25,5 +25,3 @@
 - [[Programming Languages]]
 - [[Compiled Languages]]
 - [[Interpreted Languages]]
-- [[Query Languages]]
-- [[Object-Oriented Languages]]

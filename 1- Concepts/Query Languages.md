@@ -38,7 +38,6 @@
 ---
 ### `Connected Notes`
 
-- [[High-level Languages]]
 - [[SQL]]
 - [[NoSQL]]
 - [[CRUD Operations]]

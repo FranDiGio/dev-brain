@@ -66,4 +66,3 @@ deploy:
 - [[Continuous Delivery (CD)]]
 - [[DevOps]]
 - [[Automation]]
-- [[Cloud-Native Apps]]

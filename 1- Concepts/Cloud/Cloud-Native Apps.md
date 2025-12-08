@@ -26,5 +26,3 @@ It’s not just about _where_ applications run, but _how_ they’re designed —
 ### `Connected Notes`
 
 - [[Cloud Computing]]
-- [[Microservices Architecture]]
-- [[3- Technologies/Containers]]

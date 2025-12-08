@@ -1,9 +1,7 @@
 
 ### `Definition`
 
-**Software Engineering** is the discipline focused on the **structured creation, testing, and maintenance of software systems**.  
-
-It applies **engineering principles** to software development to ensure solutions are **reliable, scalable, maintainable, and efficient**.
+**Software Engineering** is the discipline focused on the **structured creation, testing, and maintenance of software systems**. It applies **engineering principles** to software development to ensure solutions are **reliable, scalable, maintainable, and efficient**.
 
 ---
 ### `Key Areas`

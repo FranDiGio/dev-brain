@@ -47,4 +47,3 @@ It applies cybersecurity principles to public, private, and hybrid cloud environ
 - [[Cloud Network Security]]
 - [[Cloud IAM]]
 - [[Cloud Data Security]]
-- [[Emerging Cloud Security Trends]]

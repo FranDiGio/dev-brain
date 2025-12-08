@@ -11,35 +11,35 @@
       "query": "path:\"1- Concepts\"  ",
       "color": {
         "a": 1,
-        "rgb": 11934463
+        "rgb": 12938734
       }
     },
     {
       "query": "path:\"2- Methodologies\"  ",
       "color": {
         "a": 1,
-        "rgb": 16703601
+        "rgb": 14725458
       }
     },
     {
       "query": "path:\"3- Technologies\"  ",
       "color": {
         "a": 1,
-        "rgb": 7130622
+        "rgb": 9550589
       }
     },
     {
       "query": "path:\"4- Implementations\"  ",
       "color": {
         "a": 1,
-        "rgb": 7462994
+        "rgb": 5431378
       }
     },
     {
       "query": "path:\"5- Deliverables\"  ",
       "color": {
         "a": 1,
-        "rgb": 1376208
+        "rgb": 1563058
       }
     },
     {
@@ -53,34 +53,34 @@
       "query": "path:\"7- Domains\"  ",
       "color": {
         "a": 1,
-        "rgb": 22015
+        "rgb": 5395168
       }
     },
     {
       "query": "path:\"8- Languages\"  ",
       "color": {
         "a": 1,
-        "rgb": 16752338
+        "rgb": 16711680
       }
     },
     {
       "query": "path:\"9- References & Standards\"  ",
       "color": {
         "a": 1,
-        "rgb": 16654368
+        "rgb": 16470491
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.02404844290657,
-  "lineSizeMultiplier": 1.00709342560554,
-  "collapse-forces": true,
-  "centerStrength": 0.471354166666667,
-  "repelStrength": 17.1354166666667,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.19359861591695,
+  "lineSizeMultiplier": 1.17664359861592,
+  "collapse-forces": false,
+  "centerStrength": 0.524221453287197,
+  "repelStrength": 18.8581314878893,
   "linkStrength": 1,
   "linkDistance": 213,
-  "scale": 0.07443105561940794,
+  "scale": 0.22920135941750616,
   "close": true
 }
