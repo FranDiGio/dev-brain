@@ -8,7 +8,7 @@ The three core models are **IaaS**, **PaaS**, and **SaaS**, which form a spectru
 ---
 ### `Key Ideas`
 
-- **The Cloud Pyramid** →
+- **The Cloud Pyramid** 
     
     - **IaaS (Infrastructure as a Service):** The provider manages the **hardware** — data centers, networking, servers, and storage — while you handle the OS and applications.
         
@@ -16,14 +16,14 @@ The three core models are **IaaS**, **PaaS**, and **SaaS**, which form a spectru
         
     - **SaaS (Software as a Service):** The provider manages **everything**, including the application itself and user data — you simply use the software via the internet.
     
-- **Trade-off:**  
+- **Trade-off**  
     The **lower** you go (IaaS), the **more control and complexity** you have.  
     The **higher** you go (SaaS), the **easier** it is to use but the **less control** you have over customization.
     
-- **Responsibility shift:**  
+- **Responsibility shift**  
     Each model shifts operational responsibility — from user-managed infrastructure (IaaS) to fully provider-managed solutions (SaaS).
     
-- **Choosing the right model:**  
+- **Choosing the right model**  
 	It is recommended to go as high as you can in the pyramid to meet your project's needs. Only go down the hierarchy if its necessary to have more control over the system.
 
 ---

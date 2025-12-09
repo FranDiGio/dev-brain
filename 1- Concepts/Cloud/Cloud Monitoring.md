@@ -7,15 +7,11 @@ It provides real-time visibility into system health and helps maintain reliabili
 ---
 ### `Key Ideas`
 
-- **Multi-Layer Visibility:**  
-    Monitoring occurs across multiple levels:
-    
+- **Multi-Layer Monitoring:**  
     - **Infrastructure Level:** Tracks virtual machines, containers, and networking health.
-        
     - **Database Level:** Observes query performance, storage, and latency.
-        
     - **Application Level:** Monitors uptime, API errors, and user experience metrics.
-        
+    
 - **Operational Metrics:**  
     Includes system resource usage (CPU, memory, storage), application logs, API calls, and request throughput.
     
@@ -25,7 +21,7 @@ It provides real-time visibility into system health and helps maintain reliabili
 - **Billing & Cost Optimization:**  
     Tracks resource consumption and spending to identify inefficiencies or anomalies.
     
-- **Tooling & Automation:**  
+- **Tooling & Automation**  
     Commonly uses cloud-native solutions like **AWS CloudWatch**, **Azure Monitor**, or **Google Cloud Operations Suite**, often integrated with alerting and dashboards (e.g., **Grafana**, **Prometheus**).
 
 ---

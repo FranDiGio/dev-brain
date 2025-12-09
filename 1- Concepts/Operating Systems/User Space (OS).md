@@ -23,7 +23,6 @@
     If a user-space process fails, the kernel remains unaffected, enabling strong OS reliability.
     
 - **Different per OS Family**
-    
     - **Linux:** GNU coreutils, shells, package managers, systemd, desktop environments
     - **Windows:** Win32 API, .NET runtime, Windows Shell (Explorer)
     - **macOS:** POSIX tools + Cocoa frameworks

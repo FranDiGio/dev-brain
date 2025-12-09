@@ -46,9 +46,23 @@
               "icon": "lucide-file",
               "title": "Linux User Space"
             }
+          },
+          {
+            "id": "2781662c88eb3e5e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "1- Concepts/Scrum/Scrum Artifacts.md",
+                "bFile": "1- Concepts/Scrum/Scrum Artifacts.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Scrum Artifacts"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,13 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1- Concepts/Operating Systems/Linux User Space.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux User Space"
+              "title": "Outline"
             }
           }
         ],
@@ -207,34 +220,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9af374b92b755f7",
+  "active": "2781662c88eb3e5e",
   "lastOpenFiles": [
-    "1- Concepts/Operating Systems/Linux User Space.md",
-    "Ubuntu Desktop.md",
-    "1- Concepts/Operating Systems/Operating System (OS).md",
+    "1- Concepts/Documentation/QA Documentation.md",
+    "1- Concepts/Scrum/Story Points.md",
+    "1- Concepts/Scrum/Sprint Review.md",
+    "1- Concepts/Scrum/Sprint Retrospective.md",
+    "1- Concepts/Scrum/Sprint Planning.md",
+    "1- Concepts/Scrum/Scrum Team.md",
+    "1- Concepts/Scrum/Scrum Roles.md",
+    "1- Concepts/Scrum/Scrum Metrics.md",
+    "1- Concepts/Scrum/Scrum Master.md",
+    "1- Concepts/Scrum/Scrum Events.md",
+    "1- Concepts/Scrum/Scrum Artifacts.md",
+    "1- Concepts/Scrum/Product Owner.md",
+    "1- Concepts/Scrum/Labels (Scrum).md",
+    "1- Concepts/Scrum/Daily Stand-up.md",
+    "1- Concepts/Scrum/Backlog Refinement.md",
+    "1- Concepts/Operating Systems/Windows Server Editions.md",
+    "1- Concepts/Operating Systems/Windows Desktop Editions.md",
     "1- Concepts/Operating Systems/User Space (OS).md",
+    "1- Concepts/Operating Systems/Operating System (OS).md",
+    "1- Concepts/Operating Systems/Linux User Space.md",
     "1- Concepts/Operating Systems/Linux Server Distros.md",
     "1- Concepts/Operating Systems/Linux Client Distros.md",
-    "4- Implementations/Windows Server 2022.md",
-    "Elementary OS.md",
-    "3- Technologies/Linux (OS).md",
-    "4- Implementations/Windows Server 2019.md",
-    "4- Implementations/Windows Server 2016.md",
-    "4- Implementations/Windows 11.md",
-    "4- Implementations/Windows Server 2012 R2.md",
-    "4- Implementations/Windows Server 2008 R2.md",
-    "4- Implementations/Windows 10.md",
-    "4- Implementations/Windows 7.md",
-    "4- Implementations/Windows XP.md",
-    "10- Templates/4- Implementation Template.md",
-    "1- Concepts/Operating Systems/Windows Server Editions.md",
-    "2- Methodologies/N-Layer Architecture.md",
-    "3- Technologies/Windows (OS).md",
-    "1- Concepts/Operating Systems/Windows Desktop Editions.md",
-    "3- Technologies/Unix.md",
-    "11- Vault Metadata/Vault Taxonomy.md",
-    "1- Concepts/Operating Systems/User Space vs Kernel Space.md",
     "1- Concepts/Operating Systems/Kernel Responsibilities.md",
+    "1- Concepts/Operating Systems/Kernel Implementations.md",
+    "1- Concepts/Operating Systems/Kernel.md",
+    "1- Concepts/Documentation/User Documentation.md",
     "1- Concepts/Operating Systems",
     "11- Vault Metadata/Images/Class Diagram.png",
     "11- Vault Metadata/Images/Component Diagram.png",

@@ -13,13 +13,9 @@ Different **deployment and pricing models** offered by cloud providers for runni
 - Common categories include:
     
     - **On-Demand Instances** – pay-as-you-go, full flexibility.
-        
     - **Reserved Instances** – long-term commitment, reduced price.
-        
     - **Spot / Preemptible Instances** – low cost, can be interrupted anytime.
-        
     - **Dedicated Hosts / Instances** – exclusive physical hardware for compliance or licensing needs.
-        
     - **Shared / Multi-Tenant Instances** – default, cost-effective shared infrastructure.
     
 - These options exist across most providers (AWS, Azure, GCP) with different naming but the same underlying concept.
