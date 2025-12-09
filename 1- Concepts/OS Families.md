@@ -27,7 +27,7 @@
 - [[Operating System (OS)]]
 - [[Unix]]
 - [[Linux (OS)]]
-- [[Windows NT Family]]
+- [[Windows (OS)]]
 - [[Mobile OS]]
 - [[Real-Time OS (RTOS)]]
 - [[Embedded OS]]

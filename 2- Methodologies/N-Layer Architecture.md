@@ -1,3 +1,4 @@
+
 ### `Definition`
 
 **Layered Architecture** organizes a software system into distinct layers — such as presentation, business logic, and data access — where each layer has a focused responsibility and communicates only with its adjacent layers.  
@@ -25,6 +26,15 @@ It is one of the most widely used architectural patterns in enterprise systems.
     
 - **Testability & Structure:**  
     Layers enable unit and integration testing with clear boundaries.
+    
+- **In Practice:**
+	- **2-layer** (UI ↔ DB)
+	    
+	- **3-layer** (Presentation ↔ Business Logic ↔ Data Access)
+	    
+	- **4-layer** (UI ↔ Application Layer ↔ Domain Layer ↔ Infrastructure Layer)
+	    
+	- **N-layer** (whatever the system requires)
 
 ---
 ### `Challenges`
@@ -43,4 +53,3 @@ It is one of the most widely used architectural patterns in enterprise systems.
 ### `Connected Notes`
 
 - [[Architectural Patterns]]
-- [[Three-Tier Architecture]]

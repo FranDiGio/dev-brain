@@ -21,7 +21,7 @@ Architectural styles describe the fundamental ways software systems can be struc
 
 - [[Software Architecture]]
 - [[Monolithic Architecture]]
-- [[Layered Architecture]]
+- [[N-Layer Architecture]]
 - [[Component-Based Architecture]]
 - [[Service-Oriented Architecture (SOA)]]
 - [[Microservices Architecture]]
