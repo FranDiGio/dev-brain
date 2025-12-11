@@ -37,4 +37,4 @@
 ---
 ### `Connected Notes`
 
-- [[Package Managers]]
+- [[Language Package Managers]]

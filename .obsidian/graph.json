@@ -11,7 +11,7 @@
       "query": "path:\"1- Concepts\"  ",
       "color": {
         "a": 1,
-        "rgb": 11934463
+        "rgb": 12929023
       }
     },
     {
@@ -53,7 +53,7 @@
       "query": "path:\"7- Domains\"  ",
       "color": {
         "a": 1,
-        "rgb": 13726
+        "rgb": 6892286
       }
     },
     {
@@ -67,7 +67,7 @@
       "query": "path:\"9- References & Standards\"  ",
       "color": {
         "a": 1,
-        "rgb": 16281062
+        "rgb": 16480709
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 17.1354166666667,
   "linkStrength": 1,
   "linkDistance": 213,
-  "scale": 0.565210828609896,
+  "scale": 0.7924159153489495,
   "close": true
 }

@@ -42,9 +42,9 @@ It is what differentiates one **Linux distribution** from another far more than 
 ### `Connected Notes`
 
 - [[User Space (OS)]]
-- [[Shells]]
+- [[Linux Shells]]
 - [[Linux Package Managers]]
 - [[Systemd]]
 - [[GNU Coreutils]]
 - [[Filesystem Hierarchy Standard (FHS)]]
-- [[Desktop Environments]]
+- [[Linux Desktop Environments]]

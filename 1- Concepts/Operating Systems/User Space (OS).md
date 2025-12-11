@@ -34,6 +34,7 @@
 ### `Connected Notes`
 
 - [[Operating System (OS)]]
+- [[User Space Components (OS)]]
 - [[Windows User Space]]
 - [[macOS User Space]]
 - [[Linux User Space]]

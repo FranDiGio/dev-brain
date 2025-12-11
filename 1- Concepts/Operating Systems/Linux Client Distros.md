@@ -32,4 +32,5 @@
 - [[Fedora Workstation]]
 - [[Pop!_OS]]
 - [[Linux Mint]]
-- [[Elementary OS]]
+- [[Debian Desktop]]
+- [[Arch Linux]]
