@@ -34,5 +34,5 @@ These components are _general to all operating systems_ (Linux, Windows, macOS),
 - [[Runtime Environments (OS)]]
 - [[User-Space Utilities]]
 - [[OS Package Managers]]
-- [[User Applications]]
+- [[User Applications (OS)]]
 - [[Authentication & Session Services]]

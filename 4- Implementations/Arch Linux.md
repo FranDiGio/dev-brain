@@ -1,80 +1,68 @@
 
 ### `Definition`
 
-**Arch Linux** is a lightweight, rolling-release Linux distribution designed for **advanced users who want complete control over their system**. It follows the **KISS (Keep It Simple, Stupid)** philosophy: build a minimal base and let users install only what they need, resulting in a highly customized and efficient environment.
+**Arch Linux** is a lightweight, flexible, rolling-release Linux distribution designed for users who want **full control over their system**. It provides a minimal base, leaving all configuration, package choices, and system behavior entirely up to the user.
 
 ---
 ### `Key Capabilities`
 
 - **Rolling Release Model**  
-    Always up to date with the newest kernels, drivers, compilers, and applications without needing full upgrades.
+    Continuously updated system with the latest software and kernels—no major version upgrades.
     
 - **Pacman Package Manager**  
-    Fast, simple, and powerful package management system using binary packages.
+    Fast, simple package manager using the `.pkg.tar.zst` format.
     
-- **Arch User Repository (AUR)**  
-    A massive community-driven repository enabling installation of thousands of additional packages via helpers like:
+- **AUR (Arch User Repository)**  
+    Massive community repository containing thousands of user-maintained packages.
     
-    - `yay`
-    - `paru`
+- **KISS Philosophy (Keep It Simple, Stupid)**  
+    The system is kept as simple and transparent as possible—no hidden abstractions.
     
-- **Minimalist Base Installation**  
-    Starts with no GUI — users build the system from the ground up:
-    
-    - Choose the desktop environment
-    - Choose the drivers
-    - Choose the services
+- **Highly Customizable**  
+    You install only what you want—no preconfigured desktop, no bloat, fully DIY system.
     
 - **Excellent Documentation (Arch Wiki)**  
-    Arguably the best Linux documentation available, used even by non-Arch users.
-    
-- **Bleeding-Edge Software Availability**  
-    Perfect for developers who need access to the latest toolchains, kernels, and GPU stacks.
-    
-- **Systemd Integration**  
-    Uses systemd extensively for init and service management.
+    One of the best technical documentation resources in the Linux ecosystem.
 
 ---
 ### `Usage Basics`
 
-- Installed through a **manual installation process**, requiring:
+- Installed using a **manual installation process**, typically:
+    - Partition disk
+    - Mount filesystems
+    - Install base system via `pacstrap`
+    - Configure bootloader, users, networking
     
-    - Partitioning
-    - Mounting filesystems
-    - Installing base packages
-    - Configuring bootloader, networking, and DE
-    
-- Software installed via:
-    
+- Software managed using:
     - `sudo pacman -S <package>`
-    - AUR helpers (`yay -S <package>`)
+    - `sudo pacman -Syu` (full system update)
     
-- Ideal for:
+- Additional packages via AUR using helpers like:
+    - `yay`
+    - `paru`
     
-    - Power users
-    - Developers who need up-to-date toolchains
-    - Users who want full control of their system
-    - Enthusiasts who enjoy customizing every layer
+- User selects and installs their own:
+    - Desktop environment (GNOME, KDE, XFCE, etc.)
+    - Display manager
+    - Drivers
+    - Services
 
 ---
 ### `Challenges`
 
 - **Not beginner-friendly**  
-    Manual installation and configuration require strong Linux familiarity.
+    Requires strong Linux knowledge and hands-on configuration.
     
-- **System breakage is possible**  
-    With bleeding-edge updates comes increased maintenance responsibility.
+- **Rolling release risks**  
+    Updates can break systems if not reviewed or maintained properly.
     
-- **No long-term support versions**  
-    Rolling release means you must update regularly.
+- **Manual setup**  
+    No graphical installer (officially), everything is done through the terminal.
     
-- **Occasional package conflicts or manual intervention**  
-    Users may need to fix issues after updates.
-    
-- **Higher learning curve**  
-    Requires deep understanding of Linux internals.
+- **Unsuitable for production servers**  
+    Lack of LTS releases and constant updates make it unstable for enterprise use.
 
 ---
 ### `Connected Notes`
 
-- [[Linux Client Distros]]
+- [[Arch-based Distributions]]

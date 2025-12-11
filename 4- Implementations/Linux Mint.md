@@ -65,4 +65,4 @@ It emphasizes usability, simplicity, and out-of-the-box functionality with minim
 ---
 ### `Connected Notes`
 
-- [[Linux Client Distros]]
+- [[Debian-based Distributions]]

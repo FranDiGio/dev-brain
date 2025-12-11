@@ -36,5 +36,7 @@
 ### `Connected Notes`
 
 - [[OS Families]]
-- [[Linux Client Distros]] 
-- [[Linux Server Distros]]
+- [[Debian-based Distributions]]
+- [[RPM-based Distributions]]
+- [[Arch-based Distributions]]
+- [[Alpine-based Distributions]]

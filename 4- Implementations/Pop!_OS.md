@@ -78,4 +78,4 @@ It features a custom desktop environment (**COSMIC**) optimized for workflow eff
 ---
 ### `Connected Notes`
 
-- [[Linux Client Distros]]
+- [[Debian-based Distributions]]

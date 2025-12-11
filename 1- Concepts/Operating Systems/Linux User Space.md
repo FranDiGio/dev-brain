@@ -43,7 +43,7 @@ It is what differentiates one **Linux distribution** from another far more than 
 
 - [[User Space (OS)]]
 - [[Linux Shells]]
-- [[Linux Package Managers]]
+- [[Linux Package Management]]
 - [[Systemd]]
 - [[GNU Coreutils]]
 - [[Filesystem Hierarchy Standard (FHS)]]
