@@ -1,8 +1,7 @@
 
 ### `Definition`
 
-The **Pacman Package Ecosystem** is the software packaging and distribution framework used by **Arch Linux** and Arch-based distributions.  
-It revolves around the **pacman package manager**, the **PKG package format**, and the ability to extend software availability through the **Arch User Repository (AUR)**.
+The **Pacman Package Ecosystem** is the software packaging and distribution framework used by **Arch Linux** and Arch-based distributions. It revolves around the **pacman package manager**, the **PKG package format**, and the ability to extend software availability through the **Arch User Repository (AUR)**.
 
 ---
 ### `Key Ideas`
@@ -34,7 +33,6 @@ It revolves around the **pacman package manager**, the **PKG package format**, a
 ### `Connected Notes`
 
 - [[Linux Package Management]]
-- [[Arch-based Distributions]]
 - [[Pacman]]
 - [[PKG Package Format]]
 - [[AUR]]

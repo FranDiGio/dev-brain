@@ -28,9 +28,7 @@ The **DEB Package Ecosystem** is the software packaging and distribution system 
 ### `Connected Notes`
 
 - [[Linux Package Management]]
-- [[DEB-based Distributions]]
 - [[DEB Package Format (.deb)]]
 - [[dpkg]]
 - [[APT]]
-- [[GNOME Software]]
 - [[Update Manager]]

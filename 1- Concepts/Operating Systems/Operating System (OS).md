@@ -38,3 +38,4 @@ An **Operating System (OS)** is foundational system software that manages hardwa
 - [[Processes]]
 - [[System Calls]]
 - [[User Space (OS)]]
+- [[POSIX]]

@@ -27,7 +27,6 @@ These distros share a common foundation but differ in goals, user experience, re
 ### `Connected Notes`
 
 - [[Linux (OS)]]
-- [[DEB Package Ecosystem]]
 - [[Debian]]
 - [[Ubuntu]]
 - [[Linux Mint]]

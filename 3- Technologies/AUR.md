@@ -1,8 +1,7 @@
 
 ### **`Definition`**
 
-The **Arch User Repository (AUR)** is a **community-maintained software repository** for Arch Linux and Arch-based systems.  
-It provides access to thousands of packages not found in the official repos by using **PKGBUILD scripts** that allow users to build software from source.
+The **Arch User Repository (AUR)** is a **community-maintained software repository** for Arch Linux and Arch-based systems. It provides access to thousands of packages not found in the official repos by using **PKGBUILD scripts** that allow users to build software from source.
 
 ---
 ### **`Key Ideas`**
@@ -36,4 +35,4 @@ It provides access to thousands of packages not found in the official repos by u
 ---
 ### **`Connected Notes`**
 
-- [[Arch-based Distributions]]
+- [[Pacman Package Ecosystem]]

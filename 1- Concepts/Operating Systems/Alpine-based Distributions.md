@@ -26,11 +26,10 @@ These distros prioritize minimalism, small footprint, and security-hardening, ma
     Rarely used as a desktop OS; optimized for performance and stability in small environments.
     
 - **Simple, Modular Design**  
-    Built around BusyBox utilities and minimal userspace tooling.
+    Built around BusyBox utilities and minimal user space tooling.
 
 ---
 ### `Connected Notes`
 
 - [[Linux (OS)]]
-- [[APK Package Ecosystem]]
 - [[Alpine Linux]]

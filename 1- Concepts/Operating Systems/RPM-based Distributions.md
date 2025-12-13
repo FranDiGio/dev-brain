@@ -27,7 +27,6 @@ These distros share a common technological foundation but differ widely in purpo
 ### `Connected Notes`
 
 - [[Linux (OS)]]
-- [[RPM Package Ecosystem]]
 - [[RHEL]]
 - [[AlmaLinux]]
 - [[Rocky Linux]]

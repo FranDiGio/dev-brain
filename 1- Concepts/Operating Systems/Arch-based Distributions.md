@@ -27,8 +27,6 @@ These distros vary in difficulty, tooling, and user experience — from fully DI
 ### `Connected Notes`
 
 - [[Linux (OS)]]
-- [[Pacman Package Ecosystem]]
 - [[Arch Linux]]
 - [[Manjaro]]
 - [[EndeavourOS]]
-- [[AUR]]

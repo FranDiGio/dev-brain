@@ -28,8 +28,8 @@ These components are _general to all operating systems_ (Linux, Windows, macOS),
 
 - [[User Space (OS)]]
 - [[Terminal]]
-- [[Shells]]
-- [[Desktop Environments]]
+- [[Shell]]
+- [[Desktop Environment]]
 - [[Window Managers]]
 - [[Runtime Environments (OS)]]
 - [[User-Space Utilities]]

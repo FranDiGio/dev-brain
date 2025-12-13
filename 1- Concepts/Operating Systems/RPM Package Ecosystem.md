@@ -28,7 +28,6 @@ The **RPM Package Ecosystem** is the software packaging and distribution framewo
 ### `Connected Notes`
 
 - [[Linux Package Management]]
-- [[RPM-based Distributions]]
 - [[RPM Package Format (.rpm)]]
 - [[rpm]]
 - [[DNF]]
