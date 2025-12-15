@@ -34,4 +34,4 @@
 ### `Connected Notes`
 
 - [[Git]]
-- [[Git Commands Reference]]
+- [[9- References & Standards/Git Commands]]

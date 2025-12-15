@@ -20,7 +20,6 @@ Each integration triggers an **automated build and test process**, ensuring the 
     
 - **Cultural alignment** → Encourages collaboration, accountability, and shared responsibility for quality across the team.
 
-
 ---
 ### `Challenges`
 
@@ -32,9 +31,8 @@ Each integration triggers an **automated build and test process**, ensuring the 
     
 - **Tooling setup** → Implementing reliable pipelines requires consistent environments and robust automation.
 
-
 ---
 ### `Connected Notes`
 
 - [[CI-CD Pipelines]]
-- [[Automation]]
+- [[Test Driven Development (TDD)]]

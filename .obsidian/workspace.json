@@ -18,20 +18,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "fc9758d90bfde1a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3- Technologies/QNX Kernel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QNX Kernel"
-            }
           }
         ]
       }
@@ -191,8 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03dfe368836a1e5c",
+  "active": "1a0898386f26b1b6",
   "lastOpenFiles": [
+    "9- References & Standards/Linux Utilities Commands.md",
+    "2- Methodologies/Continuous Integration (CI).md",
+    "3- Technologies/CI-CD Pipelines.md",
+    "2- Methodologies/Continuous Delivery (CD).md",
     "3- Technologies/QNX Kernel.md",
     "3- Technologies/BSD Kernel.md",
     "3- Technologies/XNU Kernel.md",
@@ -219,10 +209,6 @@
     "snippets",
     "5- Deliverables/Software Design Document (SDD).md",
     "5- Deliverables/Product Backlog.md",
-    "5- Deliverables/Increment (Scrum).md",
-    "5- Deliverables/Epic.md",
-    "5- Deliverables/Burndown Chart.md",
-    "5- Deliverables/User Stories.md",
     "1- Concepts/Operating Systems",
     "11- Vault Metadata/Images/Class Diagram.png",
     "11- Vault Metadata/Images/Component Diagram.png",

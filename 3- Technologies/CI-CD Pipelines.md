@@ -65,4 +65,4 @@ deploy:
 - [[Continuous Integration (CI)]]
 - [[Continuous Delivery (CD)]]
 - [[DevOps]]
-- [[Automation]]
+
