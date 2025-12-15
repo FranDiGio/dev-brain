@@ -28,5 +28,5 @@ Kernel implementations are **real-world operating system kernels** that apply sp
 - [[Linux (Kernel)]] 
 - [[Windows NT Kernel]]
 - [[XNU Kernel]]
-- [[BSD Kernels]]
+- [[BSD Kernel]]
 - [[QNX Kernel]]
