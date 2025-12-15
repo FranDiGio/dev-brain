@@ -79,7 +79,7 @@ A practical reference for commonly used **Git commands**, explaining what each c
 - `git push origin <branch>` — push local commits
 
 
-##### ==`Configuration==
+##### ==`Configuration`==
 `
 - `git config --global user.name "<name>"`
     

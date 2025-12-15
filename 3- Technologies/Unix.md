@@ -44,3 +44,5 @@
 ### `Connected Notes`
 
 - [[OS Families]]
+- [[macOS]]
+- [[BSD]]

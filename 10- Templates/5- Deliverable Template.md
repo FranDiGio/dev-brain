@@ -9,7 +9,7 @@
 %% Core principles, typical workflow or stages... %%
 
 ---
-### `Example`
+### `Example (Optional)`
 
 %% A screenshot or quick mock-up of the same %%
 

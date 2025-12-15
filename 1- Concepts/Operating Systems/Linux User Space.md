@@ -8,9 +8,6 @@ It is what differentiates one **Linux distribution** from another far more than 
 ---
 ### `Key Ideas`
 
-- **GNU Core Utilities**  
-    Most Linux distros rely on the GNU toolset (glibc, coreutils, bash, etc.) to provide essential command-line tools and foundational libraries.
-    
 - **Shells & Command-Line Interfaces**  
     User space includes interactive shells such as **Bash**, **Zsh**, **Fish**, enabling users to run commands, scripts, and automation workflows.
     
@@ -44,7 +41,7 @@ It is what differentiates one **Linux distribution** from another far more than 
 - [[User Space (OS)]]
 - [[Linux Shells]]
 - [[Linux Package Management]]
+- [[Linux Utilities]]
 - [[Systemd]]
-- [[GNU Coreutils]]
 - [[Filesystem Hierarchy Standard (FHS)]]
 - [[Linux Desktop Environments]]

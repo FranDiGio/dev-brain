@@ -15,6 +15,7 @@ State machine diagrams model how an object or system transitions between differe
 - Capture valid and invalid transitions, ensuring predictable behavior.
     
 - Common in systems with well-defined processes or workflows.
+
 ---
 ### `Example`
 
