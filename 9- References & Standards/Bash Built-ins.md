@@ -31,6 +31,14 @@ To provide a **clear, shell-specific reference** for commands that are **handled
     
 - `exec <cmd>` — replace shell process with command
 
+##### ==`Input & I/O Built-ins`==
+
+- `read VAR` — read a line from stdin into a variable  
+	
+- `read -p "Prompt: " VAR` — prompt before reading input  
+	
+- `read -r VAR` — read raw input (disable backslash escaping)
+
 ##### ==`Environment & Context`==
 
 - `export VAR=value` — export variable to child processes

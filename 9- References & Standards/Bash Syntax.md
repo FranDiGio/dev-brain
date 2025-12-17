@@ -1,9 +1,7 @@
 
 ### `Definition`
 
-A reference for **Bash shell syntax and language rules**, describing **how Bash parses, expands, and executes commands**.
-
-This defines Bash as a **scripting language**, not just a command runner.
+A reference for **Bash shell syntax and language rules**, describing **how Bash parses, expands, and executes commands**. This defines Bash as a **scripting language**, not just a command runner.
 
 ---
 ### `Purpose`
@@ -27,10 +25,14 @@ To document the **grammar and execution rules of Bash**, enabling correct script
 
 ##### ==`Quoting & Globbing`==
 
+- `#` — comment delimiter (everything after is ignored by the shell)
+	
 - `*` — wildcard match
     
 - `?` — single-character match
-    
+	
+- `;` — command separator
+	
 - `[]` — character class
     
 - `"double quotes"` — expand variables, preserve spaces
@@ -45,7 +47,9 @@ To document the **grammar and execution rules of Bash**, enabling correct script
     
 - `>>` — append stdout
     
-- `2>` — redirect stderr
+- `2>` — redirect stderr, overwrite
+	
+- `2>>` — redirect stderr, append
     
 - `&>` — redirect stdout + stderr
     
@@ -73,7 +77,9 @@ Common tests:
 
 ##### ==`Loops & Flow Control`==
 
-- `for var in list; do ... done`
+- `for i in {0..5}; do ... done`
+	
+- `for item in ${my_array[@]}; do ... done`
     
 - `while condition; do ... done`
     
