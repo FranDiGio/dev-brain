@@ -18,8 +18,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "ae930f9fbce0aade",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "8- Languages/Python.md",
+                "bFile": "8- Languages/Python.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Python"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03dfe368836a1e5c",
+  "active": "ae930f9fbce0aade",
   "lastOpenFiles": [
+    "8- Languages/Python.md",
     "4- Implementations/macOS Sonoma (14).md",
     "1- Concepts/Data Structures/Vectors.md",
     "4- Implementations/macOS Ventura (13).md",
@@ -205,7 +221,6 @@
     "CSPM.md",
     "11- Vault Metadata/Images/Use Case Diagram.png",
     "5- Deliverables/Use Case Diagrams.md",
-    "5- Deliverables/Network Diagram.md",
     "11- Vault Metadata/Images/Network Diagram.png",
     "snippets/center-mermaid.css",
     "snippets",
