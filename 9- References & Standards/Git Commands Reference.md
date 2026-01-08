@@ -109,4 +109,4 @@ A practical reference for commonly used **Git commands**, explaining what each c
 ---
 ### `Connected Notes`
 
-- [[1- Concepts/Git Commands]]
+- [[Git]]

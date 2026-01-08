@@ -53,6 +53,5 @@ git push                  # send commits to remote
 ### `Connected Notes`
 
 - [[Version Control System (VCS)]]
-- [[1- Concepts/Git Commands]]
 - [[Git Workflows]]
 - [[GitHub]]

@@ -59,7 +59,7 @@ BSD serves as the technical and philosophical base for several modern Unix opera
 ---
 ### `Connected Notes`
 
-- [[Unix]]
+- [[Unix (OS)]]
 - [[FreeBSD]]
 - [[OpenBSD]]
 - [[NetBSD]]

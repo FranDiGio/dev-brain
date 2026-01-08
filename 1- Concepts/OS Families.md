@@ -25,7 +25,7 @@
 ### `Connected Notes`
 
 - [[Operating System (OS)]]
-- [[Unix]]
+- [[Unix (OS)]]
 - [[Linux (OS)]]
 - [[Windows (OS)]]
 - [[Mobile OS]]

@@ -64,7 +64,7 @@ It serves as the primary operating system for **Apple Mac computers**.
 ---
 ### `Connected Notes`
 
-- [[Unix]]
+- [[Unix (OS)]]
 - [[macOS Catalina (10)]]
 - [[macOS Big Sur (11)]]
 - [[macOS Monterey (12)]]
