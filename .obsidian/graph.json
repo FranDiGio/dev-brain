@@ -15,10 +15,17 @@
       }
     },
     {
+      "query": "path:\"2- Mechanisms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16757294
+      }
+    },
+    {
       "query": "path:\"2- Methodologies\"  ",
       "color": {
         "a": 1,
-        "rgb": 16703601
+        "rgb": 16771584
       }
     },
     {
@@ -46,41 +53,41 @@
       "query": "path:\"6- Practices\"  ",
       "color": {
         "a": 1,
-        "rgb": 15957567
+        "rgb": 5850110
       }
     },
     {
       "query": "path:\"7- Domains\"  ",
       "color": {
         "a": 1,
-        "rgb": 6892286
+        "rgb": 0
       }
     },
     {
       "query": "path:\"8- Languages\"  ",
       "color": {
         "a": 1,
-        "rgb": 16197158
+        "rgb": 16731469
       }
     },
     {
       "query": "path:\"9- References & Standards\"  ",
       "color": {
         "a": 1,
-        "rgb": 16480709
+        "rgb": 16732855
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.7,
   "nodeSizeMultiplier": 1.02404844290657,
   "lineSizeMultiplier": 0.725260416666667,
   "collapse-forces": false,
-  "centerStrength": 0.3359375,
+  "centerStrength": 0.268229166666667,
   "repelStrength": 10.8854166666667,
   "linkStrength": 0.768229166666667,
-  "linkDistance": 95,
-  "scale": 0.38230109687700914,
+  "linkDistance": 232,
+  "scale": 0.09895430218637938,
   "close": true
 }

@@ -37,7 +37,6 @@ Kernel responsibilities refer to the **core functions performed by an operating 
 ### `Connected Notes`
 
 - [[Kernel]]
-- [[Processes]]
 - [[Memory Management]]
 - [[System Calls]]
 - [[Drivers]]

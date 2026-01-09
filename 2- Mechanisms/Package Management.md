@@ -1,8 +1,7 @@
 
 ### `Definition`
 
-**Package Management** refers to the general system that automates retrieving, installing, configuring, updating, and removing software components.  
-It exists in two major domains:
+**Package Management** refers to the general system that automates retrieving, installing, configuring, updating, and removing software components. It exists in two major domains:
 
 - **OS-level package management** (system software)
 - **Language-level package management** (project dependencies)

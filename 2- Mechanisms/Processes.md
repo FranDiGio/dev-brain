@@ -35,5 +35,4 @@ It encapsulates a program’s **execution state**, allocated resources, and isol
 ---
 ### `Connected Notes`
 
-- [[Kernel Responsibilities]]
 - [[Operating System (OS)]]
