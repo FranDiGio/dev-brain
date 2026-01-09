@@ -1,44 +1,29 @@
 
 ### `Definition`
 
-**Authentication & Session Management** encompasses the mechanisms that verify user identity and maintain a user’s active state across system and application interactions.
+**Authentication & session management** is a **mechanism for verifying identity and maintaining continuity of access** across system or application interactions.
+
+It enables systems to recognize _who_ is interacting and to preserve that identity across multiple operations over time.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Authentication**  
-    Determines **who** a user is.  
-    Common methods:
+Identity is first established through an authentication step, where credentials or proofs are validated. Once authenticated, a session is created to represent the ongoing interaction, allowing subsequent requests to be associated with the same identity.
+
+The mechanism relies on session identifiers, tokens, or system-level contexts that are tracked, validated, and eventually expired to prevent misuse.
+
+---
+### `Why It Exists`
+
+- To enable **secure identity verification** in multi-user systems
     
-    - passwords
-    - SSH keys
-    - OAuth tokens
-    - biometrics
-    - OS accounts
-    - federated login (SSO)
+- To maintain **continuity of access** across multiple interactions
     
-- **Authorization** _(often paired conceptually)_  
-    Controls **what** a user can access after being authenticated.
+- To enforce **controlled access** to resources over time
     
-- **Session Management**  
-    Maintains a user’s authenticated state using:
+- To support **stateful interaction** without repeated authentication
     
-    - session tokens
-    - cookies
-    - access/refresh tokens
-    - OS login sessions
-    - TTY/terminal sessions
-    - desktop login sessions
-    
-- **Exists at multiple layers**:
-    
-    - **OS-level**: user login, permissions, shells, sudo
-    - **Application-level**: web sessions, JWT, OAuth
-    - **Network-level**: SSH, Kerberos
-    
-- Sessions require **state tracking** and **expiration policies** to prevent unauthorized reuse.
-    
-- Essential for **security**, **resource access**, and **multi-user environments**.
+- To reduce security risks through **session lifecycle management**
 
 ---
 ### `Connected Notes`

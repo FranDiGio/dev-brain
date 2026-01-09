@@ -1,25 +1,27 @@
 
 ### `Definition`
 
-An **application server** is a system component that executes server-side application logic. It processes business rules, handles workflows, and coordinates interaction between web servers and databases.
+An **application server** is a **system mechanism** responsible for **executing server-side application logic** and coordinating interactions between clients, infrastructure services, and data stores.
+
+It enables applications to separate **business behavior** from presentation and persistence concerns.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Runs Business Logic:**  
-    Executes the core rules that define how the application behaves.
+Client requests are received (directly or via a web server) and routed to application logic managed by the application server. 
+
+The mechanism executes business rules, orchestrates workflows, manages application state, and interacts with external resources such as databases or messaging systems before returning results.
+
+---
+### `Why It Exists`
+
+- To **centralize business logic** outside of clients and databases
     
-- **Handles Dynamic Requests:**  
-    Processes data-based or transactional operations.
+- To enable **scalable, maintainable server-side execution**
     
-- **Acts as a Middle Tier:**  
-    Sits between client-facing servers and data storage.
+- To separate **application behavior** from request handling and data storage
     
-- **State & Session Management:**  
-    May manage sessions, authentication, and transactions.
-    
-- **Scalable Independently:**  
-    Often scaled separately from web and database servers.
+- To support **stateful interactions, transactions, and coordination** across system components
 
 ---
 ### `Connected Notes`
