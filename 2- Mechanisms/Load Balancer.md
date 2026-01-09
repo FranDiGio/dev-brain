@@ -1,28 +1,27 @@
 
 ### `Definition`
 
-A **load balancer** is a system component that distributes incoming network traffic across multiple servers to ensure no single server becomes overloaded. It improves performance, availability, and reliability of applications in production.
+A **load balancer** distributes incoming network requests across multiple servers to prevent any single server from becoming overloaded. It enables applications to handle traffic efficiently while maintaining availability and reliability.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Traffic Distribution:**  
-    Routes client requests across multiple backend servers (server farm).
+Incoming requests are received at a single entry point and routed to backend servers based on predefined routing logic.  
+
+The selection of a target server depends on factors such as current load, server health, or distribution strategy, ensuring traffic is spread across available resources.
+
+This routing happens transparently as requests flow through the system.
+
+---
+### `Why It Exists`
+
+- To prevent **overloading individual servers**
     
-- **High Availability:**  
-    If one server fails, traffic is redirected to healthy servers.
+- To improve **availability and fault tolerance**
     
-- **Scalability:**  
-    Enables horizontal scaling by adding or removing backend servers.
+- To enable **horizontal scalability**
     
-- **Request Routing Logic:**  
-    Uses algorithms like round-robin, least connections, or health-based routing.
-    
-- **Placement in Architecture:**  
-    Typically sits between clients and web or application servers.
-    
-- **Common in Production:**  
-    Essential for handling concurrent users and peak traffic reliably.
+- To maintain consistent performance under varying traffic levels
 
 ---
 ### `Connected Notes`

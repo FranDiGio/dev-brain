@@ -1,27 +1,32 @@
-
 ### `Definition`
 
-A **merge** is the process of integrating changes from one branch into another in a version control system. It combines different lines of development into a single, unified history.
+A **merge** integrates changes from one line of development into another, combining separate histories into a single codebase state. It enables independently developed changes to become part of a shared evolution.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Integrates Branches:**  
-    Brings committed changes from a source branch into a target branch (often `main`).
-    
-- **Preserves History:**  
-    Maintains the development history of both branches.
-    
-- **May Introduce Conflicts:**  
-    If the same code was changed differently, manual resolution is required.
-    
-- **Typically Follows Review:**  
-    In team workflows, merges usually happen after a pull request is approved.
-    
-- **Marks Completion:**  
-    Signals that a feature or fix is ready to be part of the main codebase.
+Changes from a source branch are compared against a target branch and applied to it.  
+If the changes affect different parts of the codebase, they can be integrated automatically.  
+
+When overlapping changes exist, conflicts arise and must be resolved before integration completes.
+
+The resulting state reflects contributions from both development lines.
 
 ---
+
+### `Why It Exists`
+
+- To **combine parallel work** into a unified codebase
+    
+- To support **collaboration across branches**
+    
+- To preserve development history while integrating changes
+    
+- To signal completion of isolated development efforts
+    
+
+---
+
 ### `Connected Notes`
 
 - [[Repository]]

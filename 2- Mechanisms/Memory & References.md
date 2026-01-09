@@ -1,18 +1,28 @@
 
 ### `Definition`
 
-Memory & references describe how a program stores data and how variables point to that data. Memory is where values live, and references are the addresses that allow the program to locate and interact with those values.
+**Memory & references** describe how a program **stores data in memory** and how program elements **locate and interact with that data**. They define the relationship between values, storage locations, and the names or references used to access them.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- Memory stores all program data (values, objects, arrays, stack frames).
+When a program runs, data is allocated into memory regions. 
+
+Variables either store values directly or store references that point to specific memory locations where values reside.
+
+Multiple references can point to the same memory location, allowing shared access to data.  
+How memory is allocated, accessed, and reclaimed depends on the execution model and language semantics.
+
+---
+### `Why it Exists`
+
+- To enable programs to **store and retrieve data**
     
-- References point to where a value lives instead of containing the value itself.
+- To allow **efficient sharing and manipulation** of values
     
-- Variables hold either literal values or references to memory locations.
+- To separate **identity** (where data lives) from **representation** (how it is accessed)
     
-- Multiple variables can reference the same value in memory.
+- To support complex data structures and program execution
 
 ---
 ### `Connected Notes`

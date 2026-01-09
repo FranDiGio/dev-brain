@@ -1,20 +1,28 @@
+
 ### `Definition`
 
-Control flow describes how a program decides the order in which instructions are executed. It determines which path the program follows, when it repeats actions, and when it exits or skips parts of the code.
+**Control flow** is a **mechanism that determines the order in which instructions are executed** within a program. It governs how execution progresses, branches, repeats, or terminates based on logic and state.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- Directs the sequence of execution in a program.
-    
-- Uses condition checks to choose between paths.
-    
-- Enables repeated execution through loops.
-    
-- Includes early exits like `break`, `continue`, and `return`.
+As a program runs, control flow directs execution from one instruction to the next.  
+Decision points evaluate conditions to select execution paths, while looping constructs redirect execution back to earlier points.
+
+Special control statements can alter the normal sequence by exiting, skipping, or returning from execution contexts.
 
 ---
+### `Why It Exists`
 
+- To enable **structured execution** of instructions
+    
+- To support **decision-making and repetition**
+    
+- To allow programs to respond dynamically to **data and state**
+    
+- To define predictable and understandable program behavior
+
+---
 ### `Connected Notes`
 
 - [[Programming Logic]]

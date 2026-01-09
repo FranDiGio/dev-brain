@@ -1,30 +1,27 @@
 
 ### `Definition`
 
-**Looping** is a **control structure** that repeatedly executes a set of instructions until a specified condition is met.
+**Looping** enables a program to **repeat execution of a set of instructions** while a specified condition holds. It allows repeated behavior without duplicating code.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Purpose:**  
-    Automates repetitive tasks efficiently, reducing redundancy and human error.
+A condition is evaluated to determine whether the loop body should execute. If the condition evaluates to true, the instructions inside the loop run and control returns to the condition check.  
+
+This cycle continues until the condition evaluates to false, at which point execution proceeds past the loop.
+
+Different loop forms determine when the condition is checked and how iteration is controlled.
+
+---
+### `Why It Exists`
+
+- To automate **repetitive tasks**
     
-- **Common Types:**
+- To process collections or sequences of data
     
-    - **While Loop:** Evaluates the condition _before_ each iteration.
-    - **For Loop:** Iterates a fixed number of times using a counter.
-    - **Do-While Loop:** Evaluates the condition _after_ executing the loop body (exit-controlled).
+- To perform iterative calculations or monitoring
     
-- **Example:**
-```python
-for i in range(5):
-    print(i)
-```
-- **Behavior:**  
-    The loop continues until its Boolean condition returns **False**, at which point the program exits the loop.
-    
-- **Importance:**  
-    Critical for processing lists, performing calculations, or monitoring real-time data.
+- To reduce code duplication and improve clarity
 
 ---
 ### `Connected Notes`

@@ -1,24 +1,27 @@
+
 ### `Definition`
 
-Identifiers are the names used to **reference components inside a program** — such as variables, constants, functions, methods, classes, and interfaces. They act as human-readable labels that point to stored values or executable logic.
+**Identifiers** provide a way to **name and reference elements within a program**, allowing code to refer to values, operations, and structures symbolically instead of through raw memory locations.
+
+They enable humans and compilers to associate meaning with program elements.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Purpose**  
-    Identifiers allow developers to refer to data or behavior in a program. Without them, everything would rely on raw memory locations, making programs unreadable and unmaintainable.
+When a program is processed, identifiers are bound to specific entities such as variables, functions, or types according to the language’s rules.
+
+During execution or compilation, these names are resolved to their corresponding memory locations, values, or executable logic based on scope and visibility rules. The resolution process determines which entity an identifier refers to at any given point.
+
+---
+### `Why It Exists`
+
+- To make programs **readable and maintainable**
     
-- **Human–Readable Labels**  
-    They make code understandable by giving meaning to values (e.g., `totalPrice` instead of a raw memory slot).
+- To allow symbolic reference to data and behavior
     
-- **Language Rules Apply**  
-    Every programming language defines how identifiers can be structured (allowed characters, case sensitivity, reserved keywords).
+- To support structured reasoning about program logic
     
-- **Link to Stored Values**  
-    For stored values, the identifier is simply the label that points to a value in memory (e.g., a number, string, object, or reference).
-    
-- **Part of Program Semantics**  
-    How identifiers are scoped, resolved, shadowed, or reused depends on the language’s semantics (e.g., block scope vs function scope).
+- To separate **human meaning** from low-level memory representation
 
 ---
 ### `Connected Notes`

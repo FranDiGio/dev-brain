@@ -1,34 +1,29 @@
 
 ### `Definition`
 
-An **interpreted language** is executed **line-by-line at runtime** by an **interpreter**, rather than being compiled into machine code ahead of time. The interpreter translates source code into machine instructions dynamically as the program runs.
+An **interpreted language** follows an execution approach where source code is **processed and executed at runtime**, rather than being fully translated into machine code beforehand.
+
+Program behavior is determined dynamically as instructions are evaluated during execution.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Execution Model:**  
-    The interpreter reads, parses, and executes code directly — each statement is translated on demand.
-    
-- **Development Benefits:**
-    
-    - Rapid iteration (no build step)
-    - Easier debugging and testing
-    - Platform independence (runs anywhere the interpreter exists)
-    
-- **Technical Drawbacks:**
-    
-    - Slower execution speed due to runtime translation
-    - Heavier memory use compared to compiled binaries
-    
-- **Common Interpreters:**  
-    CPython (for Python), Node.js (for JavaScript), Ruby MRI (for Ruby).
+Source code is read and analyzed during program execution.  
+
+Instructions are evaluated and executed incrementally, with program state updated as each step runs.
+
+This runtime processing relies on an execution environment that manages control flow, data handling, and interaction with system resources as the program progresses.
 
 ---
-### `Use Cases`
+### `Why It Exists`
 
-- **Scripting and Automation:** Ideal for quick scripts and task automation.
-- **Web Development:** JavaScript engines power client-side interactivity.
-- **Data Science:** Python’s interpreted nature allows dynamic experimentation.
+- To enable **rapid iteration and experimentation**
+    
+- To reduce upfront translation steps during development
+    
+- To support **dynamic behavior** and flexible program execution
+    
+- To allow programs to run across environments that share a compatible execution model
 
 ---
 ### `Connected Notes`

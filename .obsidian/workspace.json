@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2- Mechanisms/Compiled Languages.md",
+                "file": "2- Mechanisms/Merge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compiled Languages"
+              "title": "Merge"
             }
           }
         ],
@@ -194,6 +194,18 @@
   },
   "active": "0ac33d26ba4a9561",
   "lastOpenFiles": [
+    "2- Mechanisms/Memory & References.md",
+    "1- Concepts/Main Branch.md",
+    "2- Mechanisms/Machine Code.md",
+    "2- Mechanisms/Looping.md",
+    "2- Mechanisms/Load Balancer.md",
+    "2- Mechanisms/Interpreted Languages.md",
+    "2- Mechanisms/Identifiers.md",
+    "2- Mechanisms/Fork.md",
+    "2- Mechanisms/Firewall.md",
+    "2- Mechanisms/Desktop Environment.md",
+    "2- Mechanisms/Database Server.md",
+    "2- Mechanisms/Control Flow.md",
     "2- Mechanisms/Compiled Languages.md",
     "2- Mechanisms/Commit.md",
     "2- Mechanisms/Clone.md",
@@ -208,18 +220,6 @@
     "3- Technologies/Terminal.md",
     "10- Templates/3- Technology Template.md",
     "TODO.md",
-    "2- Mechanisms/Package Management.md",
-    "2- Mechanisms/Interpreted Languages.md",
-    "2- Mechanisms/Memory & References.md",
-    "2- Mechanisms/Main Branch.md",
-    "2- Mechanisms/Machine Code.md",
-    "2- Mechanisms/Looping.md",
-    "2- Mechanisms/Load Balancer.md",
-    "2- Mechanisms/Identifiers.md",
-    "2- Mechanisms/Fork.md",
-    "2- Mechanisms/Firewall.md",
-    "2- Mechanisms/Database Server.md",
-    "2- Mechanisms/Control Flow.md",
     "2- Mechanisms",
     "11- Vault Metadata/Images/Use Case Diagram.png",
     "11- Vault Metadata/Images/Network Diagram.png",

@@ -4,25 +4,22 @@
 A **firewall** is a security component that monitors and controls incoming and outgoing network traffic based on predefined security rules. It acts as a barrier between trusted internal networks and untrusted external networks.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Traffic Filtering:**  
-    Allows or blocks traffic based on IP addresses, ports, protocols, or rules.
+Network traffic is inspected as it enters or leaves a network boundary. Traffic is evaluated against a set of rules based on attributes such as source, destination, protocol, or port, and is either permitted or denied accordingly.
+
+This evaluation occurs transparently as data flows between network segments.
+
+---
+### `Why It Exists`
+
+- To **protect systems** from unauthorized or malicious network access
     
-- **Security Boundary:**  
-    Protects internal systems from unauthorized access, malware, and attacks.
+- To enforce **network-level security policies**
     
-- **Network Segmentation:**  
-    Separates public-facing components from internal services and databases.
+- To isolate internal components from external exposure
     
-- **Rule-Based Control:**  
-    Enforces policies on what traffic is permitted across network boundaries.
-    
-- **Critical in Production:**  
-    Especially important for systems exposed to the internet.
-    
-- **Often Invisible to Users:**  
-    Operates transparently without affecting normal application usage.
+- To reduce the attack surface of production systems
 
 ---
 ### `Connected Notes`
