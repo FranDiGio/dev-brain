@@ -1,31 +1,27 @@
 
 ### `Definition`
 
-A **Window Manager** is a system component in the graphical user space that controls how windows are placed, moved, resized, minimized, and displayed on screen. It is responsible for the _look and behavior_ of graphical windows—but **not** for drawing widgets or controlling the entire desktop environment.
+A **window manager** controls how **graphical windows are positioned, sized, focused, and displayed** within a graphical user environment. It defines the behavior and arrangement of application windows on the screen.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- Part of the **GUI stack** in user space.
+The window manager receives events related to window creation, focus changes, and user input.  
+
+Based on its rules, it determines how windows are placed, resized, layered, or arranged, and applies visual decorations or transitions as needed.
+
+It operates in user space and coordinates with the display system to reflect window state changes on screen.
+
+---
+### `Why It Exists`
+
+- To manage **window layout and interaction**
     
-- Handles:
+- To control focus, visibility, and window behavior
     
-    - window placement & tiling
-    - focus behavior
-    - borders, decorations, shadows
-    - keybindings for window actions
+- To support different interaction models such as stacking or tiling
     
-- **Two main categories**:
-    
-    - **Stacking Window Managers** – traditional overlapping windows (e.g., Openbox, Fluxbox).
-    - **Tiling Window Managers** – windows auto-arrange without overlap (e.g., i3, bspwm, AwesomeWM).
-    
-- In Linux, they can operate:
-    
-    - **Standalone**, or
-    - As part of a **Desktop Environment** (GNOME Shell, KWin in KDE).
-    
-- On Windows or macOS, the window manager is bundled inside the OS and not replaceable.
+- To provide a consistent way to organize graphical applications
 
 ---
 ### `Connected Notes`

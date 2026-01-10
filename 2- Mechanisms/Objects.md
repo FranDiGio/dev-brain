@@ -1,18 +1,27 @@
 
 ### `Definition`
 
-Objects are units of data and behavior combined into a single entity. They bundle **state** (attributes) and **actions** (methods) to represent real-world or logical concepts within a program.
+**Objects** organize **data and behavior into a single unit**, allowing programs to model entities that maintain state and perform actions. They provide a structured way to associate operations with the data they act upon.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- Contain **attributes** that store data.
+An object encapsulates state as stored values and exposes behavior through operations that can read or modify that state.
+
+Objects are created according to rules defined by the programming model, and interactions occur by invoking operations on specific object instances.
+
+State is maintained across these interactions, allowing objects to represent ongoing entities within a program.
+
+---
+### `Why It Exists`
+
+- To group related **data and behavior** together
     
-- Expose **methods** that operate on that data.
+- To model complex entities in a structured way
     
-- Created from **classes** or prototypes depending on the language.
+- To promote **encapsulation and organization** of program logic
     
-- Represent entities with both state and behavior.
+- To support modular and maintainable program design
 
 ---
 ### `Connected Notes`

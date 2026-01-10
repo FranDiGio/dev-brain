@@ -1,36 +1,27 @@
 
 ### `Definition`
 
-A **process** is an **instance of a running program**, representing the unit through which an operating system **executes, schedules, and manages work**.
-
-It encapsulates a program’s **execution state**, allocated resources, and isolation boundaries.
+A **process** represents a **running instance of a program**, encompassing its execution state, allocated resources, and isolation boundaries within an operating system. It is the fundamental unit through which work is executed and managed.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Execution Context**  
-    A process includes the program code plus its runtime state: registers, program counter, stack, and heap.
+When a program is started, the operating system creates a process by loading the program code and initializing its execution context.  
+
+The process maintains state such as registers, memory regions, and resource handles while it runs.
+
+The operating system scheduler selects processes (or their threads) to receive CPU time, and controlled transitions into privileged execution occur when the process requests system services.
+
+---
+### `Why It Exists`
+
+- To enable **concurrent execution** of multiple programs
     
-- **Isolation & Protection**  
-    Each process runs in its own **virtual address space**, preventing it from directly accessing memory or resources of other processes.
+- To provide **isolation and protection** between running workloads
     
-- **Lifecycle**  
-    Processes typically move through states such as _created_, _ready_, _running_, _waiting_, and _terminated_.
+- To manage **resource allocation and scheduling**
     
-- **Resource Ownership**  
-    A process owns resources like memory regions, file descriptors, handles, and security credentials.
-    
-- **Scheduling Unit**  
-    The OS scheduler selects which process (or its threads) gets CPU time.
-    
-- **Parent–Child Relationships**  
-    Processes are often created by other processes, forming hierarchies used for control and cleanup.
-    
-- **User Space vs Kernel Space**  
-    Most process execution occurs in user space, with controlled transitions into kernel space via system calls.
-    
-- **Threads vs Processes**  
-    A process may contain one or more threads, which share the same address space but execute independently.
+- To support structured program lifecycles and execution control
 
 ---
 ### `Connected Notes`

@@ -1,28 +1,26 @@
 
 ### `Definition`
 
-A **pull request (PR)** is a mechanism for proposing changes from one branch to another and requesting review and approval before those changes are merged. It enables collaboration, discussion, and quality control in team-based development.
+A **pull request (PR)** provides a structured way to **propose integrating changes** from one line of development into another while enabling review and discussion before integration. It introduces a controlled checkpoint between independent work and shared code.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Proposes Integration:**  
-    A pull request asks to merge committed changes from a source branch into a target branch (often main).
+Changes committed on a source branch are presented for comparison against a target branch.  
+Reviewers can inspect the differences, comment, request modifications, or approve the proposal.
+
+Once approved, the changes can be integrated, completing the transition from isolated development to shared history.
+
+---
+### `Why It Exists`
+
+- To enable **collaborative review** of proposed changes
     
-- **Code Review Workflow:**  
-    Team members can review, comment on, and request changes before approval.
+- To improve **code quality and correctness** before integration
     
-- **Gatekeeper for Main Branch:**  
-    Helps protect stable branches from unreviewed or unsafe changes.
+- To protect stable branches from unvetted changes
     
-- **Tracks Responsibility:**  
-    Records who proposed, reviewed, approved, and merged the changes.
-    
-- **Supports Incomplete Work:**  
-    PRs can be opened early to gather feedback before final completion.
-    
-- **Tool-Specific Concept:**  
-    Common in platforms like GitHub, GitLab, and Bitbucket (not part of core Git).
+- To create a visible record of discussion and decision-making
 
 ---
 ### `Connected Notes`

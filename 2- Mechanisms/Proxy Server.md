@@ -1,28 +1,27 @@
 
 ### `Definition`
 
-A **proxy server** is an intermediary system that sits between clients and backend servers, forwarding requests and responses on their behalf to improve control, security, performance, or reliability.
+A **proxy server** sits **between clients and backend services**, forwarding requests and responses on their behalf. It allows control over how traffic enters, exits, or traverses a system.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Intermediary Role:**  
-    Receives requests from clients and forwards them to appropriate servers.
+Client requests are first received by the proxy instead of reaching backend services directly.  
+
+The proxy evaluates each request and forwards it to the appropriate destination, optionally modifying, filtering, caching, or rejecting it.
+
+Responses from backend services are returned through the proxy before reaching the client, allowing the same control to be applied in reverse.
+
+---
+### `Why It Exists`
+
+- To provide **control and visibility** over network traffic
     
-- **Traffic Management:**  
-    Can route, filter, or modify requests and responses.
+- To improve **security** by isolating backend services
     
-- **Security Functions:**  
-    Hides internal server details and can block malicious traffic.
+- To optimize **performance** through caching or request handling
     
-- **Performance Optimization:**  
-    Supports caching, compression, and request throttling.
-    
-- **Multiple Use Cases:**  
-    Can act as a load balancer, cache, firewall, or gateway depending on configuration.
-    
-- **Placement in Architecture:**  
-    Typically located between tiers or at the system edge.
+- To support flexible **traffic routing and system boundaries**
 
 ---
 ### `Connected Notes`

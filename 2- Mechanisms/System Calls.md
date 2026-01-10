@@ -1,33 +1,28 @@
 
 ### `Definition`
 
-**System calls** are the **controlled mechanism** through which **user-space programs request services from the operating system kernel**.
-
-They define how applications safely access core OS functionality without breaking isolation or security.
+**System calls** define how **user-space programs request services from the operating system kernel** in a controlled and safe manner. They provide the formal interface through which applications access core operating system functionality.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **User Space ↔ Kernel Space Boundary**  
-    System calls mark the formal transition point between unprivileged application code and privileged kernel code.
+When a program needs an operation that requires kernel privileges, it invokes a system call.  
+
+Execution transitions from user space into kernel space, where the request is validated and performed.
+
+After completion, control is returned to user space along with the result of the operation.  
+This transition enforces isolation while allowing necessary interaction with system resources.
+
+---
+### `Why It Exists`
+
+- To enable **safe access** to privileged operating system functionality
     
-- **Controlled Privilege Escalation**  
-    Applications cannot execute privileged operations directly; system calls provide the only approved path.
+- To enforce **isolation and protection** between applications and the kernel
     
-- **Foundation of OS Abstractions**  
-    Core OS concepts such as processes, files, memory, and devices are accessed via system calls.
+- To provide a consistent interface to processes, memory, files, and devices
     
-- **Security & Validation Point**  
-    All requests are checked, validated, and authorized by the kernel before execution.
-    
-- **Abstraction over Hardware**  
-    System calls shield applications from hardware-specific details and kernel internals.
-    
-- **Synchronous Interaction Model**  
-    Most system calls block the calling thread until the requested operation completes or fails.
-    
-- **Implementation-Independent Concept**  
-    While mechanisms differ across operating systems, the conceptual role of system calls is universal.
+- To abstract hardware and kernel internals from user-space programs
 
 ---
 ### `Connected Notes`

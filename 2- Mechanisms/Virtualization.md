@@ -1,23 +1,29 @@
 
 ### `Definition`
 
-**Virtualization** is the process of creating **virtual versions of computing resources** — such as servers, networks, or storage — so multiple isolated systems can run on a single physical machine.  
-It abstracts hardware to allow greater flexibility, scalability, and resource efficiency.
+**Virtualization** enables **multiple isolated computing environments** to run on shared physical hardware by abstracting underlying resources such as CPU, memory, storage, and networking.
+
+It allows systems to operate independently while sharing the same physical host.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Abstraction layer** → Hardware is decoupled from software, letting multiple virtual environments share one physical host.
+Hardware resources are abstracted and presented as virtualized units that can be allocated to separate execution environments.
+
+Each environment operates as if it has dedicated hardware, while a control layer coordinates access to the shared physical resources.
+
+This abstraction ensures isolation between environments while dynamically managing resource usage.
+
+---
+### `Why It Exists`
+
+- To improve **hardware utilization and efficiency**
     
-- **Hypervisor-managed** → The hypervisor allocates CPU, memory, and storage to each virtual machine (VM).
+- To enable **isolation** between workloads on the same machine
     
-- **Types of virtualization** → Includes **server**, **storage**, **network**, and **desktop** virtualization.
+- To support **scalable and flexible infrastructure provisioning**
     
-- **Isolation** → Each VM runs independently, preventing interference and improving fault tolerance.
-    
-- **Foundation for cloud computing** → Enables Infrastructure-as-a-Service (IaaS) and modern data center efficiency.
-    
-- **Evolution path** → Virtualization led to **containers**, which offer even lighter isolation.
+- To simplify deployment, migration, and management of systems
 
 ---
 ### `Connected Notes`

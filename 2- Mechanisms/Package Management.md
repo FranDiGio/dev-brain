@@ -1,32 +1,29 @@
 
 ### `Definition`
 
-**Package Management** refers to the general system that automates retrieving, installing, configuring, updating, and removing software components. It exists in two major domains:
+**Package management** describes how software components are **retrieved, installed, updated, configured, and removed** in a controlled and repeatable way.
 
-- **OS-level package management** (system software)
-- **Language-level package management** (project dependencies)
-
-This concept describes the _idea_, not the specific tools.
+It governs how systems and projects manage external software dependencies over time.
 
 ---
-### `Key Ideas`
+### `How It Works`
 
-- **Automated Software Delivery**  
-    Ensures consistent installation and upgrades of software components.
+Software components are distributed through repositories or registries and identified by names and versions.  
+
+A package management process retrieves selected components, resolves their dependencies, and installs them into a target environment.
+
+This process applies both at the operating system level for system software and at the language or project level for application dependencies.
+
+---
+### `Why It Exists`
+
+- To ensure **consistent and repeatable software installation**
     
-- **Dependency Resolution**  
-    Handles packages that depend on other packages, preventing conflicts.
+- To manage **dependencies and version compatibility**
     
-- **Version Control**  
-    Maintains consistent versions for stability and reproducibility.
+- To simplify updates and maintenance of software components
     
-- **Registries & Repositories**  
-    Central sources for retrieving packages (OS repos, language registries).
-    
-- **Two Distinct Contexts**
-    
-    - OS packages → system-level programs, apps, drivers
-    - Language packages → code libraries used within a project
+- To reduce manual configuration and installation errors
 
 ---
 ### `Connected Notes`
