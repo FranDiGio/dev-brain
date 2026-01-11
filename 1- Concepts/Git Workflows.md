@@ -43,6 +43,6 @@
 ### `Connected Notes`
 
 - [[Git]]
-- [[Feature Branch Workflow]]
 - [[GitFlow]]
+- [[Feature Branch Workflow]]
 - [[Trunk-Based Development]]

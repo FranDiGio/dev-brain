@@ -10,9 +10,8 @@
     Two permanent branches:
     
     - `main` → always production-ready
-        
     - `develop` → integration branch for upcoming releases
-        
+    
 - **Feature Branches:**  
     Created from `develop` and merged back once completed (`feature/*`).
     
