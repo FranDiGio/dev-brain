@@ -18,7 +18,7 @@
       "query": "path:\"2- Mechanisms\"  ",
       "color": {
         "a": 1,
-        "rgb": 16752410
+        "rgb": 14069084
       }
     },
     {
@@ -53,7 +53,7 @@
       "query": "path:\"7- Practices\"  ",
       "color": {
         "a": 1,
-        "rgb": 7037439
+        "rgb": 16752410
       }
     },
     {
@@ -71,10 +71,17 @@
       }
     },
     {
-      "query": "path:\"10- References & Standards\"  ",
+      "query": "path:\"10- Standards\"  ",
       "color": {
         "a": 1,
         "rgb": 16744650
+      }
+    },
+    {
+      "query": "path:\"11- Cheatsheets\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7366399
       }
     }
   ],
@@ -88,6 +95,6 @@
   "repelStrength": 10.2941176470588,
   "linkStrength": 0.833044982698962,
   "linkDistance": 301,
-  "scale": 0.16348370567220535,
+  "scale": 1.2414543899483275,
   "close": true
 }

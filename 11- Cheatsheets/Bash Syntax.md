@@ -4,11 +4,6 @@
 A reference for **Bash shell syntax and language rules**, describing **how Bash parses, expands, and executes commands**. This defines Bash as a **scripting language**, not just a command runner.
 
 ---
-### `Purpose`
-
-To document the **grammar and execution rules of Bash**, enabling correct scripting, predictable command behavior, and a clear understanding of what is **shell logic vs external tooling**.
-
----
 ### `Structure`
 
 ##### ==`Variables & Expansion`==
@@ -22,6 +17,7 @@ To document the **grammar and execution rules of Bash**, enabling correct script
 - `$(command)` — command substitution
     
 - `$((expression))` — arithmetic expansion
+
 
 ##### ==`Quoting & Globbing`==
 
@@ -41,6 +37,7 @@ To document the **grammar and execution rules of Bash**, enabling correct script
     
 - `\` — escape character
 
+
 ##### ==`Redirection & Pipes`==
 
 - `>` — redirect stdout
@@ -56,6 +53,7 @@ To document the **grammar and execution rules of Bash**, enabling correct script
 - `<` — redirect stdin
     
 - `|` — pipe output to another command
+
 
 ##### ==`Conditionals`==
 
@@ -75,6 +73,7 @@ Common tests:
     
 - `-n str` — non-empty string
 
+
 ##### ==`Loops & Flow Control`==
 
 - `for i in {0..5}; do ... done`
@@ -89,6 +88,7 @@ Common tests:
     
 - `continue` — skip iteration
 
+
 ##### ==`Execution Control`==
 
 - `cmd1 && cmd2` — run if success
@@ -96,6 +96,7 @@ Common tests:
 - `cmd1 || cmd2` — run if failure
     
 - `cmd &` — background execution
+
 
 ##### ==`Scripting Essentials`==
 

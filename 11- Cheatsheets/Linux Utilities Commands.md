@@ -28,7 +28,7 @@ A practical reference for commonly used **Linux command-line utilities**, groupe
     
 - `<cmd> --help` — quick usage help for many commands
 
----
+
 ##### ==`File & Directory Navigation`==
 
 - `ls` — list files
@@ -59,7 +59,7 @@ A practical reference for commonly used **Linux command-line utilities**, groupe
     
 - `tree` — show directory tree (if installed)
 
----
+
 ##### ==`Viewing / Printing File Content`==
 
 - `cat <file>` — print file contents
@@ -88,7 +88,7 @@ A practical reference for commonly used **Linux command-line utilities**, groupe
     
 - `awk '{print $1}' <file>` — column-based processing
 
----
+
 ##### ==`Security / Permissions`==
 
 - `chmod 644 <file>` — set permissions (rw-r--r--)
@@ -107,7 +107,7 @@ A practical reference for commonly used **Linux command-line utilities**, groupe
     
 - `passwd` — change user password (if permitted)
 
----
+
 ##### ==`Networking`==
 
 - `ip a` — show network interfaces + IPs
@@ -138,7 +138,7 @@ A practical reference for commonly used **Linux command-line utilities**, groupe
     
 - `rsync -av <src> <dst>` — efficient sync/copy
 
----
+
 ##### ==`Archiving & Compression`==
 
 - `tar -cf archive.tar <dir>` — create tar archive

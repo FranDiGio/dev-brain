@@ -6,11 +6,6 @@ A reference for **Bash built-in commands** — commands that are **implemented d
 These commands cease to exist if Bash is removed.
 
 ---
-### `Purpose`
-
-To provide a **clear, shell-specific reference** for commands that are **handled internally by Bash**, helping distinguish them from Linux utilities and avoid confusion when switching shells or writing scripts.
-
----
 ### `Structure`
 
 ##### ==`Core Built-ins`==
@@ -31,6 +26,7 @@ To provide a **clear, shell-specific reference** for commands that are **handled
     
 - `exec <cmd>` — replace shell process with command
 
+
 ##### ==`Input & I/O Built-ins`==
 
 - `read VAR` — read a line from stdin into a variable  
@@ -38,6 +34,7 @@ To provide a **clear, shell-specific reference** for commands that are **handled
 - `read -p "Prompt: " VAR` — prompt before reading input  
 	
 - `read -r VAR` — read raw input (disable backslash escaping)
+
 
 ##### ==`Environment & Context`==
 
@@ -49,6 +46,7 @@ To provide a **clear, shell-specific reference** for commands that are **handled
     
 - `umask` — show or set default file permission mask
 
+
 ##### ==`Aliases & Sourcing`==
 
 - `alias name='cmd'` — define alias
@@ -56,6 +54,7 @@ To provide a **clear, shell-specific reference** for commands that are **handled
 - `unalias name` — remove alias
     
 - `source <file>` / `. <file>` — execute file in current shell
+
 
 ##### ==`Job Control`==
 
