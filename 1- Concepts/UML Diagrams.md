@@ -21,7 +21,7 @@ UML diagrams are standardized visual models used to represent the structure and 
 
 - [[Design Documentation]]
 - [[Class Diagram]]
-- [[Sequence Diagrams]]
-- [[Activity Diagrams]]
+- [[Sequence Diagram]]
+- [[Activity Diagram]]
 - [[State Machine Diagram]]
-- [[Use Case Diagrams]]
+- [[Use Case Diagram]]
