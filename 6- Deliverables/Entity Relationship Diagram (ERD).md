@@ -20,6 +20,3 @@ An Entity Relationship Diagram (ERD) visually represents the structure of a data
 ### `Connected Notes`
 
 - [[Design Documentation]]
-- [[Database Schema]]
-- [[Normalization]]
-- [[Cardinality]]

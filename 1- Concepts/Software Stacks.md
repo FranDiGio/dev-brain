@@ -30,5 +30,4 @@ A **software stack** is a **collection of technologies, tools, and frameworks** 
 ---
 ### `Connected Notes`
 
-- [[Frontend Development]]
-- [[Backend Development]]
+- [[Full-Stack Development]]

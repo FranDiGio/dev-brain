@@ -41,4 +41,4 @@
 ---
 ### `Connected Notes`
 
-- [[Web Development]]
+- [[Full-Stack Development]]

@@ -18,7 +18,7 @@
       "query": "path:\"2- Mechanisms\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 12099937
       }
     },
     {
@@ -53,7 +53,7 @@
       "query": "path:\"7- Practices\"",
       "color": {
         "a": 1,
-        "rgb": 16757294
+        "rgb": 16753152
       }
     },
     {
@@ -83,6 +83,20 @@
         "a": 1,
         "rgb": 5850110
       }
+    },
+    {
+      "query": "path:\"12- Templates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"13- Vault Metadata\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +109,6 @@
   "repelStrength": 10.8854166666667,
   "linkStrength": 0.768229166666667,
   "linkDistance": 232,
-  "scale": 0.03018289506732555,
+  "scale": 0.16348370567222315,
   "close": true
 }

@@ -69,5 +69,5 @@ It is the **default shell on most Linux distributions** and is commonly used for
 
 - [[Linux Shells]]
 - [[macOS Shells]]
-- [[Bash Built-ins]]
-- [[Bash Syntax]]
+- [[Bash Built-ins Ref]]
+- [[Bash Syntax Ref]]
