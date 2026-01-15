@@ -32,4 +32,6 @@
 ---
 ### `Connected Notes`
 
+- [[Variables]]
+- [[Functions]]
 - [[Identifier Naming Conventions]]

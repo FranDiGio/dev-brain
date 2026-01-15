@@ -18,9 +18,6 @@ Programming fundamentals are the essential building blocks shared across all pro
 ### `Connected Notes`
 
 - [[Identifiers]]
-- [[Variables]]
-- [[Data Types]]
-- [[Functions]]
 - [[Memory & References]]
 - [[Error Handling]]
 - [[Programming Logic]]

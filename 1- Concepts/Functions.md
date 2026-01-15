@@ -19,7 +19,7 @@ Functions are reusable blocks of code that perform a specific operation and can 
 ---
 ### `Connected Notes`
 
-- [[Programming Fundamentals]]
+- [[Identifiers]]
 - [[Parameters & Arguments]]
 - [[Return Values]]
 - [[Function Scope]]

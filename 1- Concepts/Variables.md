@@ -29,4 +29,5 @@
 ---
 ### `Connected Notes`
 
-- [[Programming Fundamentals]]
+- [[Identifiers]]
+- [[Constants]]

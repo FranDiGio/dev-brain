@@ -30,6 +30,7 @@
 ---
 ### `Connected Notes`
 
+- [[Programming Fundamentals]]
 - [[Control Flow]]
 - [[Algorithms]]
 - [[Boolean Logic]]
