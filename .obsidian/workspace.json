@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f355106763128ab",
+        "id": "45cb35972ad5615f",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f0cfdfa2894019",
+            "id": "ab7f76ab93983f77",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,90 +17,6 @@
               "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "8c99eb4ee322c29d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5- Methodologies/Object-Oriented Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Object-Oriented Programming"
-            }
-          },
-          {
-            "id": "22b0d632929d8a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/Objects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Objects"
-            }
-          },
-          {
-            "id": "70f1d7d5a487101b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/Objects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Objects"
-            }
-          },
-          {
-            "id": "7cb655d2eacf3ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/Operating Systems/User Space (OS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "User Space (OS)"
-            }
-          },
-          {
-            "id": "f5358c5fb368e197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/Classes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classes"
-            }
-          },
-          {
-            "id": "36f868f10de31010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/Methods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Methods"
             }
           }
         ]
@@ -135,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "auth",
+                "query": "package manager",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 200
   },
   "right": {
     "id": "5bf29ceefeac59d1",
@@ -261,54 +177,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7f0cfdfa2894019",
+  "active": "ab7f76ab93983f77",
   "lastOpenFiles": [
-    "1- Concepts/Methods.md",
-    "1- Concepts/Classes.md",
-    "1- Concepts/Operating Systems/User Space (OS).md",
-    "1- Concepts/Objects.md",
-    "5- Methodologies/Object-Oriented Programming.md",
-    "1- Concepts/Function Scope.md",
-    "1- Concepts/Return Values.md",
-    "1- Concepts/Parameters & Arguments.md",
-    "1- Concepts/Functions.md",
-    "1- Concepts/Programming Fundamentals.md",
-    "1- Concepts/Identifiers.md",
-    "1- Concepts/Variables.md",
-    "1- Concepts/Data Types.md",
-    "1- Concepts/Constants.md",
-    "1- Concepts/Expressions & Operators.md",
-    "1- Concepts/Space Complexity.md",
-    "1- Concepts/Algorithms.md",
-    "1- Concepts/Time Complexity.md",
-    "1- Concepts/Big-O Notation.md",
+    "3- Technologies/musl libc.md",
+    "3- Technologies/BusyBox.md",
+    "4- Implementations/apk.md",
+    "10- Standards/APK Package Format (.apk).md",
+    "1- Concepts/Operating Systems/APK Package Ecosystem.md",
+    "2- Mechanisms/Looping.md",
+    "2- Mechanisms/Branching.md",
+    "2- Mechanisms/Control Flow.md",
+    "2- Mechanisms/Conditionals.md",
     "1- Concepts/Programming Logic.md",
-    "1- Concepts/Operating Systems/Pacman Package Ecosystem.md",
-    "4- Implementations/dpkg.md",
-    "4- Implementations/Update Manager.md",
-    "3- Technologies/APT.md",
-    "10- Standards/DEB Package Format (.deb).md",
-    "3- Technologies/apk.md",
-    "Untitled.canvas",
+    "2- Mechanisms/Branching Logic.md",
+    "2- Mechanisms/Memory & References.md",
+    "2- Mechanisms/Pass by Reference.md",
+    "2- Mechanisms/Pass by Value.md",
+    "2- Mechanisms/Heap (Memory).md",
+    "2- Mechanisms/Stack (Memory).md",
+    "2- Mechanisms/Pointers.md",
+    "2- Mechanisms/Garbage Collection.md",
+    "13- Vault Metadata/Vault Taxonomy.md",
+    "1- Concepts/Programming Fundamentals.md",
+    "1- Concepts/Expressions & Operators.md",
     "13- Vault Metadata/Images/Acitivty Diagram.png",
     "13- Vault Metadata/Images/Sequence Diagram.png",
-    "10- Standards/OSI",
-    "10- Standards/IPS",
-    "10- Standards",
-    "9- Languages",
-    "8- Domains",
-    "7- Practices",
-    "6- Deliverables",
-    "5- Methodologies",
-    "13- Vault Metadata/Images/Epic.png",
-    "13- Vault Metadata/Images/System Context Diagram.png",
+    "7- Practices/Identifier Naming Conventions.md",
+    "7- Practices/Open Source.md",
+    "6- Deliverables/Activity Diagram.md",
+    "6- Deliverables/Sequence Diagram.md",
+    "6- Deliverables/Use Case Diagram.md",
+    "11- Cheatsheets",
+    "2- Mechanisms",
     "13- Vault Metadata/Images/Use Case Diagram.png",
     "13- Vault Metadata/Images/Network Diagram.png",
-    "13- Vault Metadata/Images/State Machine Diagram.png",
-    "13- Vault Metadata/Images/CI-CD Pipeline.png",
+    "1- Concepts/Operating Systems",
+    "13- Vault Metadata/Images/Class Diagram.png",
+    "13- Vault Metadata/Images/Component Diagram.png",
     "13- Vault Metadata/Images/Container Diagram.png",
+    "13- Vault Metadata/Images/System Context Diagram.png",
     "13- Vault Metadata/Images/CI-CD Responsibilities.png",
-    "13- Vault Metadata/Images",
-    "13- Vault Metadata"
+    "13- Vault Metadata/Images/CI-CD Pipeline.png",
+    "1- Concepts/Data Structures",
+    "Untitled.base",
+    "Untitled 1.base",
+    "1- Concepts/Documentation",
+    "1- Concepts/SDLC",
+    "10- Standards/OSI",
+    "10- Standards/IPS"
   ]
 }
