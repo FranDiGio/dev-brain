@@ -45,4 +45,3 @@ Only entities with the correct **decryption key** can restore the data to its or
 ### `Connected Notes`
 
 - [[Data Security]]
-- [[Cloud Encryption]]

@@ -30,4 +30,3 @@ It ensures that only entities possessing the correct **cryptographic keys** can 
 ### `Connected Notes`
 
 - [[Cloud Data Security]]
-- [[Encryption]]

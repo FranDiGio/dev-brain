@@ -31,6 +31,5 @@ The **RPM Package Ecosystem** is the software packaging and distribution framewo
 - [[RPM Package Format (.rpm)]]
 - [[rpm]]
 - [[DNF]]
-- [[YUM]]
 - [[PackageKit]]
 - [[YaST]]
