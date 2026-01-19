@@ -41,9 +41,9 @@ It applies cybersecurity principles to public, private, and hybrid cloud environ
 ### `Connected Notes`
 
 - [[Cloud Computing]]
+- [[Cloud IAM]]
+- [[Cloud Data Security]]
 - [[Cybersecurity]]
 - [[Shared Responsibility Model]]
 - [[CSPM]]
 - [[Cloud Network Security]]
-- [[Cloud IAM]]
-- [[Cloud Data Security]]
