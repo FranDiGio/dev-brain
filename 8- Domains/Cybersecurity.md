@@ -19,8 +19,6 @@ It encompasses the strategies, processes, and technologies that ensure the **con
 - **Threats and Vulnerabilities** – Understanding and mitigating risks like DDoS, insider threats, and data breaches.
     
 - **Security Frameworks** – Standardized models and best practices (e.g., NIST Cybersecurity Framework).
-    
-- **Cloud Security** – Securing data, applications, and services hosted in cloud environments.
 
 ---
 ### `Core Technologies`
@@ -50,4 +48,3 @@ It encompasses the strategies, processes, and technologies that ensure the **con
 - [[Data Security]]
 - [[Threats and Vulnerabilities]]
 - [[Security Frameworks]]
-- [[Cloud Security]]
