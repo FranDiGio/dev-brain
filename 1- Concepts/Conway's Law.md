@@ -19,5 +19,4 @@ Cross-functional, domain-aligned teams naturally produce more modular, loosely c
 ---
 ### `Connected Notes`
 
-- [[DevOps Culture]]  
 - [[Software Architecture]]  
