@@ -44,8 +44,8 @@ Note: Some learning materials treat **DAS** as a “fourth type” just to highl
 ---
 ### `Connected Notes`
 
-[[Cloud Storage]]
-[[Storage Variants]]
-[[File Storage]]
-[[Block Storage]]
-[[Object Storage]]
+- [[Cloud Storage]]
+- [[Storage Variants]]
+- [[File Storage]]
+- [[Block Storage]]
+- [[Object Storage]]

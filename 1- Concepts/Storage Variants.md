@@ -17,10 +17,8 @@ They adapt the core models to different environments, scales, and use cases (e.g
 - **Cross-type systems** (like SDS or cloud-native storage) abstract or virtualize multiple storage models together.
     
 - These variants define how modern systems deploy storage — from single-machine setups to fully virtualized cloud platforms.
-    
 
 ---
-
 ### `Variants Overview`
 
 | Variant                            | Core Type | Description                                                                          | Common Examples                     |
@@ -33,7 +31,6 @@ They adapt the core models to different environments, scales, and use cases (e.g
 | **Cloud-Native Storage**           | Hybrid    | Container-optimized abstraction for persistent volumes and dynamic provisioning.     | CSI drivers, Longhorn, OpenEBS      |
 
 ---
-
 ### `Diagram`
 ```mermaid
 graph TD
@@ -52,11 +49,10 @@ graph TD
 
 ```
 
-
 ---
 ### `Connected Notes`
 
-- [Storage Architecture Layers]
+- [[Storage Architecture Layers]]
 - [[Direct-Attached Storage (DAS)]]
 - [[Storage Area Network (SAN)]]
 - [[Network-Attached Storage (NAS)]]

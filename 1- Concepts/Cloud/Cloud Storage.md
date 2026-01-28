@@ -35,6 +35,7 @@ It abstracts away the physical hardware and exposes storage as a **scalable, on-
 ### `Connected Notes`
 
 - [[Cloud Computing]]
+- [[Cloud-Native Storage]]
 - [[Storage Architecture Layers]]
 
 
