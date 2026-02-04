@@ -31,3 +31,4 @@
 - [[Messaging Patterns]]
 - [[Messaging Frameworks]]
 - [[Message Brokers]]
+- [[Message Delivery Semantics]]

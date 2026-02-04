@@ -20,21 +20,7 @@
             }
           },
           {
-            "id": "2e9251eb2acbde11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/Databases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Databases"
-            }
-          },
-          {
-            "id": "73ceba882f288f3e",
+            "id": "6a8c82f6f52ecabd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,65 +31,10 @@
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          },
-          {
-            "id": "66545c4693fb79fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "cef6852db6fe38cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database Storage Layers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Database Storage Layers"
-            }
-          },
-          {
-            "id": "9e0a29055c5ccc65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database Engine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Database Engine"
-            }
-          },
-          {
-            "id": "3ab8cb911e8447c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database Engine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Database Engine"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,34 +192,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7f0cfdfa2894019",
+  "active": "1a0898386f26b1b6",
   "lastOpenFiles": [
+    "4- Implementations/Azure Service Bus SDKs.md",
+    "4- Implementations/Spring Cloud Stream.md",
+    "4- Implementations/Apache Camel.md",
+    "4- Implementations/NServiceBus.md",
+    "4- Implementations/MassTransit.md",
+    "1- Concepts/Message Delivery Semantics.md",
+    "2- Mechanisms/Idempotency.md",
+    "2- Mechanisms/Delivery Guarantees.md",
+    "Database Storage Layers.md",
+    "README.md",
+    "2- Mechanisms/Fan-Out Fan-In.md",
+    "2- Mechanisms/Event Streaming.md",
+    "2- Mechanisms/Publish–Subscribe.md",
+    "2- Mechanisms/Message Queues.md",
+    "2- Mechanisms/Request–Reply Messaging.md",
+    "2- Mechanisms/Dead-Letter Queues.md",
+    "2- Mechanisms/Retries.md",
+    "2- Mechanisms/Acknowledgements.md",
+    "1- Concepts/Messaging Systems.md",
     "Database Engine.md",
     "1- Concepts/Databases.md",
-    "README.md",
-    "Database Storage Layers.md",
     "Untitled.md",
     "1- Concepts/Storage Variants.md",
     "1- Concepts/Storage Architecture Layers.md",
     "3- Technologies/Cloud-Native Storage.md",
     "1- Concepts/Cloud/Cloud Storage.md",
-    "12- Templates/9- Language Template.md",
-    "13- Vault Metadata/Vault Taxonomy.md",
-    "10- Standards/PEP 8.md",
-    "13- Vault Metadata/Vault Structure.md",
-    "10- Standards/POSIX.md",
-    "12- Templates/10- Standard Template.md",
-    "9- Languages/Python.md",
-    "9- Languages/SQL.md",
-    "4- Implementations/Azure Service Bus.md",
-    "4- Implementations/Google Pub-Sub.md",
-    "3- Technologies/Message Brokers.md",
-    "4- Implementations/Apache Pulsar.md",
-    "4- Implementations/Amazon SNS.md",
-    "4- Implementations/Apache Kafka.md",
-    "1- Concepts/Conway's Law.md",
-    "4- Implementations/Amazon SQS.md",
-    "4- Implementations/RabbitMQ.md",
     "Untitled.canvas",
     "13- Vault Metadata/Images/Acitivty Diagram.png",
     "13- Vault Metadata/Images/Sequence Diagram.png",
