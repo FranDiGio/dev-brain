@@ -41,5 +41,5 @@ Use **folders for ecosystems**, not for isolated topics.
 ---
 ### `Connected Notes`
 
-[[Vault Taxonomy]]
-[[Templates]]
+- [[Vault Taxonomy]]
+- [[Templates]]

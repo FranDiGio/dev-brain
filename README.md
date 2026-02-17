@@ -1,36 +1,33 @@
+### `dev-brain`
 
+A structured knowledge system for software engineering.
 
-```
-Databases (concept)
-│
-├── Database Engine (concept)
-│   ├── SQL Server Database Engine (implementation)
-│   ├── PostgreSQL Engine (implementation)
-│   ├── MySQL Engine (implementation)
-│   ├── Oracle Engine (implementation)
-│   ├── MariaDB Engine (implementation)
-│   ├── SQLite Engine (implementation)
-│   └── Amazon Aurora Engine (implementation)
-│
-├── Database Management System - DBMS (concept)
-│   ├── Microsoft SQL Server (DBMS)
-│   │   ├── SSIS
-│   │   ├── SSRS
-│   │   ├── SSAS
-│   │   └── SQL Server Agent
-│   ├── PostgreSQL (DBMS)
-│   ├── MySQL (DBMS)
-│   ├── Oracle Database (DBMS)
-│   ├── MariaDB (DBMS)
-│   ├── IBM Db2 (DBMS)
-│   ├── Azure SQL Database (cloud DBMS)
-│   └── Amazon RDS (cloud DBMS)
-│
-└── Database Clients & Tools (concept)
-    ├── SSMS
-    ├── Azure Data Studio
-    ├── DataGrip
-    ├── DBeaver
-    ├── pgAdmin
-    └── VS Code SQL Tools
-```
+**dev-brain** captures how I understand systems, from first principles to real-world implementation.  
+It separates ideas from tools, mechanisms from products, and theory from execution.
+
+---
+### `Structure`
+
+The vault is organized into conceptual layers:
+
+- **Concepts** → What something is / why it exists  
+- **Mechanisms** → How behavior happens  
+- **Technologies** → Categories of platforms  
+- **Implementations** → Specific products or versions  
+
+Supporting layers:
+
+- **Methodologies** – How work is organized  
+- **Practices** – How engineers behave  
+- **Deliverables** – What gets produced  
+- **Domains / Languages / Standards** – Classification layers  
+- **Cheatsheets** – Quick reference  
+- **Templates / Metadata** – Vault scaffolding  
+
+Notes link across layers intentionally.
+
+---
+### `Goal`
+
+- Build structural understanding instead of fragmented notes. 
+- This system evolves with projects, work experience, and continuous learning.

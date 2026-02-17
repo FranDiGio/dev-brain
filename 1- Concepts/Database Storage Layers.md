@@ -31,10 +31,6 @@
 ### `Connected Notes`
 
 - [[Data Files]]
-- [[Pages & Extents]]
-- [[Index Structures]]
 - [[WAL (Write-Ahead Logging)]]
-- [[Buffering & Caching]]
-- [[Transactions]]
-- [[ACID]]
-- [[Checkpointing]]
+- [[DB Buffering & Caching]]
+- [[Database Transactions]]
