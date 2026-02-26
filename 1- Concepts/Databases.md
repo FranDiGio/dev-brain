@@ -30,7 +30,6 @@ A **database** is a structured system for **storing, organizing, retrieving, and
 ---
 ### `Connected Notes`
 
-- [[Database Storage Layers]]
-- [[Database Engine]]
+- [[Database Models]]
+- [[Database Properties]]
 - [[Database Management Systems (DBMS)]]
-- [[Database Clients & Tools]]

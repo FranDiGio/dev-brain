@@ -45,8 +45,6 @@ Components combine to form larger systems while remaining replaceable and extens
 - Testing components in isolation vs integrated takes planning.
 
 ---
-
 ### `Connected Notes`
 
 - [[Architectural Patterns]]
-- [[Component]]

@@ -43,3 +43,4 @@ Use **folders for ecosystems**, not for isolated topics.
 
 - [[Vault Taxonomy]]
 - [[Templates]]
+- [[README]]
