@@ -35,8 +35,8 @@ It establishes standards for **segmentation, flow control, error recovery, and s
 ### `Connected Notes`
 
 - [[OSI Model]]
-- [[OSI Layer 3 - Network]]
-- [[OSI Layer 5 - Session]]
+- [[OSI Layer 3 (Network)]]
+- [[OSI Layer 5 (Session)]]
 - [[TCP Protocol]]
 - [[UDP Protocol]]
 - [[Port Numbers and Sockets]]

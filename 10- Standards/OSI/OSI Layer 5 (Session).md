@@ -34,8 +34,8 @@ It manages the **dialogue control** between systems — deciding who transmits, 
 ### `Connected Notes`
 
 - [[OSI Model]]
-- [[OSI Layer 4 - Transport]]
-- [[OSI Layer 6 - Presentation]]
+- [[OSI Layer 4 (Transport)]]
+- [[OSI Layer 6 (Presentation)]]
 - [[Remote Procedure Calls (RPC)]]
 - [[Authentication and Session Management]]
 - [[Connection Establishment and Termination]]

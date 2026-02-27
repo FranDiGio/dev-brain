@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f355106763128ab",
+        "id": "45cb35972ad5615f",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f0cfdfa2894019",
+            "id": "ab7f76ab93983f77",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,37 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "3255f3c842805362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/ACID.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ACID"
-            }
-          },
-          {
-            "id": "9ee7b99c1c3be30a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/Databases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Databases"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "package management",
+                "query": "package manager",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 294.5
   },
   "right": {
     "id": "5bf29ceefeac59d1",
@@ -206,53 +177,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ee7b99c1c3be30a",
+  "active": "ab7f76ab93983f77",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "1- Concepts/Databases.md",
-    "1- Concepts/ACID.md",
-    "README.md",
-    "13- Vault Metadata/Vault Structure.md",
-    "3- Technologies/Database Engine.md",
-    "5- Methodologies/Component-Based Architecture.md",
-    "2- Mechanisms/Service.md",
-    "12- Templates/3- Technology Template.md",
-    "2- Mechanisms/Index Structures.md",
-    "13- Vault Metadata/Vault Taxonomy.md",
-    "1- Concepts/Database Storage Layers.md",
-    "1- Concepts/Package Management.md",
-    "1- Concepts/Operating Systems/Runtime Environments (OS).md",
-    "1- Concepts/Database Transactions.md",
-    "2- Mechanisms/DB Buffering & Caching.md",
-    "2- Mechanisms/Checkpointing.md",
-    "2- Mechanisms/WAL (Write-Ahead Logging).md",
-    "2- Mechanisms/Pages & Extents.md",
-    "1- Concepts/Requirements.md",
-    "2- Mechanisms/Data Files.md",
+    "10- Standards/OSI/OSI Layer 7 (Application).md",
+    "10- Standards/OSI/OSI Layer 6 (Presentation).md",
+    "10- Standards/OSI/OSI Layer 5 (Session).md",
+    "10- Standards/OSI/OSI Layer 4 (Transport).md",
+    "10- Standards/OSI/OSI Layer 3 (Network).md",
+    "10- Standards/OSI/OSI Layer 2 (Data Link).md",
+    "10- Standards/OSI/OSI Layer 1 (Physical).md",
+    "10- Standards/OSI/OSI Model.md",
+    "1- Concepts/Database/Database Consistency Models.md",
+    "1- Concepts/Architectural Patterns.md",
+    "1- Concepts/Architectural Diagrams.md",
+    "1- Concepts/Application Evolution.md",
+    "1- Concepts/Application Environments.md",
+    "1- Concepts/Algorithms.md",
+    "1- Concepts/Actionable Metrics.md",
+    "2- Mechanisms/Fan-Out Fan-In.md",
+    "2- Mechanisms/File System.md",
+    "2- Mechanisms/Firewall.md",
+    "2- Mechanisms/Fork.md",
+    "2- Mechanisms/Garbage Collection.md",
+    "2- Mechanisms/Hardware Abstraction.md",
+    "2- Mechanisms/Heap (Memory).md",
+    "2- Mechanisms/Idempotency.md",
+    "2- Mechanisms/Interpreted Languages.md",
+    "2- Mechanisms/Interprocess Communication.md",
+    "2- Mechanisms/Load Balancer.md",
+    "1- Concepts/Database",
     "10- Standards/Linux Package Formats",
-    "12- Templates/10- Standard Template.md",
-    "12- Templates/9- Language Template.md",
-    "12- Templates/8- Domain Template.md",
-    "12- Templates/7- Practice Template.md",
-    "12- Templates/6- Deliverable Template.md",
     "13- Vault Metadata/Images/Acitivty Diagram.png",
     "13- Vault Metadata/Images/Sequence Diagram.png",
-    "10- Standards/OSI",
-    "10- Standards/IPS",
-    "10- Standards",
-    "9- Languages",
-    "8- Domains",
-    "7- Practices",
-    "6- Deliverables",
-    "5- Methodologies",
-    "13- Vault Metadata/Images/Epic.png",
-    "13- Vault Metadata/Images/System Context Diagram.png",
+    "11- Cheatsheets",
+    "2- Mechanisms",
     "13- Vault Metadata/Images/Use Case Diagram.png",
     "13- Vault Metadata/Images/Network Diagram.png",
-    "13- Vault Metadata/Images/State Machine Diagram.png",
-    "13- Vault Metadata/Images/CI-CD Pipeline.png",
+    "1- Concepts/Operating Systems",
+    "13- Vault Metadata/Images/Class Diagram.png",
+    "13- Vault Metadata/Images/Component Diagram.png",
     "13- Vault Metadata/Images/Container Diagram.png",
+    "13- Vault Metadata/Images/System Context Diagram.png",
     "13- Vault Metadata/Images/CI-CD Responsibilities.png",
-    "13- Vault Metadata/Images"
+    "13- Vault Metadata/Images/CI-CD Pipeline.png",
+    "1- Concepts/Data Structures",
+    "Untitled.base",
+    "Untitled 1.base",
+    "1- Concepts/Documentation",
+    "1- Concepts/SDLC"
   ]
 }

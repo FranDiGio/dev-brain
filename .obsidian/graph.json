@@ -11,14 +11,14 @@
       "query": "path:\"1- Concepts\"  ",
       "color": {
         "a": 1,
-        "rgb": 12929023
+        "rgb": 12796671
       }
     },
     {
       "query": "path:\"2- Mechanisms\"  ",
       "color": {
         "a": 1,
-        "rgb": 12099937
+        "rgb": 15121253
       }
     },
     {
@@ -39,21 +39,21 @@
       "query": "path:\"5- Methodologies\"  ",
       "color": {
         "a": 1,
-        "rgb": 16771584
+        "rgb": 16774912
       }
     },
     {
       "query": "path:\"6- Deliverables\"  ",
       "color": {
         "a": 1,
-        "rgb": 1376208
+        "rgb": 8847078
       }
     },
     {
-      "query": "path:\"7- Practices\"",
+      "query": "path:\"7- Practices\"  ",
       "color": {
         "a": 1,
-        "rgb": 16753152
+        "rgb": 16752410
       }
     },
     {
@@ -67,28 +67,28 @@
       "query": "path:\"9- Languages\"  ",
       "color": {
         "a": 1,
-        "rgb": 16731469
+        "rgb": 16338510
       }
     },
     {
       "query": "path:\"10- Standards\"  ",
       "color": {
         "a": 1,
-        "rgb": 16732855
+        "rgb": 16744650
       }
     },
     {
       "query": "path:\"11- Cheatsheets\"  ",
       "color": {
         "a": 1,
-        "rgb": 5850110
+        "rgb": 7366399
       }
     },
     {
       "query": "path:\"12- Templates\"  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16119285
       }
     },
     {
@@ -97,25 +97,18 @@
         "a": 1,
         "rgb": 16777215
       }
-    },
-    {
-      "query": "file:README",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.7,
-  "nodeSizeMultiplier": 1.02404844290657,
-  "lineSizeMultiplier": 0.725260416666667,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.36314878892734,
+  "lineSizeMultiplier": 0.994377162629758,
   "collapse-forces": false,
-  "centerStrength": 0.268229166666667,
-  "repelStrength": 11.3840830449827,
-  "linkStrength": 0.780276816608997,
-  "linkDistance": 145,
-  "scale": 0.8854989543150543,
+  "centerStrength": 0.224048442906574,
+  "repelStrength": 11.1072664359862,
+  "linkStrength": 0.833044982698962,
+  "linkDistance": 143,
+  "scale": 0.059326171875007404,
   "close": true
 }

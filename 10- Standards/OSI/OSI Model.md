@@ -34,10 +34,10 @@ Each layer **communicates with its peer** on another device and provides service
 ---
 ### `Connected Notes`
 
-- [[OSI Layer 1 - Physical]]
-- [[OSI Layer 2 - Data Link]]
-- [[OSI Layer 3 - Network]]
-- [[OSI Layer 4 - Transport]]
-- [[OSI Layer 5 - Session]]
-- [[OSI Layer 6 - Presentation]]
-- [[OSI Layer 7 - Application]]
+- [[OSI Layer 1 (Physical)]]
+- [[OSI Layer 2 (Data Link)]]
+- [[OSI Layer 3 (Network)]]
+- [[OSI Layer 4 (Transport)]]
+- [[OSI Layer 5 (Session)]]
+- [[OSI Layer 6 (Presentation)]]
+- [[OSI Layer 7 (Application)]]

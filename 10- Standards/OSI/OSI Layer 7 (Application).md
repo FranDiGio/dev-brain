@@ -1,8 +1,7 @@
 
 ### `Definition`
 
-The **Application Layer (Layer 7)** of the **OSI Model** defines the **interface between the network and end-user applications**.  
-It provides protocols and services that enable software applications to **communicate over a network**, handling user-level data exchange and resource access.
+The **Application Layer (Layer 7)** of the **OSI Model** defines the **interface between the network and end-user applications**. It provides protocols and services that enable software applications to **communicate over a network**, handling user-level data exchange and resource access.
 
 ---
 ### `Purpose`
@@ -34,7 +33,7 @@ It provides protocols and services that enable software applications to **commun
 ### `Connected Notes`
 
 - [[OSI Model]]
-- [[OSI Layer 6 - Presentation]]
+- [[OSI Layer 6 (Presentation)]]
 - [[HTTP Protocol]]
 - [[DNS System]]
 - [[Email Protocols (SMTP, IMAP, POP3)]]

@@ -13,7 +13,6 @@ When overlapping changes exist, conflicts arise and must be resolved before inte
 The resulting state reflects contributions from both development lines.
 
 ---
-
 ### `Why It Exists`
 
 - To **combine parallel work** into a unified codebase
@@ -23,10 +22,8 @@ The resulting state reflects contributions from both development lines.
 - To preserve development history while integrating changes
     
 - To signal completion of isolated development efforts
-    
 
 ---
-
 ### `Connected Notes`
 
 - [[Repository]]

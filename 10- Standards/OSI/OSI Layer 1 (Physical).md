@@ -31,6 +31,6 @@ Errors at this layer usually involve **hardware faults**, **signal interference*
 ### `Connected Notes`
 
 - [[OSI Model]]
-- [[OSI Layer 2 - Data Link]]
+- [[OSI Layer 2 (Data Link)]]
 - [[Network Cabling and Media Types]]
 - [[Signal Encoding and Modulation]]

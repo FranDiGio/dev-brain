@@ -1,35 +1,30 @@
 
 ### `Definition`
 
-A **database** is a structured system for **storing, organizing, retrieving, and managing data**. It provides a logical model for representing information and the mechanisms to access it efficiently, consistently, and reliably, independent of specific implementations like MySQL, PostgreSQL, or MongoDB.
+A **database** is an organized system for storing and managing data so it can be reliably retrieved and updated over time. It provides structured persistence and defined guarantees around correctness, consistency, and accessibility, independent of any specific software implementation.
 
 ---
 ### `Key Ideas`
 
-- **Data as a structured model**  
-    Databases impose a **schema or organizational model** (relational tables, documents, key‑value pairs, graphs, etc.) that describes how information is represented and how relationships are expressed.
+- **Persistence**  
+    Data remains stored beyond the execution of a single program or session.
     
-- **Separation of storage vs. access logic**  
-    Databases abstract away physical storage details (files, memory layout) and provide **logical operations** to query or mutate data.
+- **Structured Representation**  
+    Information follows a defined model (e.g., relational, document, graph) that determines how data is organized and related.
     
-- **Access via a query or command interface**  
-    Databases expose a formal way to request data — SQL for relational systems, query languages or APIs for non‑relational systems — ensuring predictable interaction.
+- **Controlled Operations**  
+    Data can be created, read, updated, and deleted through formal operations.
     
-- **Consistency and correctness guarantees**  
-    Most databases enforce some level of consistency (from strict ACID to eventual consistency) to ensure data remains **reliable** under concurrent access and failures.
+- **Integrity & Correctness**  
+    A database aims to maintain valid and consistent data even under concurrent access or failure conditions.
     
-- **Indexes and efficient retrieval**  
-    Databases optimize data access using **indexes**, execution plans, caching, and query optimization strategies to retrieve data efficiently at scale.
-    
-- **Concurrency and transactions**  
-    Databases manage multiple clients through locking, MVCC, or other concurrency models, ensuring **safe multi-user access** and transactional integrity.
-    
-- **Durability and persistence**  
-    Data is stored in a way that ensures it **survives crashes, restarts, and hardware failures**, typically through write‑ahead logs, snapshots, or replication.
+- **Abstraction**  
+    The concept of a database is independent of specific engines, tools, or storage mechanisms.
 
 ---
 ### `Connected Notes`
 
 - [[Database Models]]
 - [[Database Properties]]
+- [[Database Query Languages]]
 - [[Database Management Systems (DBMS)]]

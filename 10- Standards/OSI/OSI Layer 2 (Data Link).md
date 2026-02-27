@@ -31,7 +31,7 @@ The **Data Link Layer (Layer 2)** of the **OSI Model** defines how data is **pac
 ### `Connected Notes`
 
 - [[OSI Model]]
-- [[OSI Layer 1 - Physical]]
-- [[OSI Layer 3 - Network]]
+- [[OSI Layer 1 (Physical)]]
+- [[OSI Layer 3 (Network)]]
 - [[Ethernet Standards]]
 - [[MAC Addressing]]

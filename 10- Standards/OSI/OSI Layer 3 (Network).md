@@ -35,8 +35,8 @@ It establishes standards for **packet forwarding, routing, and path determinatio
 ### `Connected Notes`
 
 - [[OSI Model]]
-- [[OSI Layer 2 - Data Link]]
-- [[OSI Layer 4 - Transport]]
+- [[OSI Layer 2 (Data Link)]]
+- [[OSI Layer 4 (Transport)]]
 - [[IP Protocol Suite]]
 - [[Routing and Switching]]
 - [[Subnetting and IP Addressing]]
