@@ -20,6 +20,12 @@ The **Key-Value Model** is a database model that stores data as pairs consisting
     
 - **Minimal Schema Constraints**  
     There is no enforced relational structure between entries.
+	
+- **Minimal Query Semantics**  
+    Most key-value systems expose simple access operations (e.g., get, put, delete) rather than full declarative query languages.
+    
+- **No Universal Language Standard**  
+    There is no standardized query language for key-value systems; interaction is often API- or command-based by design.
 
 ---
 ### `Connected Notes`

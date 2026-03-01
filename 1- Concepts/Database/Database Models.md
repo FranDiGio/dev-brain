@@ -28,5 +28,5 @@
 - [[Document Model]]
 - [[Key-Value Model]]
 - [[Graph Model]]
-- [[Columnar Model]]
+- [[Wide-Column Model]]
 - [[Databases]]

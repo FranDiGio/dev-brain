@@ -20,8 +20,15 @@ The **Document Model** is a database model that represents data as self-containe
     
 - **Reduced Need for Joins**  
     Relationships are often embedded rather than referenced, minimizing cross-document operations.
+	
+- **Implementation-Specific Languages**  
+    Query languages vary by system (e.g., JSON-based or SQL-like dialects) and are not universally standardized.
+    
+- **Flexible Query Expressiveness**  
+    Languages are often designed to match nested document structures rather than relational joins.
 
 ---
 ### `Connected Notes`
 
 - [[Database Models]]
+- [[MongoDB Query Language]]

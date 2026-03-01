@@ -20,8 +20,16 @@ The **Graph Model** is a database model that represents data as nodes and relati
     
 - **Traversal-Oriented Queries**  
     Optimized for exploring paths and patterns across interconnected data.
+	
+- **Multiple Competing Query Languages**  
+    Several graph query languages exist (e.g., Cypher, Gremlin, SPARQL), each tied to different ecosystems.
+    
+- **Pattern-Matching Orientation**  
+    Graph query languages are designed around relationship traversal rather than tabular operations.
 
 ---
 ### `Connected Notes`
 
 - [[Database Models]]
+- [[Cypher]]
+- [[SPARQL]]

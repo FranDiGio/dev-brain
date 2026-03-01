@@ -18,7 +18,7 @@
       "query": "path:\"2- Mechanisms\"  ",
       "color": {
         "a": 1,
-        "rgb": 15121253
+        "rgb": 13806688
       }
     },
     {
@@ -109,6 +109,6 @@
   "repelStrength": 11.1072664359862,
   "linkStrength": 0.833044982698962,
   "linkDistance": 143,
-  "scale": 0.059326171875007404,
+  "scale": 0.6316046762908424,
   "close": true
 }
