@@ -31,5 +31,3 @@ The **Graph Model** is a database model that represents data as nodes and relati
 ### `Connected Notes`
 
 - [[Database Models]]
-- [[Cypher]]
-- [[SPARQL]]

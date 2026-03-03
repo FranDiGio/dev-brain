@@ -40,5 +40,5 @@ A **Database Management System (DBMS)** is a software system that enables the cr
 
 - [[Database Engine]]
 - [[Database Clients]]
-- [[Database Admin & Monitoring]]
+- [[Database Operations]]
 - [[DBMS Implementations]]

@@ -31,4 +31,3 @@ The **Document Model** is a database model that represents data as self-containe
 ### `Connected Notes`
 
 - [[Database Models]]
-- [[MongoDB Query Language]]

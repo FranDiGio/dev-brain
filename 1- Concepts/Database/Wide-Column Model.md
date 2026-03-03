@@ -31,5 +31,3 @@ It is designed for distributed systems that prioritize scalability and partition
 
 - [[Database Models]]
 - [[NoSQL Paradigms]]
-- [[Cassandra Query Language]]
-- [[Apache Phoenix SQL]]
