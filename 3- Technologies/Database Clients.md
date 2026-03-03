@@ -36,4 +36,4 @@
 - [[Database Drivers]]
 - [[GUI Database Clients]]
 - [[CLI Database Clients]]
-- [[Object-Relational Mappers]]
+- [[Object-Relational Mappers (ORM)]]

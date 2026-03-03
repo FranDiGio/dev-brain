@@ -18,6 +18,20 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "dfe20d555cb2ee1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Object-Relational Mappers (ORM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Object-Relational Mappers (ORM)"
+            }
           }
         ]
       }
@@ -179,6 +193,22 @@
   },
   "active": "a7f0cfdfa2894019",
   "lastOpenFiles": [
+    "Object-Relational Mappers (ORM).md",
+    "4- Implementations/Couchbase.md",
+    "4- Implementations/MongoDB.md",
+    "4- Implementations/RavenDB.md",
+    "4- Implementations/Cassandra.md",
+    "4- Implementations/HBase.md",
+    "4- Implementations/JanusGraph.md",
+    "4- Implementations/Neo4j.md",
+    "4- Implementations/DynamoDB.md",
+    "4- Implementations/Redis.md",
+    "4- Implementations/Oracle Database.md",
+    "4- Implementations/MySQL.md",
+    "4- Implementations/SQL Server.md",
+    "4- Implementations/PostgreSQL.md",
+    "12- Templates/4- Implementation Template.md",
+    "1- Concepts/Node.md",
     "3- Technologies/Wide-Column DBMS.md",
     "3- Technologies/Database Management Systems (DBMS).md",
     "3- Technologies/Database Clients.md",
@@ -189,22 +219,6 @@
     "3- Technologies/Relational DBMS.md",
     "3- Technologies/Database Drivers.md",
     "9- Languages/SPARQL.md",
-    "9- Languages/MongoDB Query Language.md",
-    "9- Languages/Cypher.md",
-    "9- Languages/Cassandra Query Language.md",
-    "9- Languages/Apache Phoenix SQL.md",
-    "2- Mechanisms/Write-Ahead Logging.md",
-    "2- Mechanisms/Transaction Management.md",
-    "2- Mechanisms/Storage Subsystem.md",
-    "2- Mechanisms/SQL Parser.md",
-    "2- Mechanisms/Query Processing.md",
-    "2- Mechanisms/Query Planner.md",
-    "2- Mechanisms/Page Replacement Algorithms.md",
-    "2- Mechanisms/MVCC.md",
-    "2- Mechanisms/Isolation Enforcement.md",
-    "2- Mechanisms/Extents.md",
-    "2- Mechanisms/Execution Engine.md",
-    "2- Mechanisms/Deadlock Detection.md",
     "1- Concepts/Database",
     "Untitled.canvas",
     "10- Standards/Linux Package Formats",
