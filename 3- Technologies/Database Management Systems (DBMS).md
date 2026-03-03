@@ -1,5 +1,4 @@
 
-
 ### `Definition`
 
 A **Database Management System (DBMS)** is a software system that enables the creation, management, and operation of databases. It provides the runtime environment that implements data storage, querying, transaction handling, and access control.
@@ -40,5 +39,6 @@ A **Database Management System (DBMS)** is a software system that enables the cr
 ### `Connected Notes`
 
 - [[Database Engine]]
-- [[Database Clients & Tools]]
+- [[Database Clients]]
 - [[Database Admin & Monitoring]]
+- [[DBMS Implementations]]
