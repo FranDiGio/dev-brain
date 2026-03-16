@@ -15,9 +15,7 @@ It communicates what the software does, how it’s built, and how to use or main
 - **Formats:**
     
     - **Written:** Text documents, wikis, or reports.
-        
     - **Video:** Tutorials or demos.
-        
     - **Graphical:** Diagrams, flowcharts, UI mockups.
     
 - **Categories:**
@@ -29,13 +27,9 @@ It communicates what the software does, how it’s built, and how to use or main
 - **Product Documentation Types:**
     
     - **Requirements Documentation (URS / SRS / SysRS)** – Defines what needs to be built.
-        
     - **Design Documentation** – Explains how requirements are implemented.
-        
     - **Technical Documentation** – Describes code behavior, architecture, and APIs.
-        
     - **Quality Assurance Documentation** – Covers testing strategy, results, and metrics.
-        
     - **User Documentation** – Guides end-users on installation, configuration, and troubleshooting.
     
 - **Process Documentation Types:**

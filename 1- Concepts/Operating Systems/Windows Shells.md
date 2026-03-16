@@ -12,13 +12,11 @@
 - **Commonly Encountered Shells**
     
     - **PowerShell (`pwsh`)** — modern, object-based default shell
-        
     - **Command Prompt (`cmd.exe`)** — legacy text-based shell
     
 - **Unix-Like Shells via Compatibility Layers**
     
     - **Bash (WSL)** — full Linux shell environment inside Windows
-        
     - **Git Bash** — minimal Unix-like shell bundled with Git
     
 - **Object vs Text Pipeline**  

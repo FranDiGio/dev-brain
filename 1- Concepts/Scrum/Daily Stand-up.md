@@ -21,9 +21,7 @@ It’s a **15-minute, team-focused conversation**, not a project status report.
     2. **Each member answers three questions:**
         
         - What did I do yesterday?
-            
         - What will I do today?
-            
         - Are there any blockers or impediments?
         
     3. **Scrum Master records blockers** for follow-up after the meeting.

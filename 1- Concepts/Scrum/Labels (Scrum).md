@@ -11,6 +11,7 @@ They make it easier to prioritize, track, and balance efforts between customer f
     This helps the **Product Owner** and **Scrum Team** maintain a healthy mix of innovation, stability, and debt reduction.
     
 - **Common Labels:**
+	
 	- 🧩 **Feature Story** – Delivers new functionality or user-facing value.  
 	    _Example: “As a customer, I want to track my order so I know when it will arrive.”_
 	    

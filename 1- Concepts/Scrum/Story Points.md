@@ -13,9 +13,7 @@
 - **Factors Considered:**
     
     - **Effort** – How much work is needed?
-        
     - **Complexity** – How difficult is the problem or system area?
-        
     - **Uncertainty** – Have we done this before, or is it new territory?
     
 - **Relative Estimation:**  
@@ -25,19 +23,14 @@
 - **Abstract Scale Examples:**
     
     - _Small (3):_ Simple, familiar story.
-        
     - _Medium (5):_ Average effort, some unknowns.
-        
     - _Large (8–13):_ Complex, needs research or spans multiple systems.
-        
     - _>13:_ Too large — should be split or become an **Epic**.
     
 - **Anti-Patterns:**
     
     - ❌ Converting story points into hours or days.
-        
     - ❌ Assigning “1 = 1 day, 3 = 3 days…” — this defeats the abstraction.
-        
     - ❌ Using points as a measure of individual productivity instead of **team velocity**.
     
 - **Team Agreement:**  

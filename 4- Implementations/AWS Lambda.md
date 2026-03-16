@@ -65,4 +65,4 @@ aws lambda create-function \
 ---
 ### `Connected Notes`
 
-- [[Function as a Service (FaaS)]]
+- [[Function-as-a-Service (FaaS)]]

@@ -15,9 +15,7 @@
 - **Operators:**
     
     - **AND (&&):** True if both conditions are True.
-        
     - **OR (||):** True if at least one condition is True.
-        
     - **NOT (!):** Inverts the condition’s value.
     
 - **Use Cases:**  

@@ -35,5 +35,4 @@ A **kernel** is the **core component of an operating system** responsible for ma
 - [[Operating System (OS)]]
 - [[Kernel Implementations]]
 - [[Kernel Responsibilities]]
-- 
 

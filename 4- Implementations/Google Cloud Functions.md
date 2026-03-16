@@ -60,4 +60,4 @@ gcloud functions deploy helloWorld \
 ---
 ### `Connected Notes`
 
-- [[Function as a Service (FaaS)]]
+- [[Function-as-a-Service (FaaS)]]

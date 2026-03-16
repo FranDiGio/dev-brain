@@ -28,4 +28,3 @@ It replaces traditional silos — where devs focus on innovation and ops on stab
 ### `Connected Notes`
 
 - [[DevOps]]
-- [[Taylorism]]

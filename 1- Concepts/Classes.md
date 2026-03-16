@@ -23,7 +23,6 @@ A **class** is a blueprint that defines the **structure and behavior** of object
     
 - **Language-Specific Semantics**  
     Different languages define classes differently (visibility, inheritance, modifiers).
-    
 
 ---
 ### `Connected Notes`

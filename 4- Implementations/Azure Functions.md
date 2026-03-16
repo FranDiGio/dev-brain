@@ -66,4 +66,4 @@ az functionapp create \
 ---
 ### `Connected Notes`
 
-- [[Function as a Service (FaaS)]]
+- [[Function-as-a-Service (FaaS)]]

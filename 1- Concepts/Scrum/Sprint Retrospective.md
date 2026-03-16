@@ -29,9 +29,7 @@ It focuses not on the product, but on **how the team works together** — promot
     2. **Answer the Three Core Questions:**
         
         - ✅ What went well? (What should we continue doing?)
-            
         - ❌ What didn’t go well? (What should we stop doing?)
-            
         - 🔄 What should we change or improve for next time?
         
     3. **Identify Actionable Changes** – The Scrum Master records improvement items and ensures at least one is implemented in the next sprint.

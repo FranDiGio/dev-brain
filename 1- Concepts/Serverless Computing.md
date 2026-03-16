@@ -23,5 +23,5 @@
 ---
 ### `Connected Notes`
 
-- [[Function as a Service (FaaS)]]
+- [[Function-as-a-Service (FaaS)]]
 - [[Backend-as-a-Service (BaaS)]]

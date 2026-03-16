@@ -22,4 +22,3 @@ While effective for factory production, this model treats people like interchang
 ### `Connected Notes`
 
 - [[Waterfall]]
-- [[DevOps Culture]]

@@ -13,9 +13,7 @@ They prioritize usability, multimedia, compatibility, and integration with Micro
 - **Editions Include:**
     
     - **Windows Home** – baseline consumer edition
-        
     - **Windows Pro** – adds business features (BitLocker, Remote Desktop, Hyper-V)
-        
     - **Windows Education** – customized licensing & features for academic environments
     
 - **Strong Backward Compatibility**  

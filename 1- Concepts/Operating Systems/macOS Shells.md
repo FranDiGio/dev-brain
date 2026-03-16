@@ -12,7 +12,6 @@
 - **Commonly Encountered Shells**
     
     - **`zsh`** — default user shell since macOS Catalina
-        
     - **`bash`** — available but shipped in an older version
     
 - **Developer-Oriented Defaults**  

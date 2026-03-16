@@ -13,9 +13,7 @@
     Functions can typically access:
     
     - their own local identifiers
-        
     - parameters passed into them
-        
     - identifiers from enclosing scopes (depending on language rules)
     
 - **Lifetime Tied to Execution**  

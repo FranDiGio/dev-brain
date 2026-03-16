@@ -36,8 +36,7 @@ Created at Google, it extends DevOps principles by emphasizing **automation, rel
     
 - **Skill gap** → True SREs need both ops experience and strong software engineering backgrounds, which are rare to find.
 
-
 ---
 ## `Connected Notes`
 
-[[DevOps Culture]]
+- [[DevOps Culture]]

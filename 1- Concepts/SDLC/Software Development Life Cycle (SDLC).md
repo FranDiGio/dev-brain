@@ -17,11 +17,8 @@
 - **Models (Implementations):**
     
     - **Waterfall** – Sequential and plan-driven.
-        
     - **Agile** – Iterative and adaptive.
-        
     - **Spiral** – Risk-driven and cyclic.
-        
     - **DevOps** – Continuous delivery and integration-oriented.
     
 - **Relation to Software Engineering:**  

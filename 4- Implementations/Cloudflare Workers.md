@@ -62,4 +62,4 @@ wrangler deploy
 ---
 ### `Connected Notes`
 
-- [[Function as a Service (FaaS)]]
+- [[Function-as-a-Service (FaaS)]]

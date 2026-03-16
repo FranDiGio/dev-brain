@@ -21,11 +21,8 @@
 - **Common Environment Types:**
     
     - **Development:** Active coding and experimentation
-        
     - **Testing / QA:** Validation and verification
-        
     - **Staging:** Production-like environment for final checks
-        
     - **Production:** Live environment used by real users
     
 - **Consistency Goal:**  

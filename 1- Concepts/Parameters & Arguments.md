@@ -10,7 +10,6 @@
 - **Declaration vs Invocation**
     
     - _Parameters_ belong to the function definition.
-        
     - _Arguments_ belong to the function call.
     
 - **Interface of a Function**  
