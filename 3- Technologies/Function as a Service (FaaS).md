@@ -26,13 +26,9 @@ It forms the **core compute layer of serverless architectures**, executing small
 - **Examples:**
     
     - AWS Lambda
-        
     - Azure Functions
-        
     - Google Cloud Functions
-        
     - Cloudflare Workers
-        
     - Firebase Cloud Functions
 
 ---
@@ -52,4 +48,8 @@ It forms the **core compute layer of serverless architectures**, executing small
 ### `Connected Notes`
 
 - [[Serverless Computing]]
-- [[Cloud Service Models]]
+- [[Platform-as-a-Service (PaaS)]]
+- [[AWS Lambda]]
+- [[Google Cloud Functions]] 
+- [[Azure Functions]]  
+- [[Cloudflare Workers]]

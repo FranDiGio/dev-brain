@@ -1,8 +1,6 @@
 ### `Definition`
 
-**Serverless computing** is a **cloud computing paradigm** where developers run code without managing servers or infrastructure.
-
-The cloud provider automatically provisions resources, scales on demand, and bills only for actual execution time.
+**Serverless computing** is a **cloud computing paradigm** where developers run code without managing servers or infrastructure. The cloud provider automatically provisions resources, scales on demand, and bills only for actual execution time.
 
 ---
 ### `Key Ideas`
@@ -26,3 +24,4 @@ The cloud provider automatically provisions resources, scales on demand, and bil
 ### `Connected Notes`
 
 - [[Function as a Service (FaaS)]]
+- [[Backend-as-a-Service (BaaS)]]

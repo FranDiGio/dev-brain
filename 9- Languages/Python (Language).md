@@ -59,10 +59,11 @@ It emphasizes a clear, expressive syntax and a “**batteries included**” stan
 ---
 ### `Connected Notes`
 
-- [[CPython]] — the reference Python interpreter (Implementation).
-- [[PEP 8]] — official style standard (Standard).
-- [[PEP 484]] — typing system specification (Standard).
-- [[Global Interpreter Lock (GIL)]] — core execution mechanism affecting threading (Mechanism).
-- [[The Python Standard Library]] — curated overview of key batteries (Technology).
-- [[Virtual Environments]] — isolation practice for Python projects (Practice).
-- [[PyPI (Python Package Index)]] — ecosystem distribution hub (Technology).
+- [[Python Runtime]]
+- [[Python Language Models]]
+- [[Python Concurrency]]
+- [[Python Packaging Ecosystem]]
+- [[Python Standard Library]]
+- [[Python Standards]]
+- [[Python Ecosystem]]
+- [[PEP 8]]

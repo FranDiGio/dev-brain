@@ -46,3 +46,4 @@ It abstracts the complexity of servers, networks, and storage, allowing develope
 ### `Connected Notes`
 
 - [[Cloud Service Models]]
+- [[Backend-as-a-Service (BaaS)]]

@@ -49,4 +49,4 @@ PEP 8 is organized around key style conventions, including:
 ---
 ### `Connected Notes`
 
-- [[Python]]
+- [[Python (Language)]]
