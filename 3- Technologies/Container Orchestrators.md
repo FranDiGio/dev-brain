@@ -40,7 +40,7 @@ They coordinate containerized workloads in distributed environments, making it p
 ---
 ### `Connected Notes`
 
-- [[Containerization]]
+- [[Containers]]
 - [[Kubernetes]]
 - [[Docker Swarm]]
 - [[Nomad]]

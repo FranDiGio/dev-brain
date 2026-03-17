@@ -38,7 +38,7 @@ They enable developers to package applications into containers, manage container
 ---
 ### `Connected Notes`
 
-- [[Containerization]]
+- [[Containers]]
 - [[Docker]]
 - [[Podman]]
 - [[containerd]]

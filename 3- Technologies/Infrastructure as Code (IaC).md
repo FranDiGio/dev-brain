@@ -32,5 +32,5 @@
 ### `Connected Notes`
 
 - [[Infrastructure]]
-- [[Containerization]]
+- [[Containers]]
 - [[CI-CD Pipelines]]

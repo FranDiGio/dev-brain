@@ -66,4 +66,3 @@ It emphasizes a clear, expressive syntax and a “**batteries included**” stan
 - [[Python Standard Library]]
 - [[Python Standards]]
 - [[Python Ecosystem]]
-- [[PEP 8]]

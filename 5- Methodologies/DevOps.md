@@ -33,5 +33,5 @@ It extends Agile principles across the entire lifecycle — from code to deploym
 
 - [[DevOps Culture]]
 - [[Microservices Architecture]]
-- [[Containerization]]
+- [[Containers]]
 - [[CI-CD Pipelines]]
