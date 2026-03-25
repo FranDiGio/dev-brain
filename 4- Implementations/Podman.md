@@ -28,9 +28,7 @@ Podman is commonly used in **Linux and enterprise environments**, particularly w
 **Basic workflow:**
 
 1. Pull or build a container image
-    
 2. Run the container using Podman
-    
 3. Manage the container lifecycle through CLI commands
 
 **Pull an image:**
@@ -55,13 +53,9 @@ podman ps
 ### `Challenges`
 
 - Smaller ecosystem compared to Docker
-    
 - Some Docker-specific tooling may not be fully compatible
-    
 - Requires familiarity with **Linux container environments**
-    
 - Enterprise-focused documentation can make onboarding harder
-    
 - Certain workflows still assume Docker in CI/CD pipelines
 
 ---

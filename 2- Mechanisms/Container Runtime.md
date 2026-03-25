@@ -10,7 +10,7 @@ The runtime acts as the **execution layer of containerization**, translating con
 
 A container runtime operates by taking a **container image** and creating a runnable container instance from it.
 
-Typical operation involves:
+**Typical operation involves:**
 
 - Pulling or accessing a **container image**
 - Creating a container filesystem using the image layers
@@ -24,11 +24,11 @@ The runtime ensures that containers run as **isolated processes on the host syst
 ---
 ### `Why It Exists`
 
-Container runtimes exist to provide the **execution mechanism for containerized applications**.
+Container runtimes exist to provide the execution mechanism for containerized applications.
 
-They solve the challenge of running applications in **isolated environments while maintaining efficiency**, avoiding the overhead of full virtual machines.
+They solve the challenge of running applications in isolated environments while maintaining efficiency, avoiding the overhead of full virtual machines.
 
-This enables:
+**This enables:**
 
 - lightweight application isolation
 - efficient use of host system resources

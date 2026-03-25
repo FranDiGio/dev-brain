@@ -61,4 +61,4 @@ ctr containers list
 ---
 ### `Connected Notes`
 
-- [[Container Platforms]]
+- [[Container Runtime]]
