@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 273.5
   },
   "right": {
     "id": "5bf29ceefeac59d1",
@@ -179,6 +179,12 @@
   },
   "active": "a7f0cfdfa2894019",
   "lastOpenFiles": [
+    "2- Mechanisms/Kubernetes Deployment.md",
+    "2- Mechanisms/Kubernetes Pod.md",
+    "4- Implementations/Kubernetes.md",
+    "1- Concepts/Kubernetes Architecture.md",
+    "3- Technologies/Container Orchestrators.md",
+    "1- Concepts/Application Evolution.md",
     "11- Cheatsheets/Linux Commands Ref.md",
     "11- Cheatsheets/Docket Concepts Ref.md",
     "4- Implementations/Podman.md",
@@ -199,12 +205,6 @@
     "2- Mechanisms/Python Execution Model.md",
     "12- Templates/10- Standard Template.md",
     "1- Concepts/Python Standards.md",
-    "10- Standards/PEP System.md",
-    "4- Implementations/MicroPython.md",
-    "4- Implementations/CPython.md",
-    "4- Implementations/PyPy.md",
-    "3- Technologies/Python Runtime.md",
-    "13- Vault Metadata/Vault Taxonomy.md",
     "1- Concepts/Database",
     "Untitled.canvas",
     "10- Standards/Linux Package Formats",

@@ -9,19 +9,12 @@ It is designed to run distributed container workloads reliably in production, pr
 ### `Key Capabilities`
 
 - Automates **container scheduling** across cluster nodes
-    
 - Supports **scaling** of containerized applications
-    
 - Provides **self-healing** through restarts and rescheduling
-    
 - Enables **service discovery and load balancing**
-    
 - Supports **rolling updates and rollbacks**
-    
 - Manages application deployments through **declarative configuration**
-    
 - Works with container runtimes to execute containers
-    
 - Supports orchestration of **microservices-based architectures**
 
 ---
@@ -68,18 +61,16 @@ kubectl apply -f deployment.yaml
 ### `Challenges`
 
 - Has a **steep learning curve**
-    
 - Includes many abstractions and components that increase complexity
-    
 - Debugging distributed workloads can be difficult
-    
 - Requires understanding of **networking, storage, and cluster operations**
-    
 - Can be excessive for small or simple deployments
-    
 - Operational overhead increases without managed Kubernetes services
 
 ---
 ### `Connected Notes`
 
 - [[Container Orchestrators]]
+- [[Kubernetes Architecture]]
+- [[Kubernetes Pod]]
+- [[Kubernetes Deployment]]
