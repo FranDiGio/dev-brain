@@ -16,6 +16,10 @@
     Serverless is the _conceptual paradigm_ — **Function as a Service (FaaS)** is the _technical model_ that realizes it (e.g., AWS Lambda, Firebase Cloud Functions).
 
 ---
+
+![[Serverless Responsibility Model.png]]
+
+---
 ### `Connected Notes`
 
 - [[Function-as-a-Service (FaaS)]]
