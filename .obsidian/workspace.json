@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 214.5
   },
   "right": {
     "id": "5bf29ceefeac59d1",
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +179,17 @@
   },
   "active": "a7f0cfdfa2894019",
   "lastOpenFiles": [
+    "9- Languages/Python (Language).md",
+    "13- Vault Metadata/Vault Structure.md",
+    "13- Vault Metadata/Vault Taxonomy.md",
+    "3- Technologies/Language Package Managers.md",
+    "7- Practices/Microservices Anti-Patterns.md",
+    "12- Templates/7- Practice Template.md",
+    "12- Templates/10- Standard Template.md",
+    "1- Concepts/Design for Failure.md",
+    "1- Concepts/Architectural Patterns.md",
+    "1- Concepts/Serverless Computing.md",
+    "5- Methodologies/Twelve-Factor App.md",
     "3- Technologies/API Gateways.md",
     "3- Technologies/Load Balancers.md",
     "3- Technologies/Proxies.md",
@@ -196,17 +207,6 @@
     "5- Methodologies/Canary Deployment.md",
     "5- Methodologies/Blue-Green Deployment.md",
     "Blue",
-    "5- Methodologies/Rolling Deployment.md",
-    "5- Methodologies/Recreate Deployment.md",
-    "1- Concepts/Actionable Metrics.md",
-    "12- Templates/5- Methodology Template.md",
-    "1- Concepts/Database/Databases.md",
-    "1- Concepts/Documentation/C4 Model.md",
-    "7- Practices/Kubernetes Anti-Patterns.md",
-    "2- Mechanisms/Kubernetes/Kubernetes Ingress.md",
-    "12- Templates/7- Practice Template.md",
-    "2- Mechanisms/Database/Execution Engine.md",
-    "2- Mechanisms/Firewall.md",
     "2- Mechanisms/Messages",
     "2- Mechanisms/OS",
     "2- Mechanisms/Database",

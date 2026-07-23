@@ -5,13 +5,9 @@ Architectural styles describe the fundamental ways software systems can be struc
 ### `Key Ideas`
 
 - Provide high-level blueprints for organizing applications.
-    
 - Define communication patterns, modularity, and separation of concerns.
-    
 - Influence scalability, maintainability, performance, and fault tolerance.
-    
 - Examples include monolithic, layered, component-based, SOA, and microservices architectures.
-    
 - A system architecture often combines multiple styles.
 
 ---
