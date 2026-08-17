@@ -22,10 +22,10 @@ Unlike general-purpose operating systems, an Embedded OS is typically **tightly 
     Typically lacks a desktop GUI; interaction may be via LEDs, buttons, serial consoles, or network APIs.
     
 - **Long Lifecycle & Stability**  
-    Systems are expected to run **continuously for years** with minimal updates or downtime.
+	Systems are expected to run **continuously for years** with minimal updates or downtime.
     
 - **Configurable Footprint**  
-    The OS is commonly **tailored at build time**, including only the components required for the target device.
+    - The OS is commonly **tailored at build time**, including only the components required for the target device.
 
 ---
 ### `Use Cases`

@@ -17,13 +17,9 @@ Block storage splits data into uniform-sized blocks and stores them separately. 
 - **Examples:**
     
     - **AWS EBS (Elastic Block Store)**
-        
     - **Azure Managed Disks**
-        
     - **Google Persistent Disks**
-        
     - **Local SSDs** attached to compute nodes
-        
     - Enterprise **SAN (Storage Area Network)** setups
 
 ---

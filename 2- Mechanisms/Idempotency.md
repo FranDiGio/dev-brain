@@ -1,7 +1,5 @@
 
-**Idempotency** is the property where **performing the same operation multiple times produces the same result as performing it once**.
-
-It allows systems to safely handle **duplicate messages or repeated requests** without causing unintended side effects.
+**Idempotency** is the property where **performing the same operation multiple times produces the same result as performing it once**. It allows systems to safely handle **duplicate messages or repeated requests** without causing unintended side effects.
 
 ---
 ### `Key Ideas`
@@ -16,7 +14,6 @@ It allows systems to safely handle **duplicate messages or repeated requests** w
     Idempotency is usually enforced by checking existing state before applying changes.
     
 - **Common Strategies**
-    
     - Unique request or message IDs
     - Deduplication tables or caches
     - Version checks or optimistic locking

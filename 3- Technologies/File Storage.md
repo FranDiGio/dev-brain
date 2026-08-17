@@ -17,11 +17,8 @@ File storage organizes data in a hierarchical structure of files and folders, mu
 - **Examples:**
     
     - **AWS EFS (Elastic File System)**
-        
     - **Azure Files**
-        
     - **Google Filestore**
-        
     - Traditional **NAS (Network Attached Storage)** setups
 
 ---

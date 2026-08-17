@@ -11,7 +11,7 @@ A **Hypervisor** is a software or firmware layer that **creates and manages virt
     - **Type 1 (Bare Metal)** → Runs directly on the hardware. High performance and used in enterprise virtualization (e.g., VMware ESXi, Microsoft Hyper-V, Xen).
         
     - **Type 2 (Hosted)** → Runs on top of an existing OS (e.g., VirtualBox, VMware Workstation). Easier to use but less efficient.
-        
+    
 - **Security isolation** → Prevents VMs from accessing each other’s data or processes.
     
 - **Core enabler** → The foundation of virtual machines and cloud infrastructure.
