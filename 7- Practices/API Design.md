@@ -45,5 +45,4 @@ It involves decisions around structure, behaviour, naming, scalability, and how 
 - [[Versioning]]
 - [[Pagination]]
 - [[Rate Limiting]]
-- [[Idempotency]]
 - [[API Naming Conventions]]

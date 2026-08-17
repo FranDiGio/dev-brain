@@ -26,4 +26,3 @@ It specifies how functionality or data can be requested, exchanged, and consumed
 - [[API Design]]
 - [[API Security]]
 - [[API Documentation]]
-- [[API Infrastructure]]

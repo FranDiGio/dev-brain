@@ -20,49 +20,20 @@
             }
           },
           {
-            "id": "616522477f926ea2",
+            "id": "500c2b4ec5d37a92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Concepts/API/API Styles.md",
+                "file": "1- Concepts/API/API Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API Styles"
-            }
-          },
-          {
-            "id": "ccb7c566c908c4c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Concepts/API/API.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "API"
-            }
-          },
-          {
-            "id": "e3318ae1ac58c450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "API Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "API Design"
+              "title": "API Documentation"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +191,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3318ae1ac58c450",
+  "active": "1a0898386f26b1b6",
   "lastOpenFiles": [
-    "1- Concepts/API/API Communication.md",
+    "1- Concepts/API/API Documentation.md",
+    "1- Concepts/API/API Security.md",
+    "7- Practices/API Design.md",
     "1- Concepts/API/API.md",
+    "2- Mechanisms/Idempotency.md",
+    "Authorization.md",
+    "1- Concepts/API/API Communication.md",
     "1- Concepts/API/API Styles.md",
     "2- Mechanisms/Git/Clone.md",
     "2- Mechanisms/Git/Branching.md",
@@ -243,11 +219,6 @@
     "3- Technologies/BusyBox.md",
     "3- Technologies/CI-CD Pipelines.md",
     "3- Technologies/CLI Database Clients.md",
-    "3- Technologies/Cloud IAM.md",
-    "3- Technologies/Cloud-Native Storage.md",
-    "3- Technologies/Community Cloud.md",
-    "3- Technologies/Compiler.md",
-    "3- Technologies/Container Orchestrators.md",
     "1- Concepts/API",
     "13- Vault Metadata/Images/Serverless Responsibility Model.png",
     "A",
